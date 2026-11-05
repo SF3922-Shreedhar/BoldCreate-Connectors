@@ -75,6 +75,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `august-digital-twins` | [august](third_party/august-digital-twins/) | Analytics | Understand your users with august Digital Twins. |
 | `aurora` | [Aurora](third_party/aurora/) | Legal | Search your Consilio matters, docs, and more. |
 | `autodesk-help` | [Autodesk Product Help](third_party/autodesk-help/) | Design | Securely access Autodesk's help documentation. |
+| `autonomad` | [AUTONOMAD](third_party/autonomad/) | Travel | Flights, hotels and tours booked in one payment, and changed when plans change, all from Claude. |
 | `aws-knowledge` | [AWS Knowledge](third_party/aws-knowledge/) | Documentation | Search AWS documentation, API references, and regional availability. |
 | `aws-marketplace` | [AWS Marketplace](third_party/aws-marketplace/) | Productivity | Discover, evaluate, and buy solutions for the cloud. |
 | `aws-mcp` | [AWS MCP](third_party/aws-mcp/) | Developer Tools | Give agents secure access to AWS via MCP. |
@@ -398,6 +399,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `kepler` | [Kepler](third_party/kepler/) | Finance | Connect your Kepler account for sourced financial analysis and model building. |
 | `ketryx` | [Ketryx](third_party/ketryx/) | Productivity | Search and explore regulated software lifecycle data. |
 | `kick-co` | [Kick](third_party/kick-co/) | Finance | Search, categorize, edit, and report in Kick. |
+| `kindora-funder-discovery` | [Kindora Funder Discovery](third_party/kindora-funder-discovery/) | Data | Find funders who support causes like yours. |
 | `kit` | [Kit](third_party/kit/) | Analytics | Search, analyze, draft, and manage your email marketing. |
 | `kiwi-com` | [Kiwi.com](third_party/kiwi-com/) | Productivity | Search flights in Claude. |
 | `klaviyo` | [Klaviyo](third_party/klaviyo/) | Analytics | Report, strategize & create with real-time Klaviyo data. |
@@ -563,6 +565,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `phished` | [Phished](third_party/phished/) | Developer Tools | Phished's entire ZIR app at your fingertips directly in Claude. |
 | `phoenix-by-hg-insights` | [Phoenix by HG Insights](third_party/phoenix-by-hg-insights/) | Analytics | AI-powered B2B data intelligence & analytics. |
 | `pi-security` | [Pi Security](third_party/pi-security/) | Developer Tools | Agentic product security platform. |
+| `picpay` | [PicPay](third_party/picpay/) | Finance | PicPay. Seu próximo banco. |
 | `pine-labs-payments-assista` | [Pine Labs Payments Assistant](third_party/pine-labs-payments-assista/) | Finance | Query your Pine Labs payments data in plain language — orders, transactions, settlements, subscriptions and success rates, plus integration help for developers. |
 | `pinegap` | [Pinegap](third_party/pinegap/) | Finance | AI-powered Equity Research Platform. |
 | `pipedrive` | [Pipedrive](third_party/pipedrive/) | Analytics | Find deals, update records, manage activities and work with your live CRM data using natural language. |
