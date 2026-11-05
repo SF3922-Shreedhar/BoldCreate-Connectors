@@ -37,7 +37,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Logo
 
-Zoho CRM mark from [Simple Icons](https://simpleicons.org) (CC0) in brand colour #E42527, on a padded white tile. The mark is a trademark of its owner.
+Icon downloaded from the Claude connector directory listing for Zoho CRM. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

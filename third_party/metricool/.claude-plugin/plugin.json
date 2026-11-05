@@ -14,7 +14,7 @@
     "marketing",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "metricool": {
       "type": "http",

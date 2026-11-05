@@ -37,7 +37,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Logo
 
-Trimble SketchUp mark from [Simple Icons](https://simpleicons.org) (CC0) in brand colour #0063A3, on a padded white tile. The mark is a trademark of its owner.
+Icon downloaded from the Claude connector directory listing for Trimble SketchUp. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

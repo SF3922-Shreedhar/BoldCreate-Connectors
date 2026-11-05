@@ -37,7 +37,7 @@ Exa recommends OAuth. It also accepts an API key, which this plugin does not use
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon downloaded from the Claude connector directory listing for Exa. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

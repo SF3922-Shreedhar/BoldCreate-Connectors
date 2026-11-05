@@ -37,7 +37,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Logo
 
-Neutral tile with the product's initials.}
+Icon downloaded from the Claude connector directory listing for Within. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

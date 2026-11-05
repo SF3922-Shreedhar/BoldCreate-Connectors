@@ -12,7 +12,7 @@
   "homepage": "https://etherscan.io/",
   "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
   "license": "MIT",
-  "logo": "assets/logo.svg",
+  "logo": "assets/logo.png",
   "keywords": [
     "etherscan",
     "developer-tools",

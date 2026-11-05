@@ -14,7 +14,7 @@
     "design",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "heygen-hyperframes": {
       "type": "http",

@@ -14,7 +14,7 @@
     "finance",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "ibkr": {
       "type": "http",

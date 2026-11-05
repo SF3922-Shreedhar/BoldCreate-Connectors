@@ -12,7 +12,7 @@
   "homepage": "https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws",
   "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
   "license": "MIT",
-  "logo": "assets/logo.svg",
+  "logo": "assets/logo.png",
   "keywords": [
     "aws-mcp",
     "developer-tools",

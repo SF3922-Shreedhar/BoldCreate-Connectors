@@ -14,7 +14,7 @@
     "travel",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "travexp": {
       "type": "http",

@@ -14,7 +14,7 @@
     "legal",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "linksquares": {
       "type": "http",
