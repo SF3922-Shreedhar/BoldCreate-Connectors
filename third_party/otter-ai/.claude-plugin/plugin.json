@@ -1,0 +1,24 @@
+{
+  "name": "otter-ai",
+  "displayName": "Otter.ai",
+  "version": "0.7.1",
+  "description": "Unlock your meeting intelligence.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://otter.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "otter-ai",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "otter-ai": {
+      "type": "http",
+      "url": "https://mcp.otter.ai/mcp"
+    }
+  }
+}

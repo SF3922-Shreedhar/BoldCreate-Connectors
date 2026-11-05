@@ -1,0 +1,25 @@
+{
+  "name": "incident-io",
+  "displayName": "incident.io",
+  "version": "0.7.1",
+  "description": "Look up and manage incidents in incident.io.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://github.com/incident-io/skills",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "incident",
+    "on-call",
+    "response",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "incident-io": {
+      "type": "http",
+      "url": "https://mcp.incident.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "seamless",
+  "displayName": "Seamless",
+  "version": "0.7.1",
+  "description": "Find leads and automate outreach.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://seamless.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "seamless",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "seamless": {
+      "type": "http",
+      "url": "https://mcp.seamless.ai/mcp"
+    }
+  }
+}
