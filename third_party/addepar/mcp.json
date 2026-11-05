@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "addepar": {
+      "type": "http",
+      "url": "https://mcp.addepar.com/"
+    }
+  }
+}

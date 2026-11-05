@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "datacamp": {
+      "type": "http",
+      "url": "https://mcp.datacamp.com/v1/mcp"
+    }
+  }
+}

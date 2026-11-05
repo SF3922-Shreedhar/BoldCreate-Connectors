@@ -1,0 +1,24 @@
+{
+  "name": "webmcp-evaluator",
+  "displayName": "WebMCP Evaluator",
+  "version": "0.7.1",
+  "description": "Get an actionable, detailed review and build plan for making any public page ready for AI agents, based on your content, not generalized advice.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.sunbusinessgroup.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "webmcp-evaluator",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "webmcp-evaluator": {
+      "type": "http",
+      "url": "https://mcp.webmcp-eval.com/mcp"
+    }
+  }
+}

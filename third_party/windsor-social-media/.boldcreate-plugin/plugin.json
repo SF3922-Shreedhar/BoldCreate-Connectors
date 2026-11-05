@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "windsor-social-media",
+  "displayName": "Windsor.ai for Social Media",
+  "version": "0.7.1",
+  "description": "Analyze and post organic social content across Instagram, Facebook, TikTok, YouTube, LinkedIn, and Google Business Profile.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://windsor.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "analytics",
+  "keywords": [
+    "windsor-social-media",
+    "analytics",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://windsor.ai/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "windsor-social-media",
+        "transport": "streamable-http",
+        "url": "https://mcp.windsor.ai/social_media",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

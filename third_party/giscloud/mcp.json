@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "giscloud": {
+      "type": "http",
+      "url": "https://mcp.giscloud.com/mcp"
+    }
+  }
+}

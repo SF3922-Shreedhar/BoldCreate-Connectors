@@ -1,0 +1,24 @@
+{
+  "name": "addepar",
+  "displayName": "Addepar MCP",
+  "version": "0.7.1",
+  "description": "Bring Addepar portfolio intelligence into Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://addepar.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "addepar",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "addepar": {
+      "type": "http",
+      "url": "https://mcp.addepar.com/"
+    }
+  }
+}

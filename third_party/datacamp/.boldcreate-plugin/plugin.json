@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "datacamp",
+  "displayName": "DataCamp",
+  "version": "0.7.1",
+  "description": "DataCamp catalog and team admin for your AI assistant.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.datacamp.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "education",
+  "keywords": [
+    "datacamp",
+    "education",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://www.datacamp.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "datacamp",
+        "transport": "streamable-http",
+        "url": "https://mcp.datacamp.com/v1/mcp",
+        "auth": {
+          "type": "none",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP initialize and tools/list on 2026-11-05: HTTP 200 with a tool list, no sign-in asked; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

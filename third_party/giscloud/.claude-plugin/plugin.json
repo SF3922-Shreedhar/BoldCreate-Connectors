@@ -1,0 +1,24 @@
+{
+  "name": "giscloud",
+  "displayName": "GIS Cloud",
+  "version": "0.7.1",
+  "description": "Run your entire GIS workflow in plain language: maps, data, analysis, field apps, and reports.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.giscloud.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "giscloud",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "giscloud": {
+      "type": "http",
+      "url": "https://mcp.giscloud.com/mcp"
+    }
+  }
+}

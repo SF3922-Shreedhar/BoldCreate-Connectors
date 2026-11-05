@@ -1,0 +1,24 @@
+{
+  "name": "squarespace",
+  "displayName": "Squarespace",
+  "version": "0.7.1",
+  "description": "Find a domain name for your next idea, and run your Squarespace store's orders, products and customers, all from Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.squarespace.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "squarespace",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "squarespace": {
+      "type": "http",
+      "url": "https://mcp.squarespace.com/mcp"
+    }
+  }
+}

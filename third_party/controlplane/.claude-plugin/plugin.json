@@ -1,0 +1,24 @@
+{
+  "name": "controlplane",
+  "displayName": "Control Plane",
+  "version": "0.7.1",
+  "description": "Deploy, scale, and debug cloud apps from one platform.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://controlplane.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "controlplane",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "controlplane": {
+      "type": "http",
+      "url": "https://mcp.cpln.io/mcp"
+    }
+  }
+}

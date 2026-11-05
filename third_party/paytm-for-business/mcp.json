@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paytm-for-business": {
+      "type": "http",
+      "url": "https://mcp.paytmpayments.com/mcp"
+    }
+  }
+}

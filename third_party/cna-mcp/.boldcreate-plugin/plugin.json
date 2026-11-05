@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "cna-mcp",
+  "displayName": "中央社新聞 CNA TAIWAN NEWS",
+  "version": "0.7.1",
+  "description": "把中央社可信新聞接進你的 AI｜Taiwan CNA news, sourced answers.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://ask.cna.com.tw/ask",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "analytics",
+  "keywords": [
+    "cna-mcp",
+    "analytics",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://ask.cna.com.tw/ask",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "cna-mcp",
+        "transport": "streamable-http",
+        "url": "https://ask.cna.com.tw/mcp/connect",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

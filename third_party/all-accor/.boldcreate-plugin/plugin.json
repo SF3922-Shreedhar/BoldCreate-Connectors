@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "all-accor",
+  "displayName": "ALL Accor",
+  "version": "0.7.1",
+  "description": "Search and book Accor hotels.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://all.accor.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "travel",
+  "keywords": [
+    "all-accor",
+    "travel",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://all.accor.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "all-accor",
+        "transport": "streamable-http",
+        "url": "https://mcp.dams.aws.accor.com/green/v1/mcp/apps",
+        "auth": {
+          "type": "none",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP initialize and tools/list on 2026-11-05: HTTP 200 with a tool list, no sign-in asked; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

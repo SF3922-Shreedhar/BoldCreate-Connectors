@@ -1,0 +1,24 @@
+{
+  "name": "cloze",
+  "displayName": "Cloze MCP",
+  "version": "0.7.1",
+  "description": "Cloze Relationship Management.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://cloze.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "cloze",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "cloze": {
+      "type": "http",
+      "url": "https://api.cloze.com/v1/mcp"
+    }
+  }
+}

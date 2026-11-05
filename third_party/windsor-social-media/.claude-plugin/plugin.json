@@ -1,0 +1,24 @@
+{
+  "name": "windsor-social-media",
+  "displayName": "Windsor.ai for Social Media",
+  "version": "0.7.1",
+  "description": "Analyze and post organic social content across Instagram, Facebook, TikTok, YouTube, LinkedIn, and Google Business Profile.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://windsor.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "windsor-social-media",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "windsor-social-media": {
+      "type": "http",
+      "url": "https://mcp.windsor.ai/social_media"
+    }
+  }
+}
