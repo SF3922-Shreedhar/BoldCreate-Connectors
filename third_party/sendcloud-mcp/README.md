@@ -31,11 +31,11 @@ The first time the agent calls a tool, each member signs in to Sendcloud in the 
 
 ## Docs
 
-- Sendcloud: https://sendcloud.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Sendcloud: https://sendcloud.com/
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon taken from the vendor's website (Sendcloud). It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

@@ -14,7 +14,7 @@
     "education",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "jotform": {
       "type": "http",

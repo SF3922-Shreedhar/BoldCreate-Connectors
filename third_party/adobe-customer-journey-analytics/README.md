@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Adobe Customer Journey Analytics: https://business.adobe.com/products/adobe-analytics/customer-journey-analytics.html (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Adobe Customer Journey Analytics: https://business.adobe.com/products/adobe-analytics/customer-journey-analytics.html
 
 ## Logo
 

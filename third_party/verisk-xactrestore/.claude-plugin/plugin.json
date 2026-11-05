@@ -14,7 +14,7 @@
     "finance",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "verisk-xactrestore": {
       "type": "http",

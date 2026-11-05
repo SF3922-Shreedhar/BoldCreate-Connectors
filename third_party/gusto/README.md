@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Gusto: https://gusto.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Gusto: https://gusto.com/
 
 ## Logo
 

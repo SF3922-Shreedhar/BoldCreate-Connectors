@@ -16,7 +16,7 @@
     "research",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "exa": {
       "type": "http",

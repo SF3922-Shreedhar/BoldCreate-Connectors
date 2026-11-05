@@ -39,7 +39,7 @@
       "version": "0.7.1",
       "description": "Gestiona todas las marcas de tu agencia desde Claude.",
       "source": "third_party/abency",
-      "logo": "third_party/abency/assets/logo.svg",
+      "logo": "third_party/abency/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -135,7 +135,7 @@
       "version": "0.7.1",
       "description": "Pharmaceutical drug & clinical trial intelligence.",
       "source": "third_party/adisinsight",
-      "logo": "third_party/adisinsight/assets/logo.svg",
+      "logo": "third_party/adisinsight/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -159,7 +159,7 @@
       "version": "0.7.1",
       "description": "ADITUS Evo translates the complexity of modern events into clear insights and makes data-driven decisions easier than ever.",
       "source": "third_party/aditus-evo",
-      "logo": "third_party/aditus-evo/assets/logo.svg",
+      "logo": "third_party/aditus-evo/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -279,7 +279,7 @@
       "version": "0.7.1",
       "description": "Manage planning, projects, tasks, and approvals.",
       "source": "third_party/adobe-workfront",
-      "logo": "third_party/adobe-workfront/assets/logo.svg",
+      "logo": "third_party/adobe-workfront/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -399,7 +399,7 @@
       "version": "0.7.1",
       "description": "Research any brand's live Facebook and TikTok ads, find your real competitors, and launch campaigns on Google, TikTok, and Meta from chat.",
       "source": "third_party/adwhispr-ads",
-      "logo": "third_party/adwhispr-ads/assets/logo.svg",
+      "logo": "third_party/adwhispr-ads/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -543,7 +543,7 @@
       "version": "0.7.1",
       "description": "Manage farm operations in AGRI: labor tasks, harvest, irrigation, inventory, purchasing and cost reports.",
       "source": "third_party/agri-mcp-tcit-cl",
-      "logo": "third_party/agri-mcp-tcit-cl/assets/logo.svg",
+      "logo": "third_party/agri-mcp-tcit-cl/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -567,7 +567,7 @@
       "version": "0.7.1",
       "description": "SEO & AI search analytics.",
       "source": "third_party/ahrefs",
-      "logo": "third_party/ahrefs/assets/logo.svg",
+      "logo": "third_party/ahrefs/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -687,7 +687,7 @@
       "version": "0.7.1",
       "description": "Integrate with the Airwallex Platform using Claude.",
       "source": "third_party/airwallex",
-      "logo": "third_party/airwallex/assets/logo.svg",
+      "logo": "third_party/airwallex/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -735,7 +735,7 @@
       "version": "0.7.1",
       "description": "Ask, analyze, act on FP&A data.",
       "source": "third_party/aleph",
-      "logo": "third_party/aleph/assets/logo.svg",
+      "logo": "third_party/aleph/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -1095,7 +1095,7 @@
       "version": "0.7.1",
       "description": "Aptus.AI NextOS in your assistant: what a law, regulation or court ruling provides on your point, with quotations and links to the full text on Aptus.AI.",
       "source": "third_party/aptus-ai-nextos",
-      "logo": "third_party/aptus-ai-nextos/assets/logo.svg",
+      "logo": "third_party/aptus-ai-nextos/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -1167,7 +1167,7 @@
       "version": "0.7.1",
       "description": "Search, analyze, and act on your recruiting data.",
       "source": "third_party/ashby",
-      "logo": "third_party/ashby/assets/logo.svg",
+      "logo": "third_party/ashby/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -1215,7 +1215,7 @@
       "version": "0.7.1",
       "description": "Query your live treasury data: accounts, balances, transactions, and forecasts—directly from Claude.",
       "source": "third_party/atlar",
-      "logo": "third_party/atlar/assets/logo.svg",
+      "logo": "third_party/atlar/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -1503,7 +1503,7 @@
       "version": "0.7.1",
       "description": "Give agents secure access to AWS via MCP.",
       "source": "third_party/aws-mcp",
-      "logo": "third_party/aws-mcp/assets/logo.svg",
+      "logo": "third_party/aws-mcp/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -1623,7 +1623,7 @@
       "version": "0.7.1",
       "description": "Connect your beehiiv workspace to draft, design, analyze, and more.",
       "source": "third_party/beehiiv",
-      "logo": "third_party/beehiiv/assets/logo.svg",
+      "logo": "third_party/beehiiv/assets/logo.png",
       "category": "design",
       "components": [
         "mcp"
@@ -1671,7 +1671,7 @@
       "version": "0.7.1",
       "description": "Financial news, SEC filings, earnings call transcripts, fundamentals, sentiment, market data and stock research for AI, with every answer cited. The sources that move markets.",
       "source": "third_party/bigdata-com",
-      "logo": "third_party/bigdata-com/assets/logo.svg",
+      "logo": "third_party/bigdata-com/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -1743,7 +1743,7 @@
       "version": "0.7.1",
       "description": "Finance answers, where you are.",
       "source": "third_party/bill",
-      "logo": "third_party/bill/assets/logo.svg",
+      "logo": "third_party/bill/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -1791,7 +1791,7 @@
       "version": "0.7.1",
       "description": "Search the BioRender library, find your files, and generate new scientific figures directly from Claude.",
       "source": "third_party/biorender",
-      "logo": "third_party/biorender/assets/logo.svg",
+      "logo": "third_party/biorender/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -1983,7 +1983,7 @@
       "version": "0.7.1",
       "description": "Let claude query any SQL Database or warehouse with accuracy, context, governance, and observability. BlazeSQL is a full BI Layer with visualizations, dashboards, scheduled reports, and more.",
       "source": "third_party/blaze-sql",
-      "logo": "third_party/blaze-sql/assets/logo.svg",
+      "logo": "third_party/blaze-sql/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -2007,7 +2007,7 @@
       "version": "0.7.1",
       "description": "Access and manage your Bling directly in Claude.",
       "source": "third_party/bling-mcp",
-      "logo": "third_party/bling-mcp/assets/logo.svg",
+      "logo": "third_party/bling-mcp/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -2103,7 +2103,7 @@
       "version": "0.7.1",
       "description": "Manage Bolna voice AI agents and review call history and transcripts from Claude.",
       "source": "third_party/bolna",
-      "logo": "third_party/bolna/assets/logo.svg",
+      "logo": "third_party/bolna/assets/logo.png",
       "category": "communication",
       "components": [
         "mcp"
@@ -2151,7 +2151,7 @@
       "version": "0.7.1",
       "description": "AI search visibility, from insight to action.",
       "source": "third_party/botify-mcp",
-      "logo": "third_party/botify-mcp/assets/logo.svg",
+      "logo": "third_party/botify-mcp/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -2295,7 +2295,7 @@
       "version": "0.7.1",
       "description": "Search and compare hotels with public and private wholesale rates.",
       "source": "third_party/brek-hotel-wholesale-booking",
-      "logo": "third_party/brek-hotel-wholesale-booking/assets/logo.svg",
+      "logo": "third_party/brek-hotel-wholesale-booking/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -2367,7 +2367,7 @@
       "version": "0.7.1",
       "description": "Manage Brightcove videos, players, live streams, analytics and more from Claude.",
       "source": "third_party/brightcove",
-      "logo": "third_party/brightcove/assets/logo.svg",
+      "logo": "third_party/brightcove/assets/logo.png",
       "category": "media",
       "components": [
         "mcp"
@@ -2391,7 +2391,7 @@
       "version": "0.7.1",
       "description": "Create presentations and slides, compatible with PowerPoint.",
       "source": "third_party/brightdeck",
-      "logo": "third_party/brightdeck/assets/logo.svg",
+      "logo": "third_party/brightdeck/assets/logo.png",
       "category": "design",
       "components": [
         "mcp"
@@ -2607,7 +2607,7 @@
       "version": "0.7.1",
       "description": "Search, create, autofill, and export Canva designs.",
       "source": "third_party/canva",
-      "logo": "third_party/canva/assets/logo.svg",
+      "logo": "third_party/canva/assets/logo.png",
       "category": "design",
       "components": [
         "mcp"
@@ -2775,7 +2775,7 @@
       "version": "0.7.1",
       "description": "Search contracts, track and start legal workflows, and ask Chamelio's AI legal agent.",
       "source": "third_party/chamelio",
-      "logo": "third_party/chamelio/assets/logo.svg",
+      "logo": "third_party/chamelio/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -2871,7 +2871,7 @@
       "version": "0.7.1",
       "description": "Task management and project tracking inside Slack.",
       "source": "third_party/chaser",
-      "logo": "third_party/chaser/assets/logo.svg",
+      "logo": "third_party/chaser/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -2919,7 +2919,7 @@
       "version": "0.7.1",
       "description": "Find trusted local tradespeople and book fixed-price jobs — without leaving Claude.",
       "source": "third_party/checkatrade",
-      "logo": "third_party/checkatrade/assets/logo.svg",
+      "logo": "third_party/checkatrade/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -3063,7 +3063,7 @@
       "version": "0.7.1",
       "description": "Search, plan, and book tours and activities worldwide with Civitatis.",
       "source": "third_party/civitatis",
-      "logo": "third_party/civitatis/assets/logo.svg",
+      "logo": "third_party/civitatis/assets/logo.png",
       "category": "travel",
       "components": [
         "mcp"
@@ -3159,7 +3159,7 @@
       "version": "0.7.1",
       "description": "Find prospects. Research accounts. Personalize outreach.",
       "source": "third_party/clay",
-      "logo": "third_party/clay/assets/logo.svg",
+      "logo": "third_party/clay/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -3183,7 +3183,7 @@
       "version": "0.7.1",
       "description": "Research and Analyze Stocks and Options.",
       "source": "third_party/clearstreet",
-      "logo": "third_party/clearstreet/assets/logo.svg",
+      "logo": "third_party/clearstreet/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -3231,7 +3231,7 @@
       "version": "0.7.1",
       "description": "AI-powered patent retrieval and analysis capabilities.",
       "source": "third_party/clerq-mcp",
-      "logo": "third_party/clerq-mcp/assets/logo.svg",
+      "logo": "third_party/clerq-mcp/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -3447,7 +3447,7 @@
       "version": "0.7.1",
       "description": "Bring Cloverleaf's personality insights into Claude to understand how you and your colleagues work together, and get coaching grounded in real assessment data, not generic advice.",
       "source": "third_party/cloverleaf",
-      "logo": "third_party/cloverleaf/assets/logo.svg",
+      "logo": "third_party/cloverleaf/assets/logo.png",
       "category": "communication",
       "components": [
         "mcp"
@@ -3543,7 +3543,7 @@
       "version": "0.7.1",
       "description": "Thomson Reuters CoCounsel Legal, in Claude.",
       "source": "third_party/cocounsel-legal",
-      "logo": "third_party/cocounsel-legal/assets/logo.svg",
+      "logo": "third_party/cocounsel-legal/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -3567,7 +3567,7 @@
       "version": "0.7.1",
       "description": "Build AI agents and automations by chatting.",
       "source": "third_party/codewords",
-      "logo": "third_party/codewords/assets/logo.svg",
+      "logo": "third_party/codewords/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -3759,7 +3759,7 @@
       "version": "0.7.1",
       "description": "Add real-time chat, voice, and video to your app.",
       "source": "third_party/cometchat",
-      "logo": "third_party/cometchat/assets/logo.svg",
+      "logo": "third_party/cometchat/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -3951,7 +3951,7 @@
       "version": "0.7.1",
       "description": "Pull up-to-date, version-specific library docs and code examples into the prompt.",
       "source": "third_party/context7",
-      "logo": "third_party/context7/assets/logo.svg",
+      "logo": "third_party/context7/assets/logo.png",
       "category": "documentation",
       "components": [
         "mcp"
@@ -4071,7 +4071,7 @@
       "version": "0.7.1",
       "description": "Trusted Regulatory Answers, by Clarivate Cortellis.",
       "source": "third_party/cortellis",
-      "logo": "third_party/cortellis/assets/logo.svg",
+      "logo": "third_party/cortellis/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -4095,7 +4095,7 @@
       "version": "0.7.1",
       "description": "Trusted regulatory CMC insights, powered by Clarivate’s Cortellis CMC Intelligence.",
       "source": "third_party/cortellis-cmc",
-      "logo": "third_party/cortellis-cmc/assets/logo.svg",
+      "logo": "third_party/cortellis-cmc/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -4119,7 +4119,7 @@
       "version": "0.7.1",
       "description": "Access Cotality’s property and location intelligence.",
       "source": "third_party/cotality-mcp-server",
-      "logo": "third_party/cotality-mcp-server/assets/logo.svg",
+      "logo": "third_party/cotality-mcp-server/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -4167,7 +4167,7 @@
       "version": "0.7.1",
       "description": "Access business data from hundreds of sources.",
       "source": "third_party/coupler-io",
-      "logo": "third_party/coupler-io/assets/logo.svg",
+      "logo": "third_party/coupler-io/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -4359,7 +4359,7 @@
       "version": "0.7.1",
       "description": "Search and enrich B2B company and people data.",
       "source": "third_party/crustdata",
-      "logo": "third_party/crustdata/assets/logo.svg",
+      "logo": "third_party/crustdata/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -4431,7 +4431,7 @@
       "version": "0.7.1",
       "description": "Discover the Right Audiences Faster.",
       "source": "third_party/d-b-digital-audiences",
-      "logo": "third_party/d-b-digital-audiences/assets/logo.svg",
+      "logo": "third_party/d-b-digital-audiences/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -4455,7 +4455,7 @@
       "version": "0.7.1",
       "description": "Access trusted D&B intelligence, contacts, and signals to uncover opportunities and take the next best action.",
       "source": "third_party/d-b-hoovers",
-      "logo": "third_party/d-b-hoovers/assets/logo.svg",
+      "logo": "third_party/d-b-hoovers/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -4551,7 +4551,7 @@
       "version": "0.7.1",
       "description": "Financial fundamental data and KPIs with hyperlinks.",
       "source": "third_party/daloopa",
-      "logo": "third_party/daloopa/assets/logo.svg",
+      "logo": "third_party/daloopa/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -4623,7 +4623,7 @@
       "version": "0.7.1",
       "description": "Governed data work for business teams, right in Claude.",
       "source": "third_party/datagpt-prophecy",
-      "logo": "third_party/datagpt-prophecy/assets/logo.svg",
+      "logo": "third_party/datagpt-prophecy/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -4671,7 +4671,7 @@
       "version": "0.7.1",
       "description": "Query and analyze your company's consolidated financial data from Datarails FinanceOS.",
       "source": "third_party/datarails",
-      "logo": "third_party/datarails/assets/logo.svg",
+      "logo": "third_party/datarails/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -4767,7 +4767,7 @@
       "version": "0.7.0",
       "description": "Ask questions about any public GitHub repository and read its generated wiki.",
       "source": "third_party/deepwiki",
-      "logo": "third_party/deepwiki/assets/logo.svg",
+      "logo": "third_party/deepwiki/assets/logo.png",
       "category": "documentation",
       "components": [
         "mcp"
@@ -5079,7 +5079,7 @@
       "version": "0.7.1",
       "description": "Get feedback on anything you build in Claude.",
       "source": "third_party/dot",
-      "logo": "third_party/dot/assets/logo.svg",
+      "logo": "third_party/dot/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -5223,7 +5223,7 @@
       "version": "0.7.1",
       "description": "Design antibiotics and prioritise vaccine targets against drug-resistant pathogens using EDEN, Basecamp Research's biological foundation model.",
       "source": "third_party/eden-by-basecamp-research",
-      "logo": "third_party/eden-by-basecamp-research/assets/logo.svg",
+      "logo": "third_party/eden-by-basecamp-research/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -5343,7 +5343,7 @@
       "version": "0.7.1",
       "description": "Search and analyze scientific papers.",
       "source": "third_party/elicit",
-      "logo": "third_party/elicit/assets/logo.svg",
+      "logo": "third_party/elicit/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -5415,7 +5415,7 @@
       "version": "0.7.1",
       "description": "Manage accounting and reporting with agents.",
       "source": "third_party/entendre",
-      "logo": "third_party/entendre/assets/logo.svg",
+      "logo": "third_party/entendre/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -5511,7 +5511,7 @@
       "version": "0.7.1",
       "description": "Explore wallets, tokens, transactions, contracts, logs, blocks, and gas across 60+ EVM chains with Etherscan.",
       "source": "third_party/etherscan",
-      "logo": "third_party/etherscan/assets/logo.svg",
+      "logo": "third_party/etherscan/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -5631,7 +5631,7 @@
       "version": "0.7.1",
       "description": "Search the web and fetch page content with Exa.",
       "source": "third_party/exa",
-      "logo": "third_party/exa/assets/logo.svg",
+      "logo": "third_party/exa/assets/logo.png",
       "category": "search",
       "components": [
         "mcp"
@@ -5727,7 +5727,7 @@
       "version": "0.7.1",
       "description": "Access institutional-quality financial data and analytics.",
       "source": "third_party/factset",
-      "logo": "third_party/factset/assets/logo.svg",
+      "logo": "third_party/factset/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -5799,7 +5799,7 @@
       "version": "0.7.1",
       "description": "Send and receive faxes securely from Claude.",
       "source": "third_party/fax-plus",
-      "logo": "third_party/fax-plus/assets/logo.svg",
+      "logo": "third_party/fax-plus/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -6063,7 +6063,7 @@
       "version": "0.7.1",
       "description": "Analyze and generate insights from meeting transcripts.",
       "source": "third_party/fireflies",
-      "logo": "third_party/fireflies/assets/logo.svg",
+      "logo": "third_party/fireflies/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -6207,7 +6207,7 @@
       "version": "0.7.1",
       "description": "Find, create, update, share, embed, and get analytics for the flipbooks in your Flipsnack account.",
       "source": "third_party/flipsnack",
-      "logo": "third_party/flipsnack/assets/logo.svg",
+      "logo": "third_party/flipsnack/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -6303,7 +6303,7 @@
       "version": "0.7.1",
       "description": "Comprehensive financial market data.",
       "source": "third_party/fmp",
-      "logo": "third_party/fmp/assets/logo.svg",
+      "logo": "third_party/fmp/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -6351,7 +6351,7 @@
       "version": "0.7.1",
       "description": "freeeの各種プロダクトへのデータ下書作成、自動登録、登録済みデータの分析 / Draft, register, and analyze data across freee products.",
       "source": "third_party/freee",
-      "logo": "third_party/freee/assets/logo.svg",
+      "logo": "third_party/freee/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -6615,7 +6615,7 @@
       "version": "0.7.1",
       "description": "Run your entire GIS workflow in plain language: maps, data, analysis, field apps, and reports.",
       "source": "third_party/giscloud",
-      "logo": "third_party/giscloud/assets/logo.svg",
+      "logo": "third_party/giscloud/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -6735,7 +6735,7 @@
       "version": "0.7.1",
       "description": "Expert intelligence, instantly in your workflow.",
       "source": "third_party/glg",
-      "logo": "third_party/glg/assets/logo.svg",
+      "logo": "third_party/glg/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -6831,7 +6831,7 @@
       "version": "0.7.1",
       "description": "Turn AI insights into documents.",
       "source": "third_party/goodnotes",
-      "logo": "third_party/goodnotes/assets/logo.svg",
+      "logo": "third_party/goodnotes/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -7647,7 +7647,7 @@
       "version": "0.7.1",
       "description": "Build and manage GrowSurf referral and affiliate programs with Claude.",
       "source": "third_party/growsurf",
-      "logo": "third_party/growsurf/assets/logo.svg",
+      "logo": "third_party/growsurf/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -7767,7 +7767,7 @@
       "version": "0.7.1",
       "description": "Full trademark clearance search, direct in Claude.",
       "source": "third_party/haloo-trademark-clearance",
-      "logo": "third_party/haloo-trademark-clearance/assets/logo.svg",
+      "logo": "third_party/haloo-trademark-clearance/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -7791,7 +7791,7 @@
       "version": "0.7.1",
       "description": "Run your investment firm in real-time with access to portfolio, accounting, performance and LP data.",
       "source": "third_party/hanover-park",
-      "logo": "third_party/hanover-park/assets/logo.svg",
+      "logo": "third_party/hanover-park/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -7839,7 +7839,7 @@
       "version": "0.7.1",
       "description": "Build, Ship and Secure your apps on Harness Platform.",
       "source": "third_party/harness",
-      "logo": "third_party/harness/assets/logo.svg",
+      "logo": "third_party/harness/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -7863,7 +7863,7 @@
       "version": "0.7.1",
       "description": "Answer legal queries, search vaults, and research.",
       "source": "third_party/harvey",
-      "logo": "third_party/harvey/assets/logo.svg",
+      "logo": "third_party/harvey/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -7959,7 +7959,7 @@
       "version": "0.7.1",
       "description": "Access your Helium 10 data directly in Claude.",
       "source": "third_party/helium-10",
-      "logo": "third_party/helium-10/assets/logo.svg",
+      "logo": "third_party/helium-10/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -7983,7 +7983,7 @@
       "version": "0.7.1",
       "description": "Build animated slides and motion graphics with HTML.",
       "source": "third_party/heygen-hyperframes",
-      "logo": "third_party/heygen-hyperframes/assets/logo.svg",
+      "logo": "third_party/heygen-hyperframes/assets/logo.png",
       "category": "design",
       "components": [
         "mcp"
@@ -8103,7 +8103,7 @@
       "version": "0.7.1",
       "description": "AI-ready workforce insights.",
       "source": "third_party/hubstaff",
-      "logo": "third_party/hubstaff/assets/logo.svg",
+      "logo": "third_party/hubstaff/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -8199,7 +8199,7 @@
       "version": "0.7.1",
       "description": "Trade, invest, analyze, and manage global markets.",
       "source": "third_party/ibkr",
-      "logo": "third_party/ibkr/assets/logo.svg",
+      "logo": "third_party/ibkr/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -8247,7 +8247,7 @@
       "version": "0.7.1",
       "description": "Search, manage, and update your Ideals project from Claude.",
       "source": "third_party/ideals",
-      "logo": "third_party/ideals/assets/logo.svg",
+      "logo": "third_party/ideals/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -8727,7 +8727,7 @@
       "version": "0.7.1",
       "description": "Agentic certification for the industrial economy.",
       "source": "third_party/isometric",
-      "logo": "third_party/isometric/assets/logo.svg",
+      "logo": "third_party/isometric/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -8847,7 +8847,7 @@
       "version": "0.7.1",
       "description": "Governed, live business context for you and your agents - so they reason and act on your organization’s trusted data, definitions, and knowledge.",
       "source": "third_party/jedify",
-      "logo": "third_party/jedify/assets/logo.svg",
+      "logo": "third_party/jedify/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -8895,7 +8895,7 @@
       "version": "0.7.1",
       "description": "Create forms, surveys, quizzes & analyze submissions.",
       "source": "third_party/jotform",
-      "logo": "third_party/jotform/assets/logo.svg",
+      "logo": "third_party/jotform/assets/logo.png",
       "category": "education",
       "components": [
         "mcp"
@@ -9015,7 +9015,7 @@
       "version": "0.7.1",
       "description": "Query & work with contracts effortlessly throughout the lifecycle to agree contracts faster.",
       "source": "third_party/juro-contracts",
-      "logo": "third_party/juro-contracts/assets/logo.svg",
+      "logo": "third_party/juro-contracts/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -9087,7 +9087,7 @@
       "version": "0.7.1",
       "description": "Build and grow your Kajabi business with Claude.",
       "source": "third_party/kajabi",
-      "logo": "third_party/kajabi/assets/logo.svg",
+      "logo": "third_party/kajabi/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -9207,7 +9207,7 @@
       "version": "0.7.1",
       "description": "Find funders who support causes like yours.",
       "source": "third_party/kindora-funder-discovery",
-      "logo": "third_party/kindora-funder-discovery/assets/logo.svg",
+      "logo": "third_party/kindora-funder-discovery/assets/logo.png",
       "category": "data",
       "components": [
         "mcp"
@@ -9255,7 +9255,7 @@
       "version": "0.7.1",
       "description": "Search flights in Claude.",
       "source": "third_party/kiwi-com",
-      "logo": "third_party/kiwi-com/assets/logo.svg",
+      "logo": "third_party/kiwi-com/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -9279,7 +9279,7 @@
       "version": "0.7.1",
       "description": "Report, strategize & create with real-time Klaviyo data.",
       "source": "third_party/klaviyo",
-      "logo": "third_party/klaviyo/assets/logo.svg",
+      "logo": "third_party/klaviyo/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -9447,7 +9447,7 @@
       "version": "0.7.1",
       "description": "Lattice, wherever you work.",
       "source": "third_party/lattice",
-      "logo": "third_party/lattice/assets/logo.svg",
+      "logo": "third_party/lattice/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -9519,7 +9519,7 @@
       "version": "0.7.1",
       "description": "Efficiently work with your legal matters and documents from within Claude.",
       "source": "third_party/lawy",
-      "logo": "third_party/lawy/assets/logo.svg",
+      "logo": "third_party/lawy/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -9639,7 +9639,7 @@
       "version": "0.7.1",
       "description": "Ask legal questions and get grounded answers with citations.",
       "source": "third_party/legora",
-      "logo": "third_party/legora/assets/logo.svg",
+      "logo": "third_party/legora/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -9735,7 +9735,7 @@
       "version": "0.7.1",
       "description": "High-quality translation with human verification.",
       "source": "third_party/lilt",
-      "logo": "third_party/lilt/assets/logo.svg",
+      "logo": "third_party/lilt/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -9807,7 +9807,7 @@
       "version": "0.7.1",
       "description": "Automate legal intake and contract intelligence — create agreements, manage legal requests, and search your contract data directly from Claude.",
       "source": "third_party/linksquares",
-      "logo": "third_party/linksquares/assets/logo.svg",
+      "logo": "third_party/linksquares/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -10047,7 +10047,7 @@
       "version": "0.7.1",
       "description": "Access best in class data & analytics across a broad spectrum of asset classes.",
       "source": "third_party/lseg",
-      "logo": "third_party/lseg/assets/logo.svg",
+      "logo": "third_party/lseg/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -10167,7 +10167,7 @@
       "version": "0.7.1",
       "description": "Analyze portfolio data and reporting in Claude.",
       "source": "third_party/lumonic",
-      "logo": "third_party/lumonic/assets/logo.svg",
+      "logo": "third_party/lumonic/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -10215,7 +10215,7 @@
       "version": "0.7.1",
       "description": "Manage your physical mail from anywhere.",
       "source": "third_party/lz-virtual-mail",
-      "logo": "third_party/lz-virtual-mail/assets/logo.svg",
+      "logo": "third_party/lz-virtual-mail/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -10551,7 +10551,7 @@
       "version": "0.7.1",
       "description": "Up-to-date Mastercard APIs, docs, and guides.",
       "source": "third_party/mastercard-developers",
-      "logo": "third_party/mastercard-developers/assets/logo.svg",
+      "logo": "third_party/mastercard-developers/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -10839,7 +10839,7 @@
       "version": "0.7.1",
       "description": "Make Mentimeter presentations.",
       "source": "third_party/menti",
-      "logo": "third_party/menti/assets/logo.svg",
+      "logo": "third_party/menti/assets/logo.png",
       "category": "education",
       "components": [
         "mcp"
@@ -11007,7 +11007,7 @@
       "version": "0.7.1",
       "description": "Access your deal intelligence.",
       "source": "third_party/metal",
-      "logo": "third_party/metal/assets/logo.svg",
+      "logo": "third_party/metal/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -11055,7 +11055,7 @@
       "version": "0.7.1",
       "description": "Schedule posts, analyze, and manage social media with AI.",
       "source": "third_party/metricool",
-      "logo": "third_party/metricool/assets/logo.svg",
+      "logo": "third_party/metricool/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -11079,7 +11079,7 @@
       "version": "0.7.0",
       "description": "Search official Microsoft docs and code samples for .NET, Azure, MAUI, and more.",
       "source": "third_party/microsoft-learn",
-      "logo": "third_party/microsoft-learn/assets/logo.svg",
+      "logo": "third_party/microsoft-learn/assets/logo.png",
       "category": "documentation",
       "components": [
         "mcp"
@@ -11103,7 +11103,7 @@
       "version": "0.7.1",
       "description": "Conduct legal research and create work product.",
       "source": "third_party/midpage",
-      "logo": "third_party/midpage/assets/logo.svg",
+      "logo": "third_party/midpage/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -11295,7 +11295,7 @@
       "version": "0.7.1",
       "description": "Online and in-person payments, subscriptions, funding, reconciliation, and fraud prevention – so growth never means more providers.",
       "source": "third_party/mollie",
-      "logo": "third_party/mollie/assets/logo.svg",
+      "logo": "third_party/mollie/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -11343,7 +11343,7 @@
       "version": "0.7.1",
       "description": "Explore your financial data through conversation.",
       "source": "third_party/moneytree",
-      "logo": "third_party/moneytree/assets/logo.svg",
+      "logo": "third_party/moneytree/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -11415,7 +11415,7 @@
       "version": "0.7.1",
       "description": "Global market intelligence: brands, economy & politics.",
       "source": "third_party/morning-consult",
-      "logo": "third_party/morning-consult/assets/logo.svg",
+      "logo": "third_party/morning-consult/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -11439,7 +11439,7 @@
       "version": "0.7.1",
       "description": "Up-to-date investment and market insights.",
       "source": "third_party/morningstar",
-      "logo": "third_party/morningstar/assets/logo.svg",
+      "logo": "third_party/morningstar/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -11463,7 +11463,7 @@
       "version": "0.7.1",
       "description": "Structured credit insights and analytics.",
       "source": "third_party/morningstar-credit",
-      "logo": "third_party/morningstar-credit/assets/logo.svg",
+      "logo": "third_party/morningstar-credit/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -11487,7 +11487,7 @@
       "version": "0.7.1",
       "description": "India's official statistics via natural language.",
       "source": "third_party/mospi",
-      "logo": "third_party/mospi/assets/logo.svg",
+      "logo": "third_party/mospi/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -11583,7 +11583,7 @@
       "version": "0.7.1",
       "description": "Data you can build on.",
       "source": "third_party/msci-connector",
-      "logo": "third_party/msci-connector/assets/logo.svg",
+      "logo": "third_party/msci-connector/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -11919,7 +11919,7 @@
       "version": "0.7.1",
       "description": "Design, publish, and analyze forms entirely in chat.",
       "source": "third_party/ninout",
-      "logo": "third_party/ninout/assets/logo.svg",
+      "logo": "third_party/ninout/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -11943,7 +11943,7 @@
       "version": "0.7.1",
       "description": "Search, access, and get insights on your Nooks data.",
       "source": "third_party/nooks",
-      "logo": "third_party/nooks/assets/logo.svg",
+      "logo": "third_party/nooks/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -12039,7 +12039,7 @@
       "version": "0.7.1",
       "description": "Connect Claude to Nutshell CRM to search leads, contacts, and companies, pull sales reports, and review deal timelines - all without leaving chat.",
       "source": "third_party/nutshell-crm",
-      "logo": "third_party/nutshell-crm/assets/logo.svg",
+      "logo": "third_party/nutshell-crm/assets/logo.png",
       "category": "communication",
       "components": [
         "mcp"
@@ -12087,7 +12087,7 @@
       "version": "0.7.1",
       "description": "Free, national curriculum-aligned Oak teaching resources.",
       "source": "third_party/oak-national-academy",
-      "logo": "third_party/oak-national-academy/assets/logo.svg",
+      "logo": "third_party/oak-national-academy/assets/logo.png",
       "category": "education",
       "components": [
         "mcp"
@@ -12135,7 +12135,7 @@
       "version": "0.7.1",
       "description": "Turn market, index, and portfolio data into decisions: institutional risk, performance, and factor analytics in one place.",
       "source": "third_party/omega-point",
-      "logo": "third_party/omega-point/assets/logo.svg",
+      "logo": "third_party/omega-point/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -12159,7 +12159,7 @@
       "version": "0.7.1",
       "description": "Query your data using natural language through Omni's semantic model.",
       "source": "third_party/omni-analytics",
-      "logo": "third_party/omni-analytics/assets/logo.svg",
+      "logo": "third_party/omni-analytics/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -12279,7 +12279,7 @@
       "version": "0.7.1",
       "description": "GTM intelligence, prospecting, and buying signals.",
       "source": "third_party/onfire",
-      "logo": "third_party/onfire/assets/logo.svg",
+      "logo": "third_party/onfire/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -12327,7 +12327,7 @@
       "version": "0.7.1",
       "description": "Drug target discovery and prioritisation platform.",
       "source": "third_party/open-targets",
-      "logo": "third_party/open-targets/assets/logo.svg",
+      "logo": "third_party/open-targets/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -12375,7 +12375,7 @@
       "version": "0.7.1",
       "description": "SEO made simple.",
       "source": "third_party/openseo",
-      "logo": "third_party/openseo/assets/logo.svg",
+      "logo": "third_party/openseo/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -12447,7 +12447,7 @@
       "version": "0.7.1",
       "description": "Edit videos with AI.",
       "source": "third_party/opusclip-ai-producer",
-      "logo": "third_party/opusclip-ai-producer/assets/logo.svg",
+      "logo": "third_party/opusclip-ai-producer/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -12591,7 +12591,7 @@
       "version": "0.7.1",
       "description": "Unlock your meeting intelligence.",
       "source": "third_party/otter-ai",
-      "logo": "third_party/otter-ai/assets/logo.svg",
+      "logo": "third_party/otter-ai/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -12639,7 +12639,7 @@
       "version": "0.7.1",
       "description": "Unleash your team's best performance with Outreach AI.",
       "source": "third_party/outreach",
-      "logo": "third_party/outreach/assets/logo.svg",
+      "logo": "third_party/outreach/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -12687,7 +12687,7 @@
       "version": "0.7.1",
       "description": "Access Oxford Economics’ trusted economic analysis and data directly in Claude.",
       "source": "third_party/oxford-economics",
-      "logo": "third_party/oxford-economics/assets/logo.svg",
+      "logo": "third_party/oxford-economics/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -12855,7 +12855,7 @@
       "version": "0.7.1",
       "description": "Prior art, claims, and portfolio search.",
       "source": "third_party/patlytics",
-      "logo": "third_party/patlytics/assets/logo.svg",
+      "logo": "third_party/patlytics/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -12951,7 +12951,7 @@
       "version": "0.7.1",
       "description": "Make Claude your Paytm Payments assistant.",
       "source": "third_party/paytm-for-business",
-      "logo": "third_party/paytm-for-business/assets/logo.svg",
+      "logo": "third_party/paytm-for-business/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -13167,7 +13167,7 @@
       "version": "0.7.1",
       "description": "Agentic product security platform.",
       "source": "third_party/pi-security",
-      "logo": "third_party/pi-security/assets/logo.svg",
+      "logo": "third_party/pi-security/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -13239,7 +13239,7 @@
       "version": "0.7.1",
       "description": "AI-powered Equity Research Platform.",
       "source": "third_party/pinegap",
-      "logo": "third_party/pinegap/assets/logo.svg",
+      "logo": "third_party/pinegap/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -13263,7 +13263,7 @@
       "version": "0.7.1",
       "description": "Find deals, update records, manage activities and work with your live CRM data using natural language.",
       "source": "third_party/pipedrive",
-      "logo": "third_party/pipedrive/assets/logo.svg",
+      "logo": "third_party/pipedrive/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -13287,7 +13287,7 @@
       "version": "0.7.1",
       "description": "Create, edit, and share presentations, then see who engaged with them.",
       "source": "third_party/pitch",
-      "logo": "third_party/pitch/assets/logo.svg",
+      "logo": "third_party/pitch/assets/logo.png",
       "category": "design",
       "components": [
         "mcp"
@@ -13311,7 +13311,7 @@
       "version": "0.7.1",
       "description": "PitchBook data, embedded in the way you work.",
       "source": "third_party/pitchbook-premium",
-      "logo": "third_party/pitchbook-premium/assets/logo.svg",
+      "logo": "third_party/pitchbook-premium/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -13431,7 +13431,7 @@
       "version": "0.7.1",
       "description": "Search and extract insights from your Plaud recordings.",
       "source": "third_party/plaud",
-      "logo": "third_party/plaud/assets/logo.svg",
+      "logo": "third_party/plaud/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -13479,7 +13479,7 @@
       "version": "0.7.1",
       "description": "Connect and use PlayMCP servers in your toolbox.",
       "source": "third_party/playmcp",
-      "logo": "third_party/playmcp/assets/logo.svg",
+      "logo": "third_party/playmcp/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -13503,7 +13503,7 @@
       "version": "0.7.1",
       "description": "Query and manage your Pliant corporate spend, cards, team, and accounting directly in Claude.",
       "source": "third_party/pliant",
-      "logo": "third_party/pliant/assets/logo.svg",
+      "logo": "third_party/pliant/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -13719,7 +13719,7 @@
       "version": "0.7.1",
       "description": "Get inspired,configure and price print products from our full catalogue and manage Print.com orders without leaving Claude.",
       "source": "third_party/printdotcom",
-      "logo": "third_party/printdotcom/assets/logo.svg",
+      "logo": "third_party/printdotcom/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -13839,7 +13839,7 @@
       "version": "0.7.1",
       "description": "Run projects, tasks, time tracking, budgets, and invoicing in your Productive workspace, straight from chat.",
       "source": "third_party/productive",
-      "logo": "third_party/productive/assets/logo.svg",
+      "logo": "third_party/productive/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -13887,7 +13887,7 @@
       "version": "0.7.1",
       "description": "Search, read, and edit your documentation.",
       "source": "third_party/promptless",
-      "logo": "third_party/promptless/assets/logo.svg",
+      "logo": "third_party/promptless/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -14175,7 +14175,7 @@
       "version": "0.7.1",
       "description": "Find participant, pull study data and create studies.",
       "source": "third_party/rally-mcp",
-      "logo": "third_party/rally-mcp/assets/logo.svg",
+      "logo": "third_party/rally-mcp/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -14199,7 +14199,7 @@
       "version": "0.7.1",
       "description": "Search, access, and analyze your Ramp financial data.",
       "source": "third_party/ramp",
-      "logo": "third_party/ramp/assets/logo.svg",
+      "logo": "third_party/ramp/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -14223,7 +14223,7 @@
       "version": "0.7.1",
       "description": "Search and analyze Ramp spend across 50,000+ businesses.",
       "source": "third_party/ramp-data",
-      "logo": "third_party/ramp-data/assets/logo.svg",
+      "logo": "third_party/ramp-data/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -14343,7 +14343,7 @@
       "version": "0.7.1",
       "description": "Advanced scheduling for personal and work calendars.",
       "source": "third_party/reclaim-ai",
-      "logo": "third_party/reclaim-ai/assets/logo.svg",
+      "logo": "third_party/reclaim-ai/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -14367,7 +14367,7 @@
       "version": "0.7.1",
       "description": "Research conversations with real people at scale. Design studies, recruit audiences, launch conversations, and explore results without leaving your workflow.",
       "source": "third_party/remesh",
-      "logo": "third_party/remesh/assets/logo.svg",
+      "logo": "third_party/remesh/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -14535,7 +14535,7 @@
       "version": "0.7.1",
       "description": "Know what your regulator thinks.",
       "source": "third_party/rhizome-ai",
-      "logo": "third_party/rhizome-ai/assets/logo.svg",
+      "logo": "third_party/rhizome-ai/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -14559,7 +14559,7 @@
       "version": "0.7.1",
       "description": "Run your Richpanel helpdesk and AI support agent from Claude.",
       "source": "third_party/richpanel-ai",
-      "logo": "third_party/richpanel-ai/assets/logo.svg",
+      "logo": "third_party/richpanel-ai/assets/logo.png",
       "category": "communication",
       "components": [
         "mcp"
@@ -14631,7 +14631,7 @@
       "version": "0.7.1",
       "description": "Run dynamic AI analysis on 100% of conversations.",
       "source": "third_party/rippit",
-      "logo": "third_party/rippit/assets/logo.svg",
+      "logo": "third_party/rippit/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -14703,7 +14703,7 @@
       "version": "0.7.1",
       "description": "Robin is the workplace platform teams use to manage desks, rooms, and hybrid office schedules, and optimize how their workplace is planned and used.",
       "source": "third_party/robin",
-      "logo": "third_party/robin/assets/logo.svg",
+      "logo": "third_party/robin/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -14799,7 +14799,7 @@
       "version": "0.7.1",
       "description": "Verified work emails and phones from 700M+ contacts.",
       "source": "third_party/rocketreach",
-      "logo": "third_party/rocketreach/assets/logo.svg",
+      "logo": "third_party/rocketreach/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -14823,7 +14823,7 @@
       "version": "0.7.1",
       "description": "The audit trail and governance layer for every file your team and your AI touch.",
       "source": "third_party/rockhopper",
-      "logo": "third_party/rockhopper/assets/logo.svg",
+      "logo": "third_party/rockhopper/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -14895,7 +14895,7 @@
       "version": "0.7.1",
       "description": "Automate, coordinate, and monitor your team's mobile app releases.",
       "source": "third_party/runway",
-      "logo": "third_party/runway/assets/logo.svg",
+      "logo": "third_party/runway/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -14943,7 +14943,7 @@
       "version": "0.7.1",
       "description": "Manage and explore your CRM in Claude.",
       "source": "third_party/salesflare",
-      "logo": "third_party/salesflare/assets/logo.svg",
+      "logo": "third_party/salesflare/assets/logo.png",
       "category": "communication",
       "components": [
         "mcp"
@@ -15039,7 +15039,7 @@
       "version": "0.7.1",
       "description": "Evidence-based answers grounded in research.",
       "source": "third_party/scite",
-      "logo": "third_party/scite/assets/logo.svg",
+      "logo": "third_party/scite/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -15063,7 +15063,7 @@
       "version": "0.7.1",
       "description": "Find leads and automate outreach.",
       "source": "third_party/seamless",
-      "logo": "third_party/seamless/assets/logo.svg",
+      "logo": "third_party/seamless/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -15135,7 +15135,7 @@
       "version": "0.7.1",
       "description": "Create HTML in Claude. Share it with Send.",
       "source": "third_party/send",
-      "logo": "third_party/send/assets/logo.svg",
+      "logo": "third_party/send/assets/logo.png",
       "category": "design",
       "components": [
         "mcp"
@@ -15159,7 +15159,7 @@
       "version": "0.7.1",
       "description": "Manage your shipping without leaving the chat.",
       "source": "third_party/sendcloud-mcp",
-      "logo": "third_party/sendcloud-mcp/assets/logo.svg",
+      "logo": "third_party/sendcloud-mcp/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -15303,7 +15303,7 @@
       "version": "0.7.1",
       "description": "Multi-carrier shipping, from a single package to high volume: compare live rates across USPS, UPS, FedEx, DHL, and 40+ carriers, then buy labels, validate addresses, and track packages.",
       "source": "third_party/shippo",
-      "logo": "third_party/shippo/assets/logo.svg",
+      "logo": "third_party/shippo/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -15423,7 +15423,7 @@
       "version": "0.7.1",
       "description": "Ask your Sisense natural language questions, get visuals and insights.",
       "source": "third_party/sisense-mcp",
-      "logo": "third_party/sisense-mcp/assets/logo.svg",
+      "logo": "third_party/sisense-mcp/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -15495,7 +15495,7 @@
       "version": "0.7.1",
       "description": "Make presentations and slides, export to PowerPoint.",
       "source": "third_party/slidesgpt",
-      "logo": "third_party/slidesgpt/assets/logo.svg",
+      "logo": "third_party/slidesgpt/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -15807,7 +15807,7 @@
       "version": "0.7.1",
       "description": "Search for NSDAP party members.",
       "source": "third_party/spiegel-nsdap-archive",
-      "logo": "third_party/spiegel-nsdap-archive/assets/logo.svg",
+      "logo": "third_party/spiegel-nsdap-archive/assets/logo.png",
       "category": "education",
       "components": [
         "mcp"
@@ -15879,7 +15879,7 @@
       "version": "0.7.1",
       "description": "Search, review, and manage contracts from your SpotDraft workspace, right inside Claude.",
       "source": "third_party/spotdraft",
-      "logo": "third_party/spotdraft/assets/logo.svg",
+      "logo": "third_party/spotdraft/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -15975,7 +15975,7 @@
       "version": "0.7.1",
       "description": "Find a domain name for your next idea, and run your Squarespace store's orders, products and customers, all from Claude.",
       "source": "third_party/squarespace",
-      "logo": "third_party/squarespace/assets/logo.svg",
+      "logo": "third_party/squarespace/assets/logo.png",
       "category": "commerce",
       "components": [
         "mcp"
@@ -16119,7 +16119,7 @@
       "version": "0.7.1",
       "description": "Super simple AI native accounting.",
       "source": "third_party/stub",
-      "logo": "third_party/stub/assets/logo.svg",
+      "logo": "third_party/stub/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -16143,7 +16143,7 @@
       "version": "0.7.1",
       "description": "Manage your Stytch Project.",
       "source": "third_party/stytch",
-      "logo": "third_party/stytch/assets/logo.svg",
+      "logo": "third_party/stytch/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -16215,7 +16215,7 @@
       "version": "0.7.1",
       "description": "Verify identities, businesses, and prevent fraud.",
       "source": "third_party/sumsub",
-      "logo": "third_party/sumsub/assets/logo.svg",
+      "logo": "third_party/sumsub/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -16311,7 +16311,7 @@
       "version": "0.7.1",
       "description": "Create, search, update docs and tables.",
       "source": "third_party/superhuman-docs",
-      "logo": "third_party/superhuman-docs/assets/logo.svg",
+      "logo": "third_party/superhuman-docs/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -16359,7 +16359,7 @@
       "version": "0.7.1",
       "description": "Google Ads, Facebook Ads, Google Analytics, TikTok, LinkedIn, Instagram, YouTube & 200+ sources.",
       "source": "third_party/supermetrics",
-      "logo": "third_party/supermetrics/assets/logo.svg",
+      "logo": "third_party/supermetrics/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -16479,7 +16479,7 @@
       "version": "0.7.1",
       "description": "Search and metadata tools for Synapse scientific data.",
       "source": "third_party/synapse-org",
-      "logo": "third_party/synapse-org/assets/logo.svg",
+      "logo": "third_party/synapse-org/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -16575,7 +16575,7 @@
       "version": "0.7.1",
       "description": "Create beautiful forms.",
       "source": "third_party/tally",
-      "logo": "third_party/tally/assets/logo.svg",
+      "logo": "third_party/tally/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -16839,7 +16839,7 @@
       "version": "0.7.1",
       "description": "Run AI-powered usability tests on any live app, prototype, or design and get actionable insights, all from your chat.",
       "source": "third_party/theysaid",
-      "logo": "third_party/theysaid/assets/logo.svg",
+      "logo": "third_party/theysaid/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -17007,7 +17007,7 @@
       "version": "0.7.1",
       "description": "Connect to your transactions in your Tiller spreadsheet.",
       "source": "third_party/tiller",
-      "logo": "third_party/tiller/assets/logo.svg",
+      "logo": "third_party/tiller/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -17151,7 +17151,7 @@
       "version": "0.7.1",
       "description": "Your AI marketing teammate — pulls analytics and runs ad campaigns across Google, Meta, LinkedIn, and more.",
       "source": "third_party/toffu",
-      "logo": "third_party/toffu/assets/logo.svg",
+      "logo": "third_party/toffu/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -17247,7 +17247,7 @@
       "version": "0.7.1",
       "description": "Create rich, interactive travel itineraries.",
       "source": "third_party/travexp",
-      "logo": "third_party/travexp/assets/logo.svg",
+      "logo": "third_party/travexp/assets/logo.png",
       "category": "travel",
       "components": [
         "mcp"
@@ -17295,7 +17295,7 @@
       "version": "0.7.1",
       "description": "Bring Trepp's trusted CRE, CMBS, CRE CLO, and Lending data, analytics, and market intelligence directly into your AI workflows.",
       "source": "third_party/treppmcp",
-      "logo": "third_party/treppmcp/assets/logo.svg",
+      "logo": "third_party/treppmcp/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -17391,7 +17391,7 @@
       "version": "0.7.1",
       "description": "Bring your Trussi roofing CRM into Claude - find projects and customers, track pipeline and schedules, pull dashboards and reports, and log updates without leaving the chat.",
       "source": "third_party/trussi-ai",
-      "logo": "third_party/trussi-ai/assets/logo.svg",
+      "logo": "third_party/trussi-ai/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -17415,7 +17415,7 @@
       "version": "0.7.1",
       "description": "Bring Trustfull fraud intelligence and risk assessments into Claude.",
       "source": "third_party/trustfull",
-      "logo": "third_party/trustfull/assets/logo.svg",
+      "logo": "third_party/trustfull/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -17511,7 +17511,7 @@
       "version": "0.7.1",
       "description": "Real-time prices, 100+ technical indicators, and fundamentals for stocks, forex, crypto, and ETFs — ask in plain English, no API knowledge needed.",
       "source": "third_party/twelve-data",
-      "logo": "third_party/twelve-data/assets/logo.svg",
+      "logo": "third_party/twelve-data/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -17607,7 +17607,7 @@
       "version": "0.7.1",
       "description": "Keyword research, competitor analysis, backlinks, site audits and AI search visibility — powered by Ubersuggest.",
       "source": "third_party/ubersuggest",
-      "logo": "third_party/ubersuggest/assets/logo.svg",
+      "logo": "third_party/ubersuggest/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -17679,7 +17679,7 @@
       "version": "0.7.1",
       "description": "Find, enrich, and sequence prospects from 40+ data sources.",
       "source": "third_party/unify",
-      "logo": "third_party/unify/assets/logo.svg",
+      "logo": "third_party/unify/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -17871,7 +17871,7 @@
       "version": "0.7.1",
       "description": "Access real-time, forecast, and historical weather.",
       "source": "third_party/vaisala-xweather",
-      "logo": "third_party/vaisala-xweather/assets/logo.svg",
+      "logo": "third_party/vaisala-xweather/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -17895,7 +17895,7 @@
       "version": "0.7.1",
       "description": "Search, create and update Valuecase spaces.",
       "source": "third_party/valuecase-v2",
-      "logo": "third_party/valuecase-v2/assets/logo.svg",
+      "logo": "third_party/valuecase-v2/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -17967,7 +17967,7 @@
       "version": "0.7.1",
       "description": "Search case law and legislation across Lithuania and the EU, with verifiable citations.",
       "source": "third_party/vasara",
-      "logo": "third_party/vasara/assets/logo.svg",
+      "logo": "third_party/vasara/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -18039,7 +18039,7 @@
       "version": "0.7.1",
       "description": "Ask questions. Get underwriting insights from Verisk.",
       "source": "third_party/verisk-underwriting",
-      "logo": "third_party/verisk-underwriting/assets/logo.svg",
+      "logo": "third_party/verisk-underwriting/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -18063,7 +18063,7 @@
       "version": "0.7.1",
       "description": "Natural-language estimating for XactRestore.",
       "source": "third_party/verisk-xactrestore",
-      "logo": "third_party/verisk-xactrestore/assets/logo.svg",
+      "logo": "third_party/verisk-xactrestore/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -18111,7 +18111,7 @@
       "version": "0.7.1",
       "description": "Power AI workflows with viaNexus: a financial data marketplace delivering prices, news, fundamentals, and global macro economic data directly from trusted provider partners.",
       "source": "third_party/vianexus-vast",
-      "logo": "third_party/vianexus-vast/assets/logo.svg",
+      "logo": "third_party/vianexus-vast/assets/logo.png",
       "category": "communication",
       "components": [
         "mcp"
@@ -18159,7 +18159,7 @@
       "version": "0.7.1",
       "description": "Transcripts, summaries, action items, and memos from your Vibe Bot and Vibe Dot meetings.",
       "source": "third_party/vibe-ai",
-      "logo": "third_party/vibe-ai/assets/logo.svg",
+      "logo": "third_party/vibe-ai/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -18183,7 +18183,7 @@
       "version": "0.7.1",
       "description": "Music industry data inside Claude — artists, tracks, festivals, charts.",
       "source": "third_party/viberate-music-data",
-      "logo": "third_party/viberate-music-data/assets/logo.svg",
+      "logo": "third_party/viberate-music-data/assets/logo.png",
       "category": "media",
       "components": [
         "mcp"
@@ -18207,7 +18207,7 @@
       "version": "0.7.1",
       "description": "Research and create for YouTube, Instagram & TikTok.",
       "source": "third_party/vidiq",
-      "logo": "third_party/vidiq/assets/logo.svg",
+      "logo": "third_party/vidiq/assets/logo.png",
       "category": "media",
       "components": [
         "mcp"
@@ -18231,7 +18231,7 @@
       "version": "0.7.1",
       "description": "Manage and analyze your Voluum ad-tracking campaigns directly from Claude.",
       "source": "third_party/voluum",
-      "logo": "third_party/voluum/assets/logo.svg",
+      "logo": "third_party/voluum/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -18447,7 +18447,7 @@
       "version": "0.7.1",
       "description": "Your Global Multi-Asset Trading & Analysis Powerhouse.",
       "source": "third_party/webull",
-      "logo": "third_party/webull/assets/logo.svg",
+      "logo": "third_party/webull/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -18543,7 +18543,7 @@
       "version": "0.7.1",
       "description": "Enhance responses with scholarly research and citations.",
       "source": "third_party/wiley-scholar-gateway",
-      "logo": "third_party/wiley-scholar-gateway/assets/logo.svg",
+      "logo": "third_party/wiley-scholar-gateway/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -18591,7 +18591,7 @@
       "version": "0.7.1",
       "description": "Connect Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads + 320 more.",
       "source": "third_party/windsor-ai",
-      "logo": "third_party/windsor-ai/assets/logo.svg",
+      "logo": "third_party/windsor-ai/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -18615,7 +18615,7 @@
       "version": "0.7.1",
       "description": "Analyze and post organic social content across Instagram, Facebook, TikTok, YouTube, LinkedIn, and Google Business Profile.",
       "source": "third_party/windsor-social-media",
-      "logo": "third_party/windsor-social-media/assets/logo.svg",
+      "logo": "third_party/windsor-social-media/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -18687,7 +18687,7 @@
       "version": "0.7.1",
       "description": "Your meetings, notes, and tasks from Wispr Flow — now native context for Claude.",
       "source": "third_party/wispr-flow",
-      "logo": "third_party/wispr-flow/assets/logo.svg",
+      "logo": "third_party/wispr-flow/assets/logo.png",
       "category": "communication",
       "components": [
         "mcp"
@@ -18711,7 +18711,7 @@
       "version": "0.7.1",
       "description": "Explore your org's processes.",
       "source": "third_party/within",
-      "logo": "third_party/within/assets/logo.svg",
+      "logo": "third_party/within/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -18855,7 +18855,7 @@
       "version": "0.7.1",
       "description": "Manage your WorkOS workspace from Claude.",
       "source": "third_party/workos",
-      "logo": "third_party/workos/assets/logo.svg",
+      "logo": "third_party/workos/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -19119,7 +19119,7 @@
       "version": "0.7.1",
       "description": "MCP Server for Zoho CRM Workflows.",
       "source": "third_party/zoho-crm",
-      "logo": "third_party/zoho-crm/assets/logo.svg",
+      "logo": "third_party/zoho-crm/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"

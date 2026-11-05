@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Sprinto MCP: https://sprinto.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Sprinto MCP: https://sprinto.com/
 
 ## Logo
 

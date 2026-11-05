@@ -31,7 +31,7 @@ The first time the agent calls a tool, each member signs in to Clio in the brows
 
 ## Docs
 
-- Clio: https://www.clio.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Clio: https://www.clio.com/
 
 ## Logo
 

@@ -37,7 +37,7 @@ The vendor repository does not state the auth mode. OAuth is an assumption. Conf
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon downloaded from the Claude connector directory listing for GovTribe. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

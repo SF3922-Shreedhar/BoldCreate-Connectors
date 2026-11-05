@@ -14,7 +14,7 @@
     "finance",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "moneytree": {
       "type": "http",

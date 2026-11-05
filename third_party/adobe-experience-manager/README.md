@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Adobe Experience Manager: https://business.adobe.com/products/experience-manager (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Adobe Experience Manager: https://business.adobe.com/products/experience-manager
 
 ## Logo
 

@@ -14,7 +14,7 @@
     "productivity",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "plaud": {
       "type": "http",

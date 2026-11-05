@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Candid: https://candid.org/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Candid: https://candid.org/
 
 ## Logo
 

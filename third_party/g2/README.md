@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- G2: https://g2.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- G2: https://g2.com/
 
 ## Logo
 

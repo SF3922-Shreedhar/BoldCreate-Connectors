@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Yardi Matrix: https://www.yardi.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Yardi Matrix: https://www.yardi.com/
 
 ## Logo
 

@@ -33,11 +33,11 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Adobe Workfront: https://business.adobe.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Adobe Workfront: https://business.adobe.com/
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon downloaded from the Claude connector directory listing for Adobe Workfront. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

@@ -33,11 +33,11 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Scite: https://scite.ai/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Scite: https://scite.ai/
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon downloaded from the Claude connector directory listing for Scite. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

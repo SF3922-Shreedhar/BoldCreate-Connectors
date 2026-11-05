@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous initialize 
 
 ## Docs
 
-- PGA – Play Golf: https://www.pga.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- PGA – Play Golf: https://www.pga.com/
 
 ## Logo
 

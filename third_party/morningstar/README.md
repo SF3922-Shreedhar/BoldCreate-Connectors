@@ -33,11 +33,11 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Morningstar: https://www.morningstar.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Morningstar: https://www.morningstar.com/
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon downloaded from the Claude connector directory listing for Morningstar. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

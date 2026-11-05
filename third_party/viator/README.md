@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous initialize 
 
 ## Docs
 
-- Viator: https://www.viator.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Viator: https://www.viator.com/
 
 ## Logo
 

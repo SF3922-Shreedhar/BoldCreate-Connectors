@@ -33,11 +33,11 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Carta: https://carta.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Carta: https://carta.com/
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon downloaded from the Claude connector directory listing for Carta. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

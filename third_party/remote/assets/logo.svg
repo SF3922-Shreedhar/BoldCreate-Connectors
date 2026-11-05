@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192"><rect width="192" height="192" fill="#fff"/><rect x="24" y="24" width="144" height="144" rx="28" fill="#2c18e4"/><text x="96" y="96" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" text-anchor="middle" dominant-baseline="central">RE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+<rect width="32" height="32" rx="4" fill="#A2EB00"/>
+<path transform="translate(6.9975 4)" d="M12.5692 25H0V12.5C0 5.57646 5.54045 0 12.5692 0H18.125V12.3097H12.5692V25Z" fill="#14191E"/>
+</svg>

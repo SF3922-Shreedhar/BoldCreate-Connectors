@@ -16,7 +16,7 @@
     "code-examples",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "context7": {
       "type": "http",

@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Blackbaud: https://mcp.sky.blackbaud.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Blackbaud: https://mcp.sky.blackbaud.com/
 
 ## Logo
 

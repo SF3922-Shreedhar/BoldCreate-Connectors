@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous initialize 
 
 ## Docs
 
-- Floot: https://floot.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Floot: https://floot.com/
 
 ## Logo
 

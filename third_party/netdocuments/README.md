@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- NetDocuments: https://www.netdocuments.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- NetDocuments: https://www.netdocuments.com/
 
 ## Logo
 

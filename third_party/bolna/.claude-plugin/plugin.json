@@ -14,7 +14,7 @@
     "communication",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "bolna": {
       "type": "http",

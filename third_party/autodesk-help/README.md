@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous initialize 
 
 ## Docs
 
-- Autodesk Product Help: https://www.autodesk.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Autodesk Product Help: https://www.autodesk.com/
 
 ## Logo
 

@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192"><rect width="192" height="192" fill="#fff"/><rect x="24" y="24" width="144" height="144" rx="28" fill="#1f3a8a"/><text x="96" y="96" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" text-anchor="middle" dominant-baseline="central">RM</text></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="700.000000pt" height="700.000000pt" viewBox="0 0 700.000000 700.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.11, written by Peter Selinger 2001-2013
+</metadata>
+<g transform="translate(0.000000,700.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M3270 6774 c-504 -43 -967 -181 -1364 -406 -852 -482 -1436 -1286
+-1625 -2234 -46 -230 -55 -337 -55 -634 0 -340 21 -522 95 -815 196 -775 697
+-1478 1369 -1920 437 -287 864 -446 1401 -521 176 -25 642 -25 818 0 441 62
+840 192 1185 388 852 482 1436 1286 1625 2234 46 230 55 337 55 634 0 340 -21
+522 -95 815 -196 775 -697 1478 -1369 1920 -435 285 -870 448 -1395 520 -105
+15 -546 28 -645 19z m230 -3494 l0 -1750 -545 0 -545 0 0 1750 0 1750 545 0
+545 0 0 -1750z m1138 1734 c317 -65 551 -312 603 -637 13 -83 8 -210 -11 -293
+-19 -77 -103 -243 -155 -304 -103 -120 -231 -204 -385 -251 -107 -33 -290 -34
+-405 -1 -146 42 -284 131 -388 251 -64 74 -142 235 -161 333 -109 536 368
+1012 902 902z"/>
+</g>
+</svg>

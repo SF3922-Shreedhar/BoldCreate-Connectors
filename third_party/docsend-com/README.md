@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- docsend.com: https://www.docsend.com/features/virtual-data-room/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- docsend.com: https://www.docsend.com/features/virtual-data-room/
 
 ## Logo
 

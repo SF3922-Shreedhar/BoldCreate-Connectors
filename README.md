@@ -2,7 +2,7 @@
 
 Connectors for BoldCreate Connect, Cursor and Claude Code. Each connector is a plugin under `third_party/` that connects agents to a vendor's remote [Model Context Protocol](https://modelcontextprotocol.io/) server over streamable HTTP.
 
-This repository is a staging copy. It holds the connectors moved out of [BoldCreate Plugins](https://github.com/syncfusion/BoldCreate-Plugins), with the same structure, manifests, scripts and checks. It will move to the Syncfusion organization after the connectors have been verified in the target environment.
+**Available connectors: 803**
 
 ## Install
 

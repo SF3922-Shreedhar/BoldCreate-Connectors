@@ -16,7 +16,7 @@
     "wiki",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "deepwiki": {
       "type": "http",

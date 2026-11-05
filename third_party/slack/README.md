@@ -37,7 +37,7 @@ The vendor's own plugin hard-codes an OAuth client ID. This plugin does not. The
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon downloaded from the Claude connector directory listing for Slack. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

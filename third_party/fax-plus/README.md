@@ -35,7 +35,7 @@ The first time the agent calls a tool, each member signs in to Fax.Plus in the b
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon taken from the vendor's website (Fax.Plus), because the Claude connector directory links to a web page instead of an image file. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

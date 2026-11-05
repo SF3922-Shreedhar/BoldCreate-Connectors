@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Contentful MCP: https://www.contentful.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Contentful MCP: https://www.contentful.com/
 
 ## Logo
 

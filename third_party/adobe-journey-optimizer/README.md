@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Adobe Journey Optimizer: https://adobe.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Adobe Journey Optimizer: https://adobe.com/
 
 ## Logo
 
