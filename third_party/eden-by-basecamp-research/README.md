@@ -37,7 +37,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Logo
 
-Neutral tile with the product's initials.}
+Icon taken from the vendor's website (EDEN by Basecamp Research). It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

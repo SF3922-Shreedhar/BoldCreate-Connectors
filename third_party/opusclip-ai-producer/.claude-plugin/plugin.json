@@ -14,7 +14,7 @@
     "marketing",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "opusclip-ai-producer": {
       "type": "http",

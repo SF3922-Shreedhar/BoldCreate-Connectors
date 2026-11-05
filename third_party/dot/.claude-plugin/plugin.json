@@ -14,7 +14,7 @@
     "developer-tools",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "dot": {
       "type": "http",

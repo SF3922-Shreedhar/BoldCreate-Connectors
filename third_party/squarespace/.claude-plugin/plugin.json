@@ -14,7 +14,7 @@
     "commerce",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "squarespace": {
       "type": "http",

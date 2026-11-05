@@ -14,7 +14,7 @@
     "communication",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "salesflare": {
       "type": "http",

@@ -35,7 +35,7 @@ The first time the agent calls a tool, each member signs in to Rockhopper in the
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon taken from the vendor's website (Rockhopper). It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

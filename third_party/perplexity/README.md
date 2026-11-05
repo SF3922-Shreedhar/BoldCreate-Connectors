@@ -35,7 +35,7 @@ This server needs no account or key.
 
 ## Logo
 
-Neutral tile with the product's initials.
+Icon taken from the vendor's website (Perplexity Docs). It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 

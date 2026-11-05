@@ -14,7 +14,7 @@
     "commerce",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "helium-10": {
       "type": "http",

@@ -14,7 +14,7 @@
     "media",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "brightcove": {
       "type": "http",
