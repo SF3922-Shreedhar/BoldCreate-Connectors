@@ -303,6 +303,11 @@
       "description": "Securely access Autodesk's help documentation."
     },
     {
+      "name": "autonomad",
+      "source": "./third_party/autonomad",
+      "description": "Flights, hotels and tours booked in one payment, and changed when plans change, all from Claude."
+    },
+    {
       "name": "aws-knowledge",
       "source": "./third_party/aws-knowledge",
       "description": "Search AWS documentation, API references, and regional availability."
@@ -1918,6 +1923,11 @@
       "description": "Search, categorize, edit, and report in Kick."
     },
     {
+      "name": "kindora-funder-discovery",
+      "source": "./third_party/kindora-funder-discovery",
+      "description": "Find funders who support causes like yours."
+    },
+    {
       "name": "kit",
       "source": "./third_party/kit",
       "description": "Search, analyze, draft, and manage your email marketing."
@@ -2741,6 +2751,11 @@
       "name": "pi-security",
       "source": "./third_party/pi-security",
       "description": "Agentic product security platform."
+    },
+    {
+      "name": "picpay",
+      "source": "./third_party/picpay",
+      "description": "PicPay. Seu próximo banco."
     },
     {
       "name": "pine-labs-payments-assista",
