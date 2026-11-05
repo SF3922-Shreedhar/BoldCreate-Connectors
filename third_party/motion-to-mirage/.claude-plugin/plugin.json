@@ -1,10 +1,7 @@
 {
-  "name": "claude-motion-to-mirage",
+  "name": "motion-to-mirage",
   "displayName": "Claude Motion to Mirage",
   "version": "0.7.1",
-  "minClientVersions": {
-    "cursor": "3.13.0"
-  },
   "description": "Import a Claude Motion video into Mirage.",
   "author": {
     "name": "Syncfusion"
@@ -12,17 +9,16 @@
   "homepage": "https://mirage.app/",
   "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
   "license": "MIT",
-  "logo": "assets/logo.svg",
   "keywords": [
-    "claude-motion-to-mirage",
+    "motion-to-mirage",
     "design",
     "mcp"
   ],
-  "category": "design",
-  "tags": [
-    "design",
-    "mcp",
-    "http"
-  ],
-  "mcpServers": "./mcp.json"
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "motion-to-mirage": {
+      "type": "http",
+      "url": "https://mcp.mirage.app/claude-motion"
+    }
+  }
 }

@@ -8,14 +8,14 @@ Import a Claude Motion video into Mirage.
 
 - **BoldCreate Connect:** open **Marketplace**, find **Claude Motion to Mirage**, and click **Install**.
 - **Cursor:** add this repository as a team marketplace, then install **Claude Motion to Mirage**.
-- **Claude Code:** `/plugin marketplace add SF3922-Shreedhar/BoldCreate-Connectors`, then `/plugin install claude-motion-to-mirage@boldcreate-connectors`.
+- **Claude Code:** `/plugin marketplace add SF3922-Shreedhar/BoldCreate-Connectors`, then `/plugin install motion-to-mirage@boldcreate-connectors`.
 
 ## MCP
 
 ```json
 {
   "mcpServers": {
-    "claude-motion-to-mirage": {
+    "motion-to-mirage": {
       "type": "http",
       "url": "https://mcp.mirage.app/claude-motion"
     }

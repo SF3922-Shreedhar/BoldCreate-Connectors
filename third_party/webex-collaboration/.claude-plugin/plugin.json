@@ -1,5 +1,5 @@
 {
-  "name": "webex-for-claude",
+  "name": "webex-collaboration",
   "displayName": "Webex for Claude",
   "version": "0.7.1",
   "description": "Access your Webex meetings, messaging, and Vidcast content securely in Claude.",
@@ -10,13 +10,13 @@
   "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
   "license": "MIT",
   "keywords": [
-    "webex-for-claude",
+    "webex-collaboration",
     "marketing",
     "mcp"
   ],
   "icon": "./assets/logo.png",
   "mcpServers": {
-    "webex-for-claude": {
+    "webex-collaboration": {
       "type": "http",
       "url": "https://mcp.webexapis.com/mcp/webex-suite"
     }

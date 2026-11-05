@@ -2386,30 +2386,6 @@
       "supportedByGateway": true
     },
     {
-      "name": "claude-motion-to-mirage",
-      "displayName": "Claude Motion to Mirage",
-      "version": "0.7.1",
-      "description": "Import a Claude Motion video into Mirage.",
-      "source": "third_party/claude-motion-to-mirage",
-      "logo": "third_party/claude-motion-to-mirage/assets/logo.svg",
-      "category": "design",
-      "components": [
-        "mcp"
-      ],
-      "transports": [
-        "streamable-http"
-      ],
-      "auth": [
-        "oauth"
-      ],
-      "requiresSecrets": false,
-      "rollout": {
-        "phase": 1,
-        "wave": "B"
-      },
-      "supportedByGateway": true
-    },
-    {
       "name": "clay",
       "displayName": "Clay",
       "version": "0.7.1",
@@ -9154,6 +9130,30 @@
       "supportedByGateway": true
     },
     {
+      "name": "motion-to-mirage",
+      "displayName": "Claude Motion to Mirage",
+      "version": "0.7.1",
+      "description": "Import a Claude Motion video into Mirage.",
+      "source": "third_party/motion-to-mirage",
+      "logo": "third_party/motion-to-mirage/assets/logo.svg",
+      "category": "design",
+      "components": [
+        "mcp"
+      ],
+      "transports": [
+        "streamable-http"
+      ],
+      "auth": [
+        "oauth"
+      ],
+      "requiresSecrets": false,
+      "rollout": {
+        "phase": 1,
+        "wave": "B"
+      },
+      "supportedByGateway": true
+    },
+    {
       "name": "msci-connector",
       "displayName": "MSCI Connector",
       "version": "0.7.1",
@@ -14266,12 +14266,12 @@
       "supportedByGateway": true
     },
     {
-      "name": "webex-for-claude",
+      "name": "webex-collaboration",
       "displayName": "Webex for Claude",
       "version": "0.7.1",
       "description": "Access your Webex meetings, messaging, and Vidcast content securely in Claude.",
-      "source": "third_party/webex-for-claude",
-      "logo": "third_party/webex-for-claude/assets/logo.png",
+      "source": "third_party/webex-collaboration",
+      "logo": "third_party/webex-collaboration/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"

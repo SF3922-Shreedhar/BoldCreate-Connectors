@@ -115,7 +115,6 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `clarify` | [Clarify](third_party/clarify/) | Productivity | Query your CRM. Create records. Ask anything. |
 | `clarity-ai` | [Clarity AI](third_party/clarity-ai/) | Finance | Simulate fund classifications under proposed SFDR 2.0. |
 | `clarivate-compumark` | [Clarivate IPOne CompuMark Trademarks](third_party/clarivate-compumark/) | Analytics | Trusted Trademark Intelligence from Clarivate CompuMark. |
-| `claude-motion-to-mirage` | [Claude Motion to Mirage](third_party/claude-motion-to-mirage/) | Design | Import a Claude Motion video into Mirage. |
 | `clay` | [Clay](third_party/clay/) | Analytics | Find prospects. Research accounts. Personalize outreach. |
 | `clearstreet` | [Clear Street](third_party/clearstreet/) | Analytics | Research and Analyze Stocks and Options. |
 | `clerk` | [Clerk](third_party/clerk/) | Developer Tools | Add authentication, organizations, and billing. |
@@ -397,6 +396,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `mospi` | [MoSPI](third_party/mospi/) | Analytics | India's official statistics via natural language. |
 | `motherduck` | [MotherDuck](third_party/motherduck/) | Analytics | Get answers from your data. |
 | `motion` | [Motion Creative Analytics](third_party/motion/) | Analytics | Analyze your Meta ad creative & competitor ad libraries. |
+| `motion-to-mirage` | [Claude Motion to Mirage](third_party/motion-to-mirage/) | Design | Import a Claude Motion video into Mirage. |
 | `msci-connector` | [MSCI Connector](third_party/msci-connector/) | Finance | Data you can build on. |
 | `mt-newswires` | [MT Newswires](third_party/mt-newswires/) | Finance | Trusted real-time global financial news provider. |
 | `mulesoft` | [MuleSoft](third_party/mulesoft/) | Analytics | Govern, manage, and observe your entire Agent ecosystem. |
@@ -610,7 +610,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `vuetify-mcp` | [Vuetify MCP](third_party/vuetify-mcp/) | Developer Tools | Official Vuetify docs, APIs, and bins for AI agents. |
 | `wealth-com` | [Wealth.com](third_party/wealth-com/) | Analytics | Bring your clients' estate plans, tax returns, and documents into Claude — with instant snapshots, risk analysis, and advisor-ready summaries. |
 | `wealthbox` | [Wealthbox](third_party/wealthbox/) | Finance | Search, update, and manage Wealthbox data from inside Claude. |
-| `webex-for-claude` | [Webex for Claude](third_party/webex-for-claude/) | Marketing | Access your Webex meetings, messaging, and Vidcast content securely in Claude. |
+| `webex-collaboration` | [Webex for Claude](third_party/webex-collaboration/) | Marketing | Access your Webex meetings, messaging, and Vidcast content securely in Claude. |
 | `webex-meetings` | [Webex Meetings](third_party/webex-meetings/) | Communication | AI-powered workflows for Webex meetings. |
 | `webflow` | [Webflow](third_party/webflow/) | CMS | Design pages, manage CMS content, add motion, analyze traffic, and launch the whole site, all from a prompt and all inside the permissions your workspace already has. |
 | `webmcp-evaluator` | [WebMCP Evaluator](third_party/webmcp-evaluator/) | Analytics | Get an actionable, detailed review and build plan for making any public page ready for AI agents, based on your content, not generalized advice. |

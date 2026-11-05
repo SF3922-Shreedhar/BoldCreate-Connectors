@@ -8,14 +8,14 @@ Access your Webex meetings, messaging, and Vidcast content securely in Claude.
 
 - **BoldCreate Connect:** open **Marketplace**, find **Webex for Claude**, and click **Install**.
 - **Cursor:** add this repository as a team marketplace, then install **Webex for Claude**.
-- **Claude Code:** `/plugin marketplace add SF3922-Shreedhar/BoldCreate-Connectors`, then `/plugin install webex-for-claude@boldcreate-connectors`.
+- **Claude Code:** `/plugin marketplace add SF3922-Shreedhar/BoldCreate-Connectors`, then `/plugin install webex-collaboration@boldcreate-connectors`.
 
 ## MCP
 
 ```json
 {
   "mcpServers": {
-    "webex-for-claude": {
+    "webex-collaboration": {
       "type": "http",
       "url": "https://mcp.webexapis.com/mcp/webex-suite"
     }

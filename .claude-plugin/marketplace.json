@@ -503,11 +503,6 @@
       "description": "Trusted Trademark Intelligence from Clarivate CompuMark."
     },
     {
-      "name": "claude-motion-to-mirage",
-      "source": "./third_party/claude-motion-to-mirage",
-      "description": "Import a Claude Motion video into Mirage."
-    },
-    {
       "name": "clay",
       "source": "./third_party/clay",
       "description": "Find prospects. Research accounts. Personalize outreach."
@@ -1913,6 +1908,11 @@
       "description": "Analyze your Meta ad creative & competitor ad libraries."
     },
     {
+      "name": "motion-to-mirage",
+      "source": "./third_party/motion-to-mirage",
+      "description": "Import a Claude Motion video into Mirage."
+    },
+    {
       "name": "msci-connector",
       "source": "./third_party/msci-connector",
       "description": "Data you can build on."
@@ -2978,8 +2978,8 @@
       "description": "Search, update, and manage Wealthbox data from inside Claude."
     },
     {
-      "name": "webex-for-claude",
-      "source": "./third_party/webex-for-claude",
+      "name": "webex-collaboration",
+      "source": "./third_party/webex-collaboration",
       "description": "Access your Webex meetings, messaging, and Vidcast content securely in Claude."
     },
     {

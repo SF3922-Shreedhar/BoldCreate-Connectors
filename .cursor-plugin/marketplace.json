@@ -503,11 +503,6 @@
       "source": "third_party/clarivate-compumark"
     },
     {
-      "name": "claude-motion-to-mirage",
-      "description": "Import a Claude Motion video into Mirage.",
-      "source": "third_party/claude-motion-to-mirage"
-    },
-    {
       "name": "clay",
       "description": "Find prospects. Research accounts. Personalize outreach.",
       "source": "third_party/clay"
@@ -1913,6 +1908,11 @@
       "source": "third_party/motion"
     },
     {
+      "name": "motion-to-mirage",
+      "description": "Import a Claude Motion video into Mirage.",
+      "source": "third_party/motion-to-mirage"
+    },
+    {
       "name": "msci-connector",
       "description": "Data you can build on.",
       "source": "third_party/msci-connector"
@@ -2978,9 +2978,9 @@
       "source": "third_party/wealthbox"
     },
     {
-      "name": "webex-for-claude",
+      "name": "webex-collaboration",
       "description": "Access your Webex meetings, messaging, and Vidcast content securely in Claude.",
-      "source": "third_party/webex-for-claude"
+      "source": "third_party/webex-collaboration"
     },
     {
       "name": "webex-meetings",

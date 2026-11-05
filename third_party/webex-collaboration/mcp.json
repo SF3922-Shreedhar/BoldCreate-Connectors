@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "webex-for-claude": {
+    "webex-collaboration": {
       "type": "http",
       "url": "https://mcp.webexapis.com/mcp/webex-suite"
     }

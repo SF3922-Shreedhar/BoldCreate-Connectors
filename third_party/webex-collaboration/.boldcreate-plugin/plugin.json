@@ -1,24 +1,24 @@
 {
   "$schema": "../../../schemas/boldcreate-plugin.schema.json",
-  "name": "claude-motion-to-mirage",
-  "displayName": "Claude Motion to Mirage",
+  "name": "webex-collaboration",
+  "displayName": "Webex for Claude",
   "version": "0.7.1",
-  "description": "Import a Claude Motion video into Mirage.",
+  "description": "Access your Webex meetings, messaging, and Vidcast content securely in Claude.",
   "author": {
     "name": "Syncfusion"
   },
-  "homepage": "https://mirage.app/",
+  "homepage": "https://cisco.com/",
   "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
   "license": "MIT",
-  "logo": "assets/logo.svg",
-  "category": "design",
+  "logo": "assets/logo.png",
+  "category": "marketing",
   "keywords": [
-    "claude-motion-to-mirage",
-    "design",
+    "webex-collaboration",
+    "marketing",
     "mcp"
   ],
   "hostedBy": "vendor",
-  "docs": "https://mirage.app/",
+  "docs": "https://cisco.com/",
   "rollout": {
     "phase": 1,
     "wave": "B"
@@ -28,9 +28,9 @@
   "components": {
     "mcp": [
       {
-        "name": "claude-motion-to-mirage",
+        "name": "webex-collaboration",
         "transport": "streamable-http",
-        "url": "https://mcp.mirage.app/claude-motion",
+        "url": "https://mcp.webexapis.com/mcp/webex-suite",
         "auth": {
           "type": "oauth",
           "alternatives": []
