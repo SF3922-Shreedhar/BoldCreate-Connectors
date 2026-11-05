@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "privacy": {
+      "type": "http",
+      "url": "https://mcp.privacy.com/"
+    }
+  }
+}

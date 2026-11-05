@@ -1,0 +1,24 @@
+{
+  "name": "lorikeet",
+  "displayName": "Lorikeet",
+  "version": "0.7.1",
+  "description": "A universal concierge for complex businesses.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.lorikeetcx.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "lorikeet",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "lorikeet": {
+      "type": "http",
+      "url": "https://mcp.lorikeetcx.ai/"
+    }
+  }
+}

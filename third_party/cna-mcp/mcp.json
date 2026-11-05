@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cna-mcp": {
+      "type": "http",
+      "url": "https://ask.cna.com.tw/mcp/connect"
+    }
+  }
+}

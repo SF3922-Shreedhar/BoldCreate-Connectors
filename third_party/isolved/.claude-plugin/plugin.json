@@ -1,0 +1,24 @@
+{
+  "name": "isolved",
+  "displayName": "isolved People Cloud",
+  "version": "0.7.1",
+  "description": "Your isolved data, inside Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.isolvedhcm.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "isolved",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "isolved": {
+      "type": "http",
+      "url": "https://api.myisolved.com/restmcp-prod/mcp"
+    }
+  }
+}

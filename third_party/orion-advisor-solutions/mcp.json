@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "orion-advisor-solutions": {
+      "type": "http",
+      "url": "https://gateway.oriondenali.ai/mcp"
+    }
+  }
+}

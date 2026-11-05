@@ -1,0 +1,24 @@
+{
+  "name": "datacamp",
+  "displayName": "DataCamp",
+  "version": "0.7.1",
+  "description": "DataCamp catalog and team admin for your AI assistant.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.datacamp.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "datacamp",
+    "education",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "datacamp": {
+      "type": "http",
+      "url": "https://mcp.datacamp.com/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "isolved": {
+      "type": "http",
+      "url": "https://api.myisolved.com/restmcp-prod/mcp"
+    }
+  }
+}

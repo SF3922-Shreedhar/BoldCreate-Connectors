@@ -1,0 +1,24 @@
+{
+  "name": "cna-mcp",
+  "displayName": "中央社新聞 CNA TAIWAN NEWS",
+  "version": "0.7.1",
+  "description": "把中央社可信新聞接進你的 AI｜Taiwan CNA news, sourced answers.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://ask.cna.com.tw/ask",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "cna-mcp",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "cna-mcp": {
+      "type": "http",
+      "url": "https://ask.cna.com.tw/mcp/connect"
+    }
+  }
+}

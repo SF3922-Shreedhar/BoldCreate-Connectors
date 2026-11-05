@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "db-fa-mcp": {
+      "type": "http",
+      "url": "https://mcp.financeanalytics.dnb.com/mcp"
+    }
+  }
+}
