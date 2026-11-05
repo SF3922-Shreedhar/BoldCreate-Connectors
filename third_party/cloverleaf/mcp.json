@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cloverleaf": {
+      "type": "http",
+      "url": "https://app.cloverleaf.me/api/mcp"
+    }
+  }
+}

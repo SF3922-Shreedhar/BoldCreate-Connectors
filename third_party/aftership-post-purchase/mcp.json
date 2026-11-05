@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aftership-post-purchase": {
+      "type": "http",
+      "url": "https://mcp.aftership.com/post-purchase"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "energy-aspects",
+  "displayName": "Energy Aspects",
+  "version": "0.7.1",
+  "description": "Access Energy Aspects' energy market research and data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.energyaspects.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "energy-aspects",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "energy-aspects": {
+      "type": "http",
+      "url": "https://mcp.energyaspects.com/mcp"
+    }
+  }
+}

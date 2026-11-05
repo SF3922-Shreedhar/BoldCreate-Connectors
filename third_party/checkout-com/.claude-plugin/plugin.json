@@ -1,0 +1,24 @@
+{
+  "name": "checkout-com",
+  "displayName": "Checkout.com",
+  "version": "0.7.1",
+  "description": "Investigate, troubleshoot, and understand payment operations.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.checkout.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "checkout-com",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "checkout-com": {
+      "type": "http",
+      "url": "https://mcp.checkout.com/"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pine-labs-payments-assista": {
+      "type": "http",
+      "url": "https://mcp.pinelabs.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "spara",
+  "displayName": "Spara",
+  "version": "0.7.1",
+  "description": "Build the agents that run your GTM.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.spara.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "spara",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "spara": {
+      "type": "http",
+      "url": "https://app.spara.co/mcp/customer/stream"
+    }
+  }
+}

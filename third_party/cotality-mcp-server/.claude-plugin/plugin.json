@@ -1,0 +1,24 @@
+{
+  "name": "cotality-mcp-server",
+  "displayName": "Cotality",
+  "version": "0.7.1",
+  "description": "Access Cotality’s property and location intelligence.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://cotality.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "cotality-mcp-server",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "cotality-mcp-server": {
+      "type": "http",
+      "url": "https://mcp.cotality.com/mcp"
+    }
+  }
+}

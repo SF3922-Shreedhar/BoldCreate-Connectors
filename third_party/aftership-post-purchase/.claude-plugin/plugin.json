@@ -1,0 +1,24 @@
+{
+  "name": "aftership-post-purchase",
+  "displayName": "AfterShip Post-Purchase",
+  "version": "0.7.1",
+  "description": "Track shipments and returns with AfterShip context.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.aftership.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "aftership-post-purchase",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "aftership-post-purchase": {
+      "type": "http",
+      "url": "https://mcp.aftership.com/post-purchase"
+    }
+  }
+}

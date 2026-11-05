@@ -1,0 +1,24 @@
+{
+  "name": "honeybadger",
+  "displayName": "Honeybadger",
+  "version": "0.7.1",
+  "description": "Investigate production errors, query logs, and manage dashboards and alarms from your AI assistant.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.honeybadger.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "honeybadger",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "honeybadger": {
+      "type": "http",
+      "url": "https://mcp.honeybadger.io/mcp"
+    }
+  }
+}

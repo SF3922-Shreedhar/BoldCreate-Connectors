@@ -1,0 +1,24 @@
+{
+  "name": "onchaindiligence",
+  "displayName": "OnChainDiligence",
+  "version": "0.7.1",
+  "description": "Inspect autonomous payments before execution and independently verify evidence afterward.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://onchaindiligence.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "onchaindiligence",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "onchaindiligence": {
+      "type": "http",
+      "url": "https://mcp.onchaindiligence.com/public/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "cloverleaf",
+  "displayName": "Cloverleaf",
+  "version": "0.7.1",
+  "description": "Bring Cloverleaf's personality insights into Claude to understand how you and your colleagues work together, and get coaching grounded in real assessment data, not generic advice.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://cloverleaf.me/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "cloverleaf",
+    "communication",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "cloverleaf": {
+      "type": "http",
+      "url": "https://app.cloverleaf.me/api/mcp"
+    }
+  }
+}

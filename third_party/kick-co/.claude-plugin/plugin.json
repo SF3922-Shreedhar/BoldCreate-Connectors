@@ -1,0 +1,24 @@
+{
+  "name": "kick-co",
+  "displayName": "Kick",
+  "version": "0.7.1",
+  "description": "Search, categorize, edit, and report in Kick.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://kick.co/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "kick-co",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "kick-co": {
+      "type": "http",
+      "url": "https://use.kick.co/mcp"
+    }
+  }
+}

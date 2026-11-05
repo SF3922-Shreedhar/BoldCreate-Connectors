@@ -1,0 +1,24 @@
+{
+  "name": "oak-national-academy",
+  "displayName": "Oak National Academy",
+  "version": "0.7.1",
+  "description": "Free, national curriculum-aligned Oak teaching resources.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.thenational.academy/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "oak-national-academy",
+    "education",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "oak-national-academy": {
+      "type": "http",
+      "url": "https://mcp.thenational.academy/mcp"
+    }
+  }
+}

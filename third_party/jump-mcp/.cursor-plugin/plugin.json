@@ -1,0 +1,28 @@
+{
+  "name": "jump-mcp",
+  "displayName": "Jump",
+  "version": "0.7.1",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Trusted AI for advisors & financial professionals.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://jump.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "jump-mcp",
+    "finance",
+    "mcp"
+  ],
+  "category": "finance",
+  "tags": [
+    "finance",
+    "mcp",
+    "http"
+  ],
+  "mcpServers": "./mcp.json"
+}

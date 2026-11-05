@@ -1,0 +1,24 @@
+{
+  "name": "maryland-compass",
+  "displayName": "Maryland Community Compass",
+  "version": "0.7.1",
+  "description": "Maryland's neighborhood development data platform.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://innovation.maryland.gov/Pages/default.aspx",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "maryland-compass",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "maryland-compass": {
+      "type": "http",
+      "url": "https://compass.maryland.gov/mcp/"
+    }
+  }
+}

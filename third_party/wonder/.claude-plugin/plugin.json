@@ -1,0 +1,24 @@
+{
+  "name": "wonder",
+  "displayName": "Wonder",
+  "version": "0.7.1",
+  "description": "Create and edit designs with Claude on a canvas where every design is real code.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://wonder.design/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "wonder",
+    "design",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "wonder": {
+      "type": "http",
+      "url": "https://mcp.wonder.so/mcp"
+    }
+  }
+}

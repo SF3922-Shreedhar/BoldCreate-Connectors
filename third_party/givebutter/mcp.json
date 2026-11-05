@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "givebutter": {
+      "type": "http",
+      "url": "https://mcp.givebutter.com/mcp"
+    }
+  }
+}

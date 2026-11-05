@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "bolna",
+  "displayName": "bolna",
+  "version": "0.7.1",
+  "description": "Manage Bolna voice AI agents and review call history and transcripts from Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://bolna.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "communication",
+  "keywords": [
+    "bolna",
+    "communication",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://bolna.ai/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "bolna",
+        "transport": "streamable-http",
+        "url": "https://mcp.bolna.ai/api/connector/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

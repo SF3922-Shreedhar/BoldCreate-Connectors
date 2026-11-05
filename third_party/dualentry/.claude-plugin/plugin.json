@@ -1,0 +1,24 @@
+{
+  "name": "dualentry",
+  "displayName": "DualEntry",
+  "version": "0.7.1",
+  "description": "Search, create, and manage your DualEntry accounting data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://dualentry.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "dualentry",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "dualentry": {
+      "type": "http",
+      "url": "https://api.dualentry.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sendcloud-mcp": {
+      "type": "http",
+      "url": "https://mcp.sendcloud.com/mcp"
+    }
+  }
+}

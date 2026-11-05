@@ -1,0 +1,24 @@
+{
+  "name": "august-digital-twins",
+  "displayName": "august",
+  "version": "0.7.1",
+  "description": "Understand your users with august Digital Twins.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://getaugust.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "august-digital-twins",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "august-digital-twins": {
+      "type": "http",
+      "url": "https://mcp.getaugust.ai/mcp"
+    }
+  }
+}

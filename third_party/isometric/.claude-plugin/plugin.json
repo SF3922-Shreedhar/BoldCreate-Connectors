@@ -1,0 +1,24 @@
+{
+  "name": "isometric",
+  "displayName": "Isometric",
+  "version": "0.7.1",
+  "description": "Agentic certification for the industrial economy.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://isometric.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "isometric",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "isometric": {
+      "type": "http",
+      "url": "https://api.isometric.com/mcp"
+    }
+  }
+}

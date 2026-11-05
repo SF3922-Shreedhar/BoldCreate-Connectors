@@ -1,0 +1,24 @@
+{
+  "name": "sequencehq",
+  "displayName": "Sequence",
+  "version": "0.7.1",
+  "description": "Billing, invoicing, and revenue data tools for Sequence.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.sequencehq.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "sequencehq",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "sequencehq": {
+      "type": "http",
+      "url": "https://eu.sequencehq.com/mcp"
+    }
+  }
+}

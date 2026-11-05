@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "breezy-hr-mcp": {
+      "type": "http",
+      "url": "https://mcp.breezy.hr/mcp"
+    }
+  }
+}

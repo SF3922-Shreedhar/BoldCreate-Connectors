@@ -1,0 +1,24 @@
+{
+  "name": "contract-factory-siren",
+  "displayName": "Contract-Factory — Sociétés & SIREN",
+  "version": "0.7.1",
+  "description": "Infos officielles des entreprises françaises (RNE).",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.contract-factory.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "contract-factory-siren",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "contract-factory-siren": {
+      "type": "http",
+      "url": "https://www.contract-factory.com/mcp.php"
+    }
+  }
+}

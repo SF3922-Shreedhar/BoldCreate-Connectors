@@ -1,0 +1,24 @@
+{
+  "name": "macrobond-ai-datafeed-mcp",
+  "displayName": "Macrobond Assist",
+  "version": "0.7.1",
+  "description": "Spend your time on the analysis, not on finding the data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.macrobond.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "macrobond-ai-datafeed-mcp",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "macrobond-ai-datafeed-mcp": {
+      "type": "http",
+      "url": "https://platform.macrobond.com/mcp"
+    }
+  }
+}

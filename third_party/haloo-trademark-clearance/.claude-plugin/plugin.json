@@ -1,0 +1,24 @@
+{
+  "name": "haloo-trademark-clearance",
+  "displayName": "Haloo Trademark Clearance",
+  "version": "0.7.1",
+  "description": "Full trademark clearance search, direct in Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://haloo.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "haloo-trademark-clearance",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "haloo-trademark-clearance": {
+      "type": "http",
+      "url": "https://connect.haloo.ai/trademark-search/mcp"
+    }
+  }
+}

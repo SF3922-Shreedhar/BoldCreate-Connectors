@@ -1,0 +1,24 @@
+{
+  "name": "tana",
+  "displayName": "Tana",
+  "version": "0.7.1",
+  "description": "Your meetings, decisions, and docs as Claude context.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://tana.inc/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "tana",
+    "communication",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "tana": {
+      "type": "http",
+      "url": "https://home.tana.inc/mcp"
+    }
+  }
+}

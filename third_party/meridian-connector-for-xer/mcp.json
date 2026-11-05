@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meridian-connector-for-xer": {
+      "type": "http",
+      "url": "https://xero-connector.meridian.pilot.com/mcp"
+    }
+  }
+}

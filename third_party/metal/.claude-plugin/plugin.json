@@ -1,0 +1,24 @@
+{
+  "name": "metal",
+  "displayName": "Metal",
+  "version": "0.7.1",
+  "description": "Access your deal intelligence.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.metal.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "metal",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "metal": {
+      "type": "http",
+      "url": "https://mcp.metal.ai/mcp"
+    }
+  }
+}

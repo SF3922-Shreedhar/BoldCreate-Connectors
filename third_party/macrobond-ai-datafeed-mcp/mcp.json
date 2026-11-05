@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "macrobond-ai-datafeed-mcp": {
+      "type": "http",
+      "url": "https://platform.macrobond.com/mcp"
+    }
+  }
+}

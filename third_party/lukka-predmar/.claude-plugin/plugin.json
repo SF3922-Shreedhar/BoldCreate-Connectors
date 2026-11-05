@@ -1,0 +1,24 @@
+{
+  "name": "lukka-predmar",
+  "displayName": "Lukka Prediction Markets Data MCP",
+  "version": "0.7.1",
+  "description": "Prediction market intelligence across several venues, including Kalshi and Polymarket: market discovery, classification, pricing, open interest and volume.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://lukka.tech/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "lukka-predmar",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "lukka-predmar": {
+      "type": "http",
+      "url": "https://predmar.mcp.lukka.tech/"
+    }
+  }
+}

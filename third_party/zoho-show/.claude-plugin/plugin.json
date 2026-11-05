@@ -1,0 +1,24 @@
+{
+  "name": "zoho-show",
+  "displayName": "Zoho Show",
+  "version": "0.7.1",
+  "description": "Create, edit and manage presentation decks.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://zoho.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "zoho-show",
+    "communication",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "zoho-show": {
+      "type": "http",
+      "url": "https://show.zoho.com/mcp"
+    }
+  }
+}

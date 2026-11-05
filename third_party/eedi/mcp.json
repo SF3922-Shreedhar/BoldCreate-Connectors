@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "eedi": {
+      "type": "http",
+      "url": "https://teacher-tools.eedi.ai/mcp"
+    }
+  }
+}

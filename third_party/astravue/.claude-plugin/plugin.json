@@ -1,0 +1,24 @@
+{
+  "name": "astravue",
+  "displayName": "Astravue App",
+  "version": "0.7.1",
+  "description": "Manage projects, tasks, and team workload in one place.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://astravue.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "astravue",
+    "communication",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "astravue": {
+      "type": "http",
+      "url": "https://api.astravue.com/mcp"
+    }
+  }
+}

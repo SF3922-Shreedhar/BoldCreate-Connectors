@@ -1,0 +1,24 @@
+{
+  "name": "voluum",
+  "displayName": "Voluum",
+  "version": "0.7.1",
+  "description": "Manage and analyze your Voluum ad-tracking campaigns directly from Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://voluum.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "voluum",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "voluum": {
+      "type": "http",
+      "url": "https://mcp.voluum.com/mcp"
+    }
+  }
+}
