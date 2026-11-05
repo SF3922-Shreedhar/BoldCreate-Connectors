@@ -543,7 +543,7 @@
       "version": "0.7.1",
       "description": "Manage farm operations in AGRI: labor tasks, harvest, irrigation, inventory, purchasing and cost reports.",
       "source": "third_party/agri-mcp-tcit-cl",
-      "logo": "third_party/agri-mcp-tcit-cl/assets/logo.svg",
+      "logo": "third_party/agri-mcp-tcit-cl/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -1671,7 +1671,7 @@
       "version": "0.7.1",
       "description": "Financial news, SEC filings, earnings call transcripts, fundamentals, sentiment, market data and stock research for AI, with every answer cited. The sources that move markets.",
       "source": "third_party/bigdata-com",
-      "logo": "third_party/bigdata-com/assets/logo.svg",
+      "logo": "third_party/bigdata-com/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -4071,7 +4071,7 @@
       "version": "0.7.1",
       "description": "Trusted Regulatory Answers, by Clarivate Cortellis.",
       "source": "third_party/cortellis",
-      "logo": "third_party/cortellis/assets/logo.svg",
+      "logo": "third_party/cortellis/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -4167,7 +4167,7 @@
       "version": "0.7.1",
       "description": "Access business data from hundreds of sources.",
       "source": "third_party/coupler-io",
-      "logo": "third_party/coupler-io/assets/logo.svg",
+      "logo": "third_party/coupler-io/assets/logo.png",
       "category": "marketing",
       "components": [
         "mcp"
@@ -5799,7 +5799,7 @@
       "version": "0.7.1",
       "description": "Send and receive faxes securely from Claude.",
       "source": "third_party/fax-plus",
-      "logo": "third_party/fax-plus/assets/logo.svg",
+      "logo": "third_party/fax-plus/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -7767,7 +7767,7 @@
       "version": "0.7.1",
       "description": "Full trademark clearance search, direct in Claude.",
       "source": "third_party/haloo-trademark-clearance",
-      "logo": "third_party/haloo-trademark-clearance/assets/logo.svg",
+      "logo": "third_party/haloo-trademark-clearance/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -7839,7 +7839,7 @@
       "version": "0.7.1",
       "description": "Build, Ship and Secure your apps on Harness Platform.",
       "source": "third_party/harness",
-      "logo": "third_party/harness/assets/logo.svg",
+      "logo": "third_party/harness/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -9207,7 +9207,7 @@
       "version": "0.7.1",
       "description": "Find funders who support causes like yours.",
       "source": "third_party/kindora-funder-discovery",
-      "logo": "third_party/kindora-funder-discovery/assets/logo.svg",
+      "logo": "third_party/kindora-funder-discovery/assets/logo.png",
       "category": "data",
       "components": [
         "mcp"
@@ -9639,7 +9639,7 @@
       "version": "0.7.1",
       "description": "Ask legal questions and get grounded answers with citations.",
       "source": "third_party/legora",
-      "logo": "third_party/legora/assets/logo.svg",
+      "logo": "third_party/legora/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -11103,7 +11103,7 @@
       "version": "0.7.1",
       "description": "Conduct legal research and create work product.",
       "source": "third_party/midpage",
-      "logo": "third_party/midpage/assets/logo.svg",
+      "logo": "third_party/midpage/assets/logo.png",
       "category": "legal",
       "components": [
         "mcp"
@@ -11583,7 +11583,7 @@
       "version": "0.7.1",
       "description": "Data you can build on.",
       "source": "third_party/msci-connector",
-      "logo": "third_party/msci-connector/assets/logo.svg",
+      "logo": "third_party/msci-connector/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -14223,7 +14223,7 @@
       "version": "0.7.1",
       "description": "Search and analyze Ramp spend across 50,000+ businesses.",
       "source": "third_party/ramp-data",
-      "logo": "third_party/ramp-data/assets/logo.svg",
+      "logo": "third_party/ramp-data/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -15135,7 +15135,7 @@
       "version": "0.7.1",
       "description": "Create HTML in Claude. Share it with Send.",
       "source": "third_party/send",
-      "logo": "third_party/send/assets/logo.svg",
+      "logo": "third_party/send/assets/logo.png",
       "category": "design",
       "components": [
         "mcp"
@@ -17415,7 +17415,7 @@
       "version": "0.7.1",
       "description": "Bring Trustfull fraud intelligence and risk assessments into Claude.",
       "source": "third_party/trustfull",
-      "logo": "third_party/trustfull/assets/logo.svg",
+      "logo": "third_party/trustfull/assets/logo.png",
       "category": "productivity",
       "components": [
         "mcp"
@@ -18447,7 +18447,7 @@
       "version": "0.7.1",
       "description": "Your Global Multi-Asset Trading & Analysis Powerhouse.",
       "source": "third_party/webull",
-      "logo": "third_party/webull/assets/logo.svg",
+      "logo": "third_party/webull/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"

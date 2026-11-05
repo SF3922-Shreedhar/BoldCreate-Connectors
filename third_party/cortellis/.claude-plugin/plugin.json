@@ -14,7 +14,7 @@
     "science",
     "mcp"
   ],
-  "icon": "./assets/logo.svg",
+  "icon": "./assets/logo.png",
   "mcpServers": {
     "cortellis": {
       "type": "http",
