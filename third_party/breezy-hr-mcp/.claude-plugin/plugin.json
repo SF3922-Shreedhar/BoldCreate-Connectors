@@ -1,0 +1,24 @@
+{
+  "name": "breezy-hr-mcp",
+  "displayName": "Breezy HR MCP",
+  "version": "0.7.1",
+  "description": "Turn a conversation with Claude into actual work. Connect to Breezy to manage your hiring workflow, from job creation to reporting on hiring activity.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://breezy.hr/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "breezy-hr-mcp",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "breezy-hr-mcp": {
+      "type": "http",
+      "url": "https://mcp.breezy.hr/mcp"
+    }
+  }
+}

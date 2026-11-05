@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "brightcove": {
+      "type": "http",
+      "url": "https://mcp.brightcove.com/mcp"
+    }
+  }
+}

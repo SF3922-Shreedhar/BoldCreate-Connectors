@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "airfield-directory": {
+      "type": "http",
+      "url": "https://airfield.directory/mcp"
+    }
+  }
+}

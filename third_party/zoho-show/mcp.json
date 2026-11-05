@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zoho-show": {
+      "type": "http",
+      "url": "https://show.zoho.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "grtwo-docs": {
+      "type": "http",
+      "url": "https://www.grtwo.app/api/mcp"
+    }
+  }
+}

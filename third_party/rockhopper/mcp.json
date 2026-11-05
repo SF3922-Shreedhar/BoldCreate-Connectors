@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rockhopper": {
+      "type": "http",
+      "url": "https://mcp.rockhopper.co/mcp"
+    }
+  }
+}

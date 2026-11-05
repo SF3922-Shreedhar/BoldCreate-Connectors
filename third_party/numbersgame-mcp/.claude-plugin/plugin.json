@@ -1,0 +1,24 @@
+{
+  "name": "numbersgame-mcp",
+  "displayName": "NumbersGame MCP",
+  "version": "0.7.1",
+  "description": "Query and update QuickBooks Online and Xero from Claude — invoices, bills, reports, and reconciliations.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://numbersgame.xyz/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "numbersgame-mcp",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "numbersgame-mcp": {
+      "type": "http",
+      "url": "https://mcp.numbersgame.xyz/mcp"
+    }
+  }
+}

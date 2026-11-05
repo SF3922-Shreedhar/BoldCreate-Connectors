@@ -1,0 +1,24 @@
+{
+  "name": "extend",
+  "displayName": "Extend",
+  "version": "0.7.1",
+  "description": "Turn documents into structured data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.extend.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "extend",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "extend": {
+      "type": "http",
+      "url": "https://mcp.extend.ai/mcp"
+    }
+  }
+}

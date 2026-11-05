@@ -1,0 +1,24 @@
+{
+  "name": "vibe-ai",
+  "displayName": "Vibe AI",
+  "version": "0.7.1",
+  "description": "Transcripts, summaries, action items, and memos from your Vibe Bot and Vibe Dot meetings.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://vibe.us/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "vibe-ai",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "vibe-ai": {
+      "type": "http",
+      "url": "https://mcp.vibe.us/mcp"
+    }
+  }
+}

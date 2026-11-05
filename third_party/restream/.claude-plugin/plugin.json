@@ -1,0 +1,24 @@
+{
+  "name": "restream",
+  "displayName": "Restream",
+  "version": "0.7.1",
+  "description": "Create and manage live streams on 30+ destinations.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://restream.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "restream",
+    "communication",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "restream": {
+      "type": "http",
+      "url": "https://mcp.restream.io/mcp"
+    }
+  }
+}

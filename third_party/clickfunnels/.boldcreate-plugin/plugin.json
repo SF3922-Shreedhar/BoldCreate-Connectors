@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "clickfunnels",
+  "displayName": "ClickFunnels",
+  "version": "0.7.1",
+  "description": "Connect Claude to ClickFunnels to view, create, and update your funnels, contacts, courses, and store data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.clickfunnels.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "commerce",
+  "keywords": [
+    "clickfunnels",
+    "commerce",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://www.clickfunnels.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "clickfunnels",
+        "transport": "streamable-http",
+        "url": "https://agents.myclickfunnels.com/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "vasara",
+  "displayName": "Vasara",
+  "version": "0.7.1",
+  "description": "Search case law and legislation across Lithuania and the EU, with verifiable citations.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://vasara.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "vasara",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "vasara": {
+      "type": "http",
+      "url": "https://mcp.vasara.ai/"
+    }
+  }
+}

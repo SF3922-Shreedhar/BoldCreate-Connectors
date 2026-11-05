@@ -1,0 +1,24 @@
+{
+  "name": "prefect",
+  "displayName": "Prefect",
+  "version": "0.7.1",
+  "description": "Inspect Prefect workflows.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.prefect.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "prefect",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "prefect": {
+      "type": "http",
+      "url": "https://prefect.fastmcp.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "terminal49",
+  "displayName": "Terminal49",
+  "version": "0.7.1",
+  "description": "Track ocean shipments and containers.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://terminal49.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "terminal49",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "terminal49": {
+      "type": "http",
+      "url": "https://mcp.terminal49.com/"
+    }
+  }
+}

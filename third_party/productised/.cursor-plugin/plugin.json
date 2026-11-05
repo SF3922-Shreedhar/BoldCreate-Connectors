@@ -1,0 +1,28 @@
+{
+  "name": "productised",
+  "displayName": "Productised",
+  "version": "0.7.1",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "AI-Powered Inbound for Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.productised.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "productised",
+    "design",
+    "mcp"
+  ],
+  "category": "design",
+  "tags": [
+    "design",
+    "mcp",
+    "http"
+  ],
+  "mcpServers": "./mcp.json"
+}

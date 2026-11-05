@@ -1,0 +1,24 @@
+{
+  "name": "hanover-park",
+  "displayName": "Hanover Park",
+  "version": "0.7.1",
+  "description": "Run your investment firm in real-time with access to portfolio, accounting, performance and LP data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.hanoverpark.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "hanover-park",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "hanover-park": {
+      "type": "http",
+      "url": "https://app.hanoverpark.com/api/mcp"
+    }
+  }
+}

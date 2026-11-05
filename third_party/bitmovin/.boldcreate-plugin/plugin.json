@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "bitmovin",
+  "displayName": "Bitmovin",
+  "version": "0.7.1",
+  "description": "Connect Bitmovin to access player, observability, encoding, ads and more in one place.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://bitmovin.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "media",
+  "keywords": [
+    "bitmovin",
+    "media",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://bitmovin.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "bitmovin",
+        "transport": "streamable-http",
+        "url": "https://mcp.bitmovin.com/",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

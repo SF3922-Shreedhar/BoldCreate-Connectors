@@ -1,0 +1,24 @@
+{
+  "name": "supersei-crm",
+  "displayName": "Supersei CRM",
+  "version": "0.7.1",
+  "description": "Run your Supersei sales CRM from a conversation: leads, calls, WhatsApp, meetings, campaigns, reports and workspace setup, with exactly your permissions.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://supersei.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "supersei-crm",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "supersei-crm": {
+      "type": "http",
+      "url": "https://api.supersei.com/mcp"
+    }
+  }
+}

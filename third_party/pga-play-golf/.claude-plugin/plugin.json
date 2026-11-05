@@ -1,0 +1,24 @@
+{
+  "name": "pga-play-golf",
+  "displayName": "PGA – Play Golf",
+  "version": "0.7.1",
+  "description": "Find a golf coach.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.pga.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "pga-play-golf",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "pga-play-golf": {
+      "type": "http",
+      "url": "https://mcp.pga.com/mcp"
+    }
+  }
+}

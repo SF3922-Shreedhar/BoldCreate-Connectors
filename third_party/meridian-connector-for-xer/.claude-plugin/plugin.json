@@ -1,0 +1,24 @@
+{
+  "name": "meridian-connector-for-xer",
+  "displayName": "Meridian Connector for Xero",
+  "version": "0.7.1",
+  "description": "Make changes to Xero from within Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://meridian.pilot.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "meridian-connector-for-xer",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "meridian-connector-for-xer": {
+      "type": "http",
+      "url": "https://xero-connector.meridian.pilot.com/mcp"
+    }
+  }
+}

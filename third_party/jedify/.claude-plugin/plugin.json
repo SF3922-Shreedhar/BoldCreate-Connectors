@@ -1,0 +1,24 @@
+{
+  "name": "jedify",
+  "displayName": "Jedify",
+  "version": "0.7.1",
+  "description": "Governed, live business context for you and your agents - so they reason and act on your organization’s trusted data, definitions, and knowledge.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://jedify.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "jedify",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "jedify": {
+      "type": "http",
+      "url": "https://be.jedify.com/mcp"
+    }
+  }
+}

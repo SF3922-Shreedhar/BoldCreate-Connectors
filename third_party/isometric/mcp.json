@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "isometric": {
+      "type": "http",
+      "url": "https://api.isometric.com/mcp"
+    }
+  }
+}

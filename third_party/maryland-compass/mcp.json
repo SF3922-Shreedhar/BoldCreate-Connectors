@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "maryland-compass": {
+      "type": "http",
+      "url": "https://compass.maryland.gov/mcp/"
+    }
+  }
+}

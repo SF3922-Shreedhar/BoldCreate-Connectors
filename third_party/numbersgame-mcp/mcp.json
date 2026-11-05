@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "numbersgame-mcp": {
+      "type": "http",
+      "url": "https://mcp.numbersgame.xyz/mcp"
+    }
+  }
+}

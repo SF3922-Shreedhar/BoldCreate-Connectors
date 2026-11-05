@@ -1,0 +1,24 @@
+{
+  "name": "boardwise",
+  "displayName": "BoardWise",
+  "version": "0.7.1",
+  "description": "Calm board-defense guidance for licensed pros.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://boardwise.online/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "boardwise",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "boardwise": {
+      "type": "http",
+      "url": "https://uakozrqrztgrgwoywxkx.supabase.co/functions/v1/mcp-server"
+    }
+  }
+}

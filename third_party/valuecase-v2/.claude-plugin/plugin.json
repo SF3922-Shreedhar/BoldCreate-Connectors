@@ -1,0 +1,24 @@
+{
+  "name": "valuecase-v2",
+  "displayName": "Valuecase App",
+  "version": "0.7.1",
+  "description": "Search, create and update Valuecase spaces.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://valuecase.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "valuecase-v2",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "valuecase-v2": {
+      "type": "http",
+      "url": "https://mcp.valuecase.com/mcp"
+    }
+  }
+}

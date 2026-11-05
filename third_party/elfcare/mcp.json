@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "elfcare": {
+      "type": "http",
+      "url": "https://patient.elf.care/api/mcp"
+    }
+  }
+}

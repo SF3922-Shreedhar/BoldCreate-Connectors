@@ -1,0 +1,24 @@
+{
+  "name": "clio",
+  "displayName": "Clio",
+  "version": "0.7.1",
+  "description": "Research the law, analyze dockets and develop case strategy with Clio Library and Clio Docket, with citations back to the sources.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.clio.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "clio",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "clio": {
+      "type": "http",
+      "url": "https://mcp.api.clio.com/mcp"
+    }
+  }
+}

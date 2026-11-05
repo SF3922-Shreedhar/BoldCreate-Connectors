@@ -1,0 +1,24 @@
+{
+  "name": "ninout",
+  "displayName": "Ninout",
+  "version": "0.7.1",
+  "description": "Design, publish, and analyze forms entirely in chat.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.ninout.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "ninout",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "ninout": {
+      "type": "http",
+      "url": "https://mcp.svy.ooo/mcp"
+    }
+  }
+}

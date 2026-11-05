@@ -1,0 +1,24 @@
+{
+  "name": "omega-point",
+  "displayName": "Omega Point",
+  "version": "0.7.1",
+  "description": "Turn market, index, and portfolio data into decisions: institutional risk, performance, and factor analytics in one place.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://omegapoint.ai/?ref=claude-directory",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "omega-point",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "omega-point": {
+      "type": "http",
+      "url": "https://mcp.ompnt.com/mcp"
+    }
+  }
+}

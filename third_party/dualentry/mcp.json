@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dualentry": {
+      "type": "http",
+      "url": "https://api.dualentry.com/mcp"
+    }
+  }
+}

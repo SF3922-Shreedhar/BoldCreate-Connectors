@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "voluum": {
+      "type": "http",
+      "url": "https://mcp.voluum.com/mcp"
+    }
+  }
+}

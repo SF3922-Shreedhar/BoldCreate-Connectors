@@ -1,0 +1,24 @@
+{
+  "name": "meko",
+  "displayName": "Meko",
+  "version": "0.7.1",
+  "description": "Shared context for agents that work and learn together.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.mekodata.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "meko",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "meko": {
+      "type": "http",
+      "url": "https://mcp.mekodata.ai/mcp"
+    }
+  }
+}

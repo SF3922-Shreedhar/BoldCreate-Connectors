@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "public-holdings": {
+      "type": "http",
+      "url": "https://mcp.public.com/read-only/mcp"
+    }
+  }
+}

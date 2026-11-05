@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "tixel",
+  "displayName": "Tixel",
+  "version": "0.7.1",
+  "description": "Buy and sell tickets safely, fan to fan, at fair prices.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://tixel.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "commerce",
+  "keywords": [
+    "tixel",
+    "commerce",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://tixel.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "tixel",
+        "transport": "streamable-http",
+        "url": "https://mcp-v1.tixel.com/mcp",
+        "auth": {
+          "type": "none",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP initialize and tools/list on 2026-11-05: HTTP 200 with a tool list, no sign-in asked; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

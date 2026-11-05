@@ -1,0 +1,24 @@
+{
+  "name": "airfield-directory",
+  "displayName": "Airfield Directory",
+  "version": "0.7.1",
+  "description": "Airfield Reports, fees and aviation data for GA Pilots.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://airfield.directory/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "airfield-directory",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "airfield-directory": {
+      "type": "http",
+      "url": "https://airfield.directory/mcp"
+    }
+  }
+}

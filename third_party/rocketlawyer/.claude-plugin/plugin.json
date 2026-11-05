@@ -1,0 +1,24 @@
+{
+  "name": "rocketlawyer",
+  "displayName": "Rocket Lawyer",
+  "version": "0.7.1",
+  "description": "Attorney access for contract reviews & legal protection.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.rocketlawyer.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "rocketlawyer",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "rocketlawyer": {
+      "type": "http",
+      "url": "https://api.rocketlawyer.com/mcp-du/mcp"
+    }
+  }
+}

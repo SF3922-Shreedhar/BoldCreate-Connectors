@@ -1,0 +1,24 @@
+{
+  "name": "mastercard-developers",
+  "displayName": "Mastercard Developers",
+  "version": "0.7.1",
+  "description": "Up-to-date Mastercard APIs, docs, and guides.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://developer.mastercard.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "mastercard-developers",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "mastercard-developers": {
+      "type": "http",
+      "url": "https://developer.mcp.mastercard.com/"
+    }
+  }
+}

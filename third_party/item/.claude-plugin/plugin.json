@@ -1,0 +1,24 @@
+{
+  "name": "item",
+  "displayName": "item",
+  "version": "0.7.1",
+  "description": "Search, analyze, and act on CRM data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://item.app/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "item",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "item": {
+      "type": "http",
+      "url": "https://mcp.item.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "elfcare",
+  "displayName": "Elfcare",
+  "version": "0.7.1",
+  "description": "Explore your Elfcare test results.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://elf.care/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "elfcare",
+    "health",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "elfcare": {
+      "type": "http",
+      "url": "https://patient.elf.care/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "sprites",
+  "displayName": "Sprites",
+  "version": "0.7.1",
+  "description": "Let Claude manage your Sprites.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://fly.io/sprites",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "sprites",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "sprites": {
+      "type": "http",
+      "url": "https://sprites.dev/mcp"
+    }
+  }
+}

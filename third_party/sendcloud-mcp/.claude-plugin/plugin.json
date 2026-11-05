@@ -1,0 +1,24 @@
+{
+  "name": "sendcloud-mcp",
+  "displayName": "Sendcloud",
+  "version": "0.7.1",
+  "description": "Manage your shipping without leaving the chat.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://sendcloud.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "sendcloud-mcp",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "sendcloud-mcp": {
+      "type": "http",
+      "url": "https://mcp.sendcloud.com/mcp"
+    }
+  }
+}

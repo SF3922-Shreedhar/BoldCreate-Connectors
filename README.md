@@ -32,10 +32,13 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `adspirer-social-ads` | [Adspirer Social Ads](third_party/adspirer-social-ads/) | Analytics | Paid social agent for Meta Ads (Facebook & Instagram) and TikTok Ads — researches competitor ads, plans, launches (paused) and autonomously runs your social advertising campaigns. |
 | `adwhispr-ads` | [AdWhispr Ads](third_party/adwhispr-ads/) | Analytics | Research any brand's live Facebook and TikTok ads, find your real competitors, and launch campaigns on Google, TikTok, and Meta from chat. |
 | `affinity` | [Affinity](third_party/affinity/) | Finance | Search, update, and prep deals without switching tabs. |
+| `aftership-post-purchase` | [AfterShip Post-Purchase](third_party/aftership-post-purchase/) | Commerce | Track shipments and returns with AfterShip context. |
 | `aftership-tiktok-shop` | [AfterShip Channels for TikTok Shop](third_party/aftership-tiktok-shop/) | Commerce | List, sync & grow your TikTok Shop business. |
 | `agentmail` | [AgentMail](third_party/agentmail/) | Developer Tools | Email inboxes for AI agents. |
+| `agility-cms` | [Agility CMS](third_party/agility-cms/) | Developer Tools | AI pipelines for developers and marketers. Model content, author pages, publish updates, and manage media across multiple Agility CMS instances through natural language. |
 | `ahrefs` | [Ahrefs](third_party/ahrefs/) | Marketing | SEO & AI search analytics. |
 | `aiera` | [Aiera](third_party/aiera/) | Finance | Live events, filings, company publications, and more. |
+| `airfield-directory` | [Airfield Directory](third_party/airfield-directory/) | Productivity | Airfield Reports, fees and aviation data for GA Pilots. |
 | `airops` | [AirOps](third_party/airops/) | Analytics | Craft content that wins AI search. |
 | `airtable` | [Airtable](third_party/airtable/) | Database | Bring your structured data to Claude. |
 | `airwallex` | [Airwallex Developer](third_party/airwallex/) | Finance | Integrate with the Airwallex Platform using Claude. |
@@ -46,6 +49,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `alma` | [Alma](third_party/alma/) | Science | Your nutrition data, inside every Claude conversation. |
 | `alpha-vantage` | [Alpha Vantage MCP Server](third_party/alpha-vantage/) | Finance | Stock market data: stocks, options, fundamentals, earnings, SEC filings, indices, news, exchange rates, commodities, and other trading signals to power your quantitative finance workflow. |
 | `alphaxiv` | [alphaXiv](third_party/alphaxiv/) | Analytics | Fast search and full-text access over arXiv pre-prints. |
+| `alpic` | [Alpic](third_party/alpic/) | Analytics | Manage your MCP Servers and MCP Apps hosted on Alpic. |
 | `amass-connector` | [Amass Connector](third_party/amass-connector/) | Science | Life sciences intelligence, unified — publications, trials, drugs, genes, regulatory approvals, and patents in one cross-linked connector. |
 | `amazon-selling-partner` | [Amazon Selling Partner](third_party/amazon-selling-partner/) | Finance | Amazon Selling Partner MCP. |
 | `amplitude` | [Amplitude](third_party/amplitude/) | Analytics | Query Amplitude product analytics, charts, and experiments. |
@@ -56,26 +60,31 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `articulate` | [Articulate](third_party/articulate/) | Education | Build interactive training right from Claude. |
 | `asana` | [Asana](third_party/asana/) | Project Management | Connect to Asana to coordinate tasks, projects, and goals. |
 | `ashby` | [Ashby](third_party/ashby/) | Productivity | Search, analyze, and act on your recruiting data. |
+| `astravue` | [Astravue App](third_party/astravue/) | Communication | Manage projects, tasks, and team workload in one place. |
 | `atlar` | [Atlar](third_party/atlar/) | Finance | Query your live treasury data: accounts, balances, transactions, and forecasts—directly from Claude. |
 | `atlasfindings` | [atlasFindings](third_party/atlasfindings/) | Analytics | Search, investigate, and act on Atlas data. |
 | `atlassian` | [Atlassian (Jira + Confluence)](third_party/atlassian/) | Project Management | Search and update Jira issues and Confluence pages. |
 | `attention` | [Attention](third_party/attention/) | Marketing | Search, analyze, and act on client conversations. |
 | `attentive` | [Attentive](third_party/attentive/) | Communication | Attentive, inside the AI tools you already use. |
 | `attio` | [Attio](third_party/attio/) | Productivity | Search, manage, and update your Attio CRM from Claude. |
+| `august-digital-twins` | [august](third_party/august-digital-twins/) | Analytics | Understand your users with august Digital Twins. |
 | `aurora` | [Aurora](third_party/aurora/) | Legal | Search your Consilio matters, docs, and more. |
 | `autodesk-help` | [Autodesk Product Help](third_party/autodesk-help/) | Design | Securely access Autodesk's help documentation. |
 | `aws-knowledge` | [AWS Knowledge](third_party/aws-knowledge/) | Documentation | Search AWS documentation, API references, and regional availability. |
 | `aws-marketplace` | [AWS Marketplace](third_party/aws-marketplace/) | Productivity | Discover, evaluate, and buy solutions for the cloud. |
 | `aws-mcp` | [AWS MCP](third_party/aws-mcp/) | Developer Tools | Give agents secure access to AWS via MCP. |
 | `b12-website-generator` | [Website Generator by B12](third_party/b12-website-generator/) | Developer Tools | Build a website or web app in minutes! Generate, design, write code, and create copy for your website. Powered by B12. Contact: hello@b12.io. |
+| `badger-maps-standard` | [Badger Maps (Standard)](third_party/badger-maps-standard/) | Productivity | Badger Maps is the #1 field sales platform. |
 | `base44` | [Base44](third_party/base44/) | Developer Tools | Build and manage Base44 apps. |
 | `beehiiv` | [beehiiv](third_party/beehiiv/) | Design | Connect your beehiiv workspace to draft, design, analyze, and more. |
+| `belvo` | [Belvo MCP](third_party/belvo/) | Analytics | Understand your finances on your own terms. |
 | `bigdata-com` | [Bigdata.com](third_party/bigdata-com/) | Finance | Financial news, SEC filings, earnings call transcripts, fundamentals, sentiment, market data and stock research for AI, with every answer cited. The sources that move markets. |
 | `bigin-by-zoho-crm` | [Bigin by Zoho CRM](third_party/bigin-by-zoho-crm/) | Marketing | Simplify sales and customer management for small businesses. |
 | `bill` | [BILL](third_party/bill/) | Finance | Finance answers, where you are. |
 | `biorender` | [BioRender](third_party/biorender/) | Science | Search the BioRender library, find your files, and generate new scientific figures directly from Claude. |
 | `bird` | [Bird](third_party/bird/) | Developer Tools | Send email, SMS, and WhatsApp, place calls, verify users, and run your agent's inbox. |
 | `bitly` | [Bitly](third_party/bitly/) | Analytics | Shorten links, generate QR Codes, and track performance. |
+| `bitmovin` | [Bitmovin](third_party/bitmovin/) | Media | Connect Bitmovin to access player, observability, encoding, ads and more in one place. |
 | `bitrise-mcp` | [Bitrise MCP](third_party/bitrise-mcp/) | Developer Tools | Set up and manage mobile CI/CD on Bitrise: build, test, and distribute iOS, Android, Flutter, and React Native apps from your AI assistant. |
 | `black-diamond` | [Black Diamond](third_party/black-diamond/) | Finance | Client, portfolio, and performance data for advisors. |
 | `blackbaud` | [Blackbaud](third_party/blackbaud/) | Analytics | Search, explore, and query Blackbaud data. |
@@ -84,13 +93,18 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `bling-mcp` | [Bling MCP](third_party/bling-mcp/) | Developer Tools | Access and manage your Bling directly in Claude. |
 | `blockscout` | [Blockscout](third_party/blockscout/) | Blockchain | Query Ethereum and EVM blockchains: blocks, transactions, addresses, tokens, and smart contracts. |
 | `bloomberg-law` | [Bloomberg Law](third_party/bloomberg-law/) | Legal | Legal intelligence powered by Bloomberg AI. |
+| `boardwise` | [BoardWise](third_party/boardwise/) | Legal | Calm board-defense guidance for licensed pros. |
+| `bolna` | [bolna](third_party/bolna/) | Communication | Manage Bolna voice AI agents and review call history and transcripts from Claude. |
+| `bonsai` | [Bonsai](third_party/bonsai/) | Productivity | Manage your CRM, client projects and invoices from Claude. |
 | `botify-mcp` | [Botify MCP](third_party/botify-mcp/) | Analytics | AI search visibility, from insight to action. |
 | `brand24` | [Brand24](third_party/brand24/) | Marketing | Analyze online discussions. |
 | `brandfetch` | [Brandfetch](third_party/brandfetch/) | Design | Make everything Claude creates on-brand. |
 | `braze` | [Braze](third_party/braze/) | Marketing | Braze Marketers can use this connector to answer questions, analyze trends, and provide insights. |
+| `breezy-hr-mcp` | [Breezy HR MCP](third_party/breezy-hr-mcp/) | Productivity | Turn a conversation with Claude into actual work. Connect to Breezy to manage your hiring workflow, from job creation to reporting on hiring activity. |
 | `brek-hotel-wholesale-booking` | [Brek - Hotel Wholesale Booking](third_party/brek-hotel-wholesale-booking/) | Commerce | Search and compare hotels with public and private wholesale rates. |
 | `brevo` | [Brevo](third_party/brevo/) | Marketing | Analyze campaigns, know your audience and create drafts. |
 | `brex` | [Brex](third_party/brex/) | Finance | Intelligent finance automation. |
+| `brightcove` | [Brightcove](third_party/brightcove/) | Media | Manage Brightcove videos, players, live streams, analytics and more from Claude. |
 | `brightdeck` | [Brightdeck](third_party/brightdeck/) | Design | Create presentations and slides, compatible with PowerPoint. |
 | `brightflag` | [Brightflag](third_party/brightflag/) | Legal | Connect to Brightflag to interact with matter, vendor and spend data within Claude. |
 | `brighthire` | [BrightHire](third_party/brighthire/) | Productivity | Search, summarize and analyze hiring data. |
@@ -101,13 +115,17 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `canva` | [Canva](third_party/canva/) | Design | Search, create, autofill, and export Canva designs. |
 | `cargoai` | [CargoAi](third_party/cargoai/) | Productivity | Instant air cargo rates, quotes & tracking. |
 | `carta` | [Carta](third_party/carta/) | Finance | The connected ERP for private capital. |
+| `cashfree` | [Cashfree](third_party/cashfree/) | Finance | Your All in One AI Assistant. |
 | `cb-insights` | [CB Insights](third_party/cb-insights/) | Finance | Predictive intelligence on private companies. |
 | `cdata-connect-ai` | [CData Connect AI](third_party/cdata-connect-ai/) | Analytics | Managed MCP platform for 350 sources. |
 | `celigo` | [Celigo](third_party/celigo/) | Productivity | Build and manage automations across hundreds of apps. |
+| `chamelio` | [Chamelio](third_party/chamelio/) | Legal | Search contracts, track and start legal workflows, and ask Chamelio's AI legal agent. |
 | `chargebee` | [Chargebee](third_party/chargebee/) | Finance | Live billing intelligence for your revenue team. |
 | `chariot` | [Chariot](third_party/chariot/) | Finance | Manage your nonprofit's DAF donations and deposits. |
 | `chartmogul` | [ChartMogul](third_party/chartmogul/) | Analytics | Analyze subscribers, recurring revenue, and churn. |
+| `chatbase` | [Chatbase](third_party/chatbase/) | Analytics | Manage Chatbase agents, sources, conversations, tickets. |
 | `checkatrade` | [Checkatrade](third_party/checkatrade/) | Commerce | Find trusted local tradespeople and book fixed-price jobs — without leaving Claude. |
+| `checkout-com` | [Checkout.com](third_party/checkout-com/) | Finance | Investigate, troubleshoot, and understand payment operations. |
 | `chronograph` | [Chronograph](third_party/chronograph/) | Finance | Interact with your Chronograph data directly in Claude. |
 | `circleback` | [Circleback](third_party/circleback/) | Communication | Search and access context from meetings. |
 | `circleci` | [CircleCI](third_party/circleci/) | Developer Tools | Manage CI/CD pipelines, debug failed builds, and optimize test suites directly from Claude - no terminal required. |
@@ -118,11 +136,15 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `clay` | [Clay](third_party/clay/) | Analytics | Find prospects. Research accounts. Personalize outreach. |
 | `clearstreet` | [Clear Street](third_party/clearstreet/) | Analytics | Research and Analyze Stocks and Options. |
 | `clerk` | [Clerk](third_party/clerk/) | Developer Tools | Add authentication, organizations, and billing. |
+| `clerq-mcp` | [Clerq MCP](third_party/clerq-mcp/) | Legal | AI-powered patent retrieval and analysis capabilities. |
+| `clickfunnels` | [ClickFunnels](third_party/clickfunnels/) | Commerce | Connect Claude to ClickFunnels to view, create, and update your funnels, contacts, courses, and store data. |
 | `clickhouse` | [ClickHouse](third_party/clickhouse/) | Analytics | Query and explore your ClickHouse Cloud data. |
 | `clickup` | [ClickUp](third_party/clickup/) | Project Management | Project management & collaboration for teams & agents. |
+| `clio` | [Clio](third_party/clio/) | Legal | Research the law, analyze dockets and develop case strategy with Clio Library and Clio Docket, with citations back to the sources. |
 | `close` | [Close](third_party/close/) | Marketing | Connect Claude to Close CRM to securely access and act on your sales data. |
 | `cloudflare-docs` | [Cloudflare Docs](third_party/cloudflare-docs/) | Documentation | Search Cloudflare's developer documentation for Workers, Pages, R2, D1, and more. |
 | `cloudinary` | [Cloudinary](third_party/cloudinary/) | Developer Tools | Manage, transform and deliver your images & videos. |
+| `cloverleaf` | [Cloverleaf](third_party/cloverleaf/) | Communication | Bring Cloverleaf's personality insights into Claude to understand how you and your colleagues work together, and get coaching grounded in real assessment data, not generic advice. |
 | `cloze` | [Cloze MCP](third_party/cloze/) | Productivity | Cloze Relationship Management. |
 | `cna-mcp` | [中央社新聞 CNA TAIWAN NEWS](third_party/cna-mcp/) | Analytics | 把中央社可信新聞接進你的 AI｜Taiwan CNA news, sourced answers. |
 | `cocounsel-legal` | [CoCounsel Legal](third_party/cocounsel-legal/) | Legal | Thomson Reuters CoCounsel Legal, in Claude. |
@@ -140,23 +162,28 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `contentful-mcp` | [Contentful MCP](third_party/contentful-mcp/) | Developer Tools | Manage your content from Claude. |
 | `contentsquare` | [Contentsquare](third_party/contentsquare/) | Analytics | Experience analytics platform for digital businesses. |
 | `context7` | [Context7](third_party/context7/) | Documentation | Pull up-to-date, version-specific library docs and code examples into the prompt. |
+| `contract-factory-siren` | [Contract-Factory — Sociétés & SIREN](third_party/contract-factory-siren/) | Analytics | Infos officielles des entreprises françaises (RNE). |
 | `controlplane` | [Control Plane](third_party/controlplane/) | Developer Tools | Deploy, scale, and debug cloud apps from one platform. |
 | `coralogix` | [Coralogix](third_party/coralogix/) | Analytics | Explore and debug your Coralogix observability data. |
 | `corraldata` | [CorralData](third_party/corraldata/) | Science | Connect Claude to CorralData so it can query your data, build dashboards, and manage boards and data apps without leaving the conversation. |
 | `cortellis` | [Cortellis Regulatory Intelligence](third_party/cortellis/) | Science | Trusted Regulatory Answers, by Clarivate Cortellis. |
 | `cortellis-cmc` | [Cortellis CMC Intelligence](third_party/cortellis-cmc/) | Science | Trusted regulatory CMC insights, powered by Clarivate’s Cortellis CMC Intelligence. |
+| `cotality-mcp-server` | [Cotality](third_party/cotality-mcp-server/) | Analytics | Access Cotality’s property and location intelligence. |
 | `coteach` | [Coteach](third_party/coteach/) | Education | Create classroom-ready K-12 math diagrams in Claude. |
 | `coupler-io` | [Coupler.io](third_party/coupler-io/) | Marketing | Access business data from hundreds of sources. |
 | `coursera` | [Coursera](third_party/coursera/) | Productivity | Transform your prompts into active skill-building. |
 | `courtlistener` | [CourtListener](third_party/courtlistener/) | Legal | Legal research across millions of court records. |
 | `courtroom5` | [Courtroom5](third_party/courtroom5/) | Legal | Civil legal guidance for self-represented litigants. |
 | `craft` | [Craft](third_party/craft/) | Productivity | Notes & second brain. |
+| `craft-io` | [Craft.io](third_party/craft-io/) | Analytics | Manage your end-to-end product lifecycle - backlog, PRDs, customer feedback, roadmaps, and strategic OKRs - with Claude connected directly to your Craft.io data. |
 | `crossbeam` | [Crossbeam](third_party/crossbeam/) | Communication | Explore partner data and ecosystem insights in Claude. |
 | `crunchbase` | [Crunchbase](third_party/crunchbase/) | Finance | Access reliable company data, market signals, and forward-looking predictions to research organizations, compare performance, uncover emerging trends, and make faster, more informed business decisions. |
 | `crustdata` | [Crustdata](third_party/crustdata/) | Developer Tools | Search and enrich B2B company and people data. |
 | `crypto-com` | [Crypto.com](third_party/crypto-com/) | Finance | Real time prices, orders, charts, and more for crypto. |
 | `cube-software` | [Cube Software](third_party/cube-software/) | Finance | Bring trusted Cube financial context into Claude. Analyze performance, model scenarios, and move decisions into action, with your Cube permissions enforced on every request. |
+| `d-b-hoovers` | [D&B Hoovers](third_party/d-b-hoovers/) | Marketing | Access trusted D&B intelligence, contacts, and signals to uncover opportunities and take the next best action. |
 | `d-b-risk-analytics` | [D&B Risk Analytics](third_party/d-b-risk-analytics/) | Finance | Execute risk workflows powered by the D&B Commercial Graph™. |
+| `dagster-mcp` | [Dagster+ MCP](third_party/dagster-mcp/) | Analytics | Investigate issues and take action in your Dagster+ deployment from Claude. |
 | `daloopa` | [Daloopa](third_party/daloopa/) | Finance | Financial fundamental data and KPIs with hyperlinks. |
 | `datacamp` | [DataCamp](third_party/datacamp/) | Education | DataCamp catalog and team admin for your AI assistant. |
 | `datahub` | [DataHub](third_party/datahub/) | Analytics | Connect AI agents to enterprise data & context. |
@@ -181,11 +208,15 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `dovetail` | [Dovetail](third_party/dovetail/) | Productivity | Turn scattered feedback into decisions grounded in customer evidence. |
 | `drata` | [Drata](third_party/drata/) | Productivity | Agentic Trust Management on demand. |
 | `dropbox` | [Dropbox](third_party/dropbox/) | Legal | Search, organize, and take action on your Dropbox content. |
+| `dualentry` | [DualEntry](third_party/dualentry/) | Finance | Search, create, and manage your DualEntry accounting data. |
 | `eden-by-basecamp-research` | [EDEN by Basecamp Research](third_party/eden-by-basecamp-research/) | Science | Design antibiotics and prioritise vaccine targets against drug-resistant pathogens using EDEN, Basecamp Research's biological foundation model. |
+| `eedi` | [Eedi](third_party/eedi/) | Education | Access Eedi's high quality math questions. |
 | `egnyte` | [Egnyte](third_party/egnyte/) | Finance | Securely search and analyze your Egnyte content. |
 | `elevenlabs` | [ElevenLabs](third_party/elevenlabs/) | Developer Tools | Manage your ElevenAgents voice agents in your chat. |
+| `elfcare` | [Elfcare](third_party/elfcare/) | Health | Explore your Elfcare test results. |
 | `elicit` | [Elicit](third_party/elicit/) | Science | Search and analyze scientific papers. |
 | `embat` | [Embat](third_party/embat/) | Finance | Ask Embat about cash, debt, payments, and accounting. |
+| `energy-aspects` | [Energy Aspects](third_party/energy-aspects/) | Analytics | Access Energy Aspects' energy market research and data. |
 | `enterpret` | [Enterpret](third_party/enterpret/) | Analytics | Get answers from unified feedback of your customers. |
 | `era-context` | [Era Context](third_party/era-context/) | Finance | Manage your personal finances using Claude. |
 | `eraser` | [Eraser](third_party/eraser/) | Developer Tools | Generate, manage, and update Eraser diagrams and files. |
@@ -197,6 +228,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `exa` | [Exa](third_party/exa/) | Search | Search the web and fetch page content with Exa. |
 | `excalidraw` | [Excalidraw](third_party/excalidraw/) | Design | Create and edit hand-drawn style diagrams, wireframes, and sketches from text prompts. |
 | `expensify` | [Expensify](third_party/expensify/) | Finance | Search and analyze your Expensify data. |
+| `extend` | [Extend](third_party/extend/) | Developer Tools | Turn documents into structured data. |
 | `factset` | [FactSet AI-Ready Data](third_party/factset/) | Finance | Access institutional-quality financial data and analytics. |
 | `fastmail` | [Fastmail](third_party/fastmail/) | Communication | An MCP server for Fastmail customers and accounts. |
 | `fathom` | [Fathom – Your Meeting Intelligence Layer](third_party/fathom/) | Productivity | Your meeting notes, transcripts, and context – now part of every Claude conversation. |
@@ -233,6 +265,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `gitea` | [Gitea](third_party/gitea/) | Source Control | Work with Gitea repositories, issues, pull requests, and releases through your own gitea-mcp server. |
 | `github` | [GitHub](third_party/github/) | Source Control | Manage repos, issues, pull requests, and Actions. |
 | `gitlab` | [GitLab](third_party/gitlab/) | Source Control | Work with GitLab projects, issues, merge requests, pipelines, and code search. |
+| `givebutter` | [Givebutter](third_party/givebutter/) | Nonprofit | Manage your fundraising. |
 | `glg` | [GLG](third_party/glg/) | Finance | Expert intelligence, instantly in your workflow. |
 | `gmail` | [Gmail](third_party/gmail/) | Productivity | Search, read, and draft Gmail messages and threads. |
 | `gocardless` | [GoCardless](third_party/gocardless/) | Finance | Build GoCardless payment API integrations. |
@@ -271,9 +304,12 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `grasshopper-bank` | [Grasshopper Bank](third_party/grasshopper-bank/) | Finance | Query and analyze your financial data. |
 | `greenhouse` | [Greenhouse](third_party/greenhouse/) | Developer Tools | Connect Claude to Greenhouse. Search, analyze and update candidates, applications, jobs, interviews, scorecards, offers and more in plain language. |
 | `greptile` | [Greptile](third_party/greptile/) | Developer Tools | Read and resolve Greptile pull request reviews and search your organization's coding patterns. |
+| `grtwo-docs` | [grtwo-docs](third_party/grtwo-docs/) | Productivity | Publish -docs. from Claude and get a shareable link. |
 | `guidepoint` | [Guidepoint](third_party/guidepoint/) | Finance | Real-time access to trusted expert knowledge. |
 | `guru` | [Guru](third_party/guru/) | Productivity | Search and interact with your company knowledge. |
 | `gusto` | [Gusto](third_party/gusto/) | Finance | Query and analyze your Gusto data. |
+| `haloo-trademark-clearance` | [Haloo Trademark Clearance](third_party/haloo-trademark-clearance/) | Analytics | Full trademark clearance search, direct in Claude. |
+| `hanover-park` | [Hanover Park](third_party/hanover-park/) | Analytics | Run your investment firm in real-time with access to portfolio, accounting, performance and LP data. |
 | `harmonic` | [Harmonic](third_party/harmonic/) | Productivity | Discover, research, and enrich companies and people. |
 | `harness` | [Harness](third_party/harness/) | Developer Tools | Build, Ship and Secure your apps on Harness Platform. |
 | `harvey` | [Harvey](third_party/harvey/) | Legal | Answer legal queries, search vaults, and research. |
@@ -284,6 +320,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `heygen-hyperframes` | [HyperFrames by HeyGen](third_party/heygen-hyperframes/) | Design | Build animated slides and motion graphics with HTML. |
 | `highspot` | [Highspot](third_party/highspot/) | Marketing | Search, share content, and take action to win deals. |
 | `hive` | [Hive](third_party/hive/) | Analytics | Manage projects, tasks, approvals, resources, and customer work in Hive. |
+| `honeybadger` | [Honeybadger](third_party/honeybadger/) | Analytics | Investigate production errors, query logs, and manage dashboards and alarms from your AI assistant. |
 | `hubspot-crm` | [HubSpot](third_party/hubspot-crm/) | Marketing | CRM context for every answer, insight, and action. |
 | `hubstaff` | [Hubstaff](third_party/hubstaff/) | Productivity | AI-ready workforce insights. |
 | `huggingface` | [Hugging Face](third_party/huggingface/) | AI | Search Hugging Face for models, datasets, and spaces. |
@@ -306,19 +343,25 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `intuit-developer` | [Intuit Developer](third_party/intuit-developer/) | Developer Tools | Build and test integrations with Intuit APIs. |
 | `ironclad-contracts` | [Ironclad Contracts](third_party/ironclad-contracts/) | Legal | Plain language search for faster contract answers and manage your contractual obligations. |
 | `isolved` | [isolved People Cloud](third_party/isolved/) | Productivity | Your isolved data, inside Claude. |
+| `isometric` | [Isometric](third_party/isometric/) | Productivity | Agentic certification for the industrial economy. |
+| `item` | [item](third_party/item/) | Productivity | Search, analyze, and act on CRM data. |
 | `iubenda` | [iubenda: Privacy policy & cookie banner](third_party/iubenda/) | Developer Tools | GDPR and CCPA compliance: cookie consent, cookie scanner, and terms and conditions. |
 | `jam` | [Jam](third_party/jam/) | Developer Tools | Record screen and collect automatic context for issues. |
 | `jasper` | [Jasper](third_party/jasper/) | Marketing | Keep every Claude session on-brand. |
+| `jedify` | [Jedify](third_party/jedify/) | Analytics | Governed, live business context for you and your agents - so they reason and act on your organization’s trusted data, definitions, and knowledge. |
 | `jobber` | [Jobber](third_party/jobber/) | Marketing | Get answers and take action with context from your Jobber account. |
 | `jotform` | [Jotform](third_party/jotform/) | Education | Create forms, surveys, quizzes & analyze submissions. |
 | `jotform-app-builder` | [Jotform App Builder](third_party/jotform-app-builder/) | Developer Tools | Build and manage no-code apps with AI. Create CRM apps, event apps, school apps, and internal tools. Customize layouts, automate workflows, and publish and share apps. |
 | `jotform-sign` | [Jotform Sign](third_party/jotform-sign/) | Education | Create, share, and edit e-signature documents right inside Claude. |
+| `jump-mcp` | [Jump](third_party/jump-mcp/) | Finance | Trusted AI for advisors & financial professionals. |
 | `jupiterone` | [JupiterOne](third_party/jupiterone/) | Analytics | Ask questions about your JupiterOne agentic security and it asset graph and manage alerts, rules, and dashboards — in natural language. |
 | `juro-contracts` | [Juro contracts](third_party/juro-contracts/) | Legal | Query & work with contracts effortlessly throughout the lifecycle to agree contracts faster. |
 | `jus-mundi` | [Jus AI by Jus Mundi (Light Mode)](third_party/jus-mundi/) | Legal | AI-powered global arbitration intelligence. |
 | `kahoot` | [Kahoot!](third_party/kahoot/) | Education | Create kahoots instantly. |
 | `kajabi` | [Kajabi](third_party/kajabi/) | Commerce | Build and grow your Kajabi business with Claude. |
+| `keel` | [Keel](third_party/keel/) | Analytics | Build & backtest Hyperliquid strategies. |
 | `ketryx` | [Ketryx](third_party/ketryx/) | Productivity | Search and explore regulated software lifecycle data. |
+| `kick-co` | [Kick](third_party/kick-co/) | Finance | Search, categorize, edit, and report in Kick. |
 | `kit` | [Kit](third_party/kit/) | Analytics | Search, analyze, draft, and manage your email marketing. |
 | `kiwi-com` | [Kiwi.com](third_party/kiwi-com/) | Productivity | Search flights in Claude. |
 | `klaviyo` | [Klaviyo](third_party/klaviyo/) | Analytics | Report, strategize & create with real-time Klaviyo data. |
@@ -342,6 +385,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `lilt` | [LILT](third_party/lilt/) | Productivity | High-quality translation with human verification. |
 | `linear` | [Linear](third_party/linear/) | Project Management | Find, create, and update Linear issues, projects, and cycles. |
 | `linkedin-hiring-pro` | [LinkedIn Hiring Pro](third_party/linkedin-hiring-pro/) | Productivity | Draft, review, and post one free LinkedIn job from Claude. |
+| `linksquares` | [LinkSquares](third_party/linksquares/) | Legal | Automate legal intake and contract intelligence — create agreements, manage legal requests, and search your contract data directly from Claude. |
 | `listen-labs` | [Listen Labs](third_party/listen-labs/) | Productivity | Analyze user insights from Listen Labs. |
 | `livestorm` | [Livestorm](third_party/livestorm/) | Analytics | Manage and analyze your webinars from Claude. |
 | `llamaparse` | [LlamaParse](third_party/llamaparse/) | Analytics | Turn your documents into agent-ready context for Claude. |
@@ -351,12 +395,15 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `lorikeet` | [Lorikeet](third_party/lorikeet/) | Productivity | A universal concierge for complex businesses. |
 | `lovable` | [Lovable](third_party/lovable/) | Developer Tools | Build, iterate, inspect, and deploy Lovable apps. |
 | `lseg` | [LSEG](third_party/lseg/) | Finance | Access best in class data & analytics across a broad spectrum of asset classes. |
+| `lseg-ai` | [LSEG AI](third_party/lseg-ai/) | Finance | Data Analytics and Trading. |
 | `lucid` | [Lucid](third_party/lucid/) | Design | Ideate, diagram, and align teams. |
+| `lukka-predmar` | [Lukka Prediction Markets Data MCP](third_party/lukka-predmar/) | Analytics | Prediction market intelligence across several venues, including Kalshi and Polymarket: market discovery, classification, pricing, open interest and volume. |
 | `lumin` | [Lumin](third_party/lumin/) | Productivity | Send documents for signature, track them to completion, and generate agreements from templates — without leaving the chat. |
 | `lumonic` | [Lumonic](third_party/lumonic/) | Finance | Analyze portfolio data and reporting in Claude. |
 | `lunarcrush` | [LunarCrush](third_party/lunarcrush/) | Finance | Add real-time social media data to your searches. |
 | `lz-virtual-mail` | [LZ Virtual Mail](third_party/lz-virtual-mail/) | Productivity | Manage your physical mail from anywhere. |
 | `macaly-cloud` | [Macaly Cloud](third_party/macaly-cloud/) | Developer Tools | Claude writes the code, Macaly runs it - a git repo, cloud sandbox, database, live preview and production hosting for the apps you build in chat. |
+| `macrobond-ai-datafeed-mcp` | [Macrobond Assist](third_party/macrobond-ai-datafeed-mcp/) | Analytics | Spend your time on the analysis, not on finding the data. |
 | `magic-patterns` | [Magic Patterns](third_party/magic-patterns/) | Productivity | Discuss and iterate on Magic Patterns designs. |
 | `magicschool-ai` | [MagicSchool AI](third_party/magicschool-ai/) | Education | Save teaching materials directly to your MagicSchool Resource Library. |
 | `mailerlite` | [MailerLite](third_party/mailerlite/) | Communication | Turn Claude into your email marketing assistant. |
@@ -364,19 +411,26 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `malwarebytes` | [Malwarebytes](third_party/malwarebytes/) | Productivity | Check links, phones, and emails for scams. |
 | `manatal` | [Manatal](third_party/manatal/) | Productivity | Your AI recruiting assistant, inside Manatal. |
 | `manufact` | [Manufact](third_party/manufact/) | Developer Tools | Deploy and monitor MCP servers. |
+| `maryland-compass` | [Maryland Community Compass](third_party/maryland-compass/) | Analytics | Maryland's neighborhood development data platform. |
+| `mastercard-developers` | [Mastercard Developers](third_party/mastercard-developers/) | Finance | Up-to-date Mastercard APIs, docs, and guides. |
 | `maven-bio` | [Maven Bio](third_party/maven-bio/) | Science | Biopharma catalysts, pipelines, trials, deals, and the citable primary sources behind them. |
 | `mcp-betterstack-com` | [mcp.betterstack.com](third_party/mcp-betterstack-com/) | Developer Tools | Better Stack plugin for Claude: observability for AI agents (logs, metrics, dashboards, uptime, incidents). |
+| `mcp-trainual-com` | [Trainual](third_party/mcp-trainual-com/) | Productivity | Search your training, operations, and performance data. |
 | `mdn` | [MDN](third_party/mdn/) | Developer Tools | Search & retrieval of MDN docs & browser compat data. |
 | `medidata` | [Medidata](third_party/medidata/) | Science | Clinical trial software and site ranking tools. |
 | `meistertask` | [MeisterTask](third_party/meistertask/) | Productivity | Create, search, and update tasks, projects, and notes. |
+| `meko` | [Meko](third_party/meko/) | Analytics | Shared context for agents that work and learn together. |
 | `melon` | [Melon](third_party/melon/) | Productivity | Browse music charts & your personalized music picks. |
 | `meltwater` | [Meltwater](third_party/meltwater/) | Analytics | Search and analyze billions of news articles and social posts. |
 | `mem` | [Mem](third_party/mem/) | Productivity | The AI notebook for everything on your mind. |
 | `mem0` | [Mem0](third_party/mem0/) | Developer Tools | Persistent memory for AI agents & assistants. |
 | `menti` | [Menti](third_party/menti/) | Education | Make Mentimeter presentations. |
 | `mercury` | [Mercury](third_party/mercury/) | Finance | Understand your finances, organize/categorize transactions, and set up payments and transfers for approval in Mercury. |
+| `meridian-ai` | [Meridian AI](third_party/meridian-ai/) | Communication | Query your deals, companies, documents, and more. |
+| `meridian-connector-for-xer` | [Meridian Connector for Xero](third_party/meridian-connector-for-xer/) | Analytics | Make changes to Xero from within Claude. |
 | `meridian-quickbooks` | [Meridian Connector for QuickBooks](third_party/meridian-quickbooks/) | Finance | Make changes to QuickBooks Online from within Claude. |
 | `mermaid-chart` | [Mermaid Chart](third_party/mermaid-chart/) | Design | Validates Mermaid syntax, renders diagrams as high-quality SVG, and displays them instantly in an interactive UI where users can preview, zoom, and iterate in real time. |
+| `metal` | [Metal](third_party/metal/) | Productivity | Access your deal intelligence. |
 | `metaview` | [Metaview](third_party/metaview/) | Productivity | The AI platform for recruiting. |
 | `metricool` | [Metricool Social Media Management](third_party/metricool/) | Marketing | Schedule posts, analyze, and manage social media with AI. |
 | `microsoft-learn` | [Microsoft Learn](third_party/microsoft-learn/) | Documentation | Search official Microsoft docs and code samples for .NET, Azure, MAUI, and more. |
@@ -387,6 +441,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `mixpanel` | [Mixpanel](third_party/mixpanel/) | Analytics | Analyze, query, and manage your Mixpanel data. |
 | `mobbin` | [Mobbin](third_party/mobbin/) | Developer Tools | Find UI & UX design references. |
 | `moda-slides-and-designs` | [Moda - Slides and Designs](third_party/moda-slides-and-designs/) | Design | Fully editable PowerPoints, Meta ads, motion graphics & social. |
+| `mollie` | [Mollie](third_party/mollie/) | Finance | Online and in-person payments, subscriptions, funding, reconciliation, and fraud prevention – so growth never means more providers. |
 | `monday` | [monday.com](third_party/monday/) | Project Management | Manage monday.com boards, items, and workspaces. |
 | `monte-carlo` | [Monte Carlo](third_party/monte-carlo/) | Analytics | Data & AI observability. |
 | `moodys-credit` | [Moody's Credit MCP](third_party/moodys-credit/) | Finance | Risk insights, analytics, and decision intelligence. |
@@ -408,13 +463,18 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `netdocuments` | [NetDocuments](third_party/netdocuments/) | Legal | Securely access your documents in NetDocuments. |
 | `netlify` | [Netlify](third_party/netlify/) | Hosting | Create, deploy, manage, and secure websites on Netlify. |
 | `nimble` | [Nimble](third_party/nimble/) | Analytics | Real-time web search & extraction for AI agents. |
+| `ninout` | [Ninout](third_party/ninout/) | Analytics | Design, publish, and analyze forms entirely in chat. |
 | `nooks` | [Nooks](third_party/nooks/) | Productivity | Search, access, and get insights on your Nooks data. |
 | `notion` | [Notion](third_party/notion/) | Documentation | Search, read, and update Notion pages and databases. |
+| `numbersgame-mcp` | [NumbersGame MCP](third_party/numbersgame-mcp/) | Finance | Query and update QuickBooks Online and Xero from Claude — invoices, bills, reports, and reconciliations. |
 | `nutshell-crm` | [Nutshell CRM](third_party/nutshell-crm/) | Communication | Connect Claude to Nutshell CRM to search leads, contacts, and companies, pull sales reports, and review deal timelines - all without leaving chat. |
 | `o-reilly` | [O’Reilly](third_party/o-reilly/) | Productivity | Discover O'Reilly's expert learning content. |
+| `oak-national-academy` | [Oak National Academy](third_party/oak-national-academy/) | Education | Free, national curriculum-aligned Oak teaching resources. |
 | `ollama` | [Ollama Docs](third_party/ollama/) | Documentation | Search Ollama's official documentation for running and serving local large language models. |
+| `omega-point` | [Omega Point](third_party/omega-point/) | Finance | Turn market, index, and portfolio data into decisions: institutional risk, performance, and factor analytics in one place. |
 | `omni-analytics` | [Omni Analytics](third_party/omni-analytics/) | Analytics | Query your data using natural language through Omni's semantic model. |
 | `omnisend` | [Omnisend MCP](third_party/omnisend/) | Marketing | Analyze your Omnisend marketing performance. |
+| `onchaindiligence` | [OnChainDiligence](third_party/onchaindiligence/) | Developer Tools | Inspect autonomous payments before execution and independently verify evidence afterward. |
 | `onesignal` | [OneSignal](third_party/onesignal/) | Developer Tools | Agentic access to OneSignal’s customer engagement platform for messaging, users, and analytics. |
 | `onfire` | [Onfire](third_party/onfire/) | Marketing | GTM intelligence, prospecting, and buying signals. |
 | `ontra` | [Ontra](third_party/ontra/) | Finance | Query your Ontra data directly from any AI tool. |
@@ -436,6 +496,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `padlet` | [Padlet](third_party/padlet/) | Education | Create and manage padlets. |
 | `pagerduty` | [PagerDuty](third_party/pagerduty/) | Observability | Browse PagerDuty services, incidents, and change events. |
 | `pandadoc` | [PandaDoc](third_party/pandadoc/) | Productivity | Create, send, sign and track documents. |
+| `papermark` | [Papermark](third_party/papermark/) | Finance | Manage your data rooms and tracked documents from Claude. |
 | `paperoffice` | [PaperOffice](third_party/paperoffice/) | Analytics | Built for companies. Ready for AI agents. The headless DMS for Claude: search, read, extract, approve, send for signing and archive documents in your own account, with your permissions. |
 | `parallel-search` | [Parallel Search](third_party/parallel-search/) | Developer Tools | Free token-efficient search using Parallel. |
 | `patlytics` | [Patlytics](third_party/patlytics/) | Legal | Prior art, claims, and portfolio search. |
@@ -447,8 +508,11 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `perplexity` | [Perplexity Docs](third_party/perplexity/) | Documentation | Search Perplexity's official Sonar and API documentation. |
 | `perspective-ai` | [Perspective AI](third_party/perspective-ai/) | Design | An AI Concierge that turns forms into conversations. |
 | `pg-aiguide` | [pg-aiguide](third_party/pg-aiguide/) | Developer Tools | Search pg and Tiger docs, learn database skills. |
+| `pga-play-golf` | [PGA – Play Golf](third_party/pga-play-golf/) | Productivity | Find a golf coach. |
 | `phished` | [Phished](third_party/phished/) | Developer Tools | Phished's entire ZIR app at your fingertips directly in Claude. |
 | `phoenix-by-hg-insights` | [Phoenix by HG Insights](third_party/phoenix-by-hg-insights/) | Analytics | AI-powered B2B data intelligence & analytics. |
+| `pi-security` | [Pi Security](third_party/pi-security/) | Developer Tools | Agentic product security platform. |
+| `pine-labs-payments-assista` | [Pine Labs Payments Assistant](third_party/pine-labs-payments-assista/) | Finance | Query your Pine Labs payments data in plain language — orders, transactions, settlements, subscriptions and success rates, plus integration help for developers. |
 | `pinegap` | [Pinegap](third_party/pinegap/) | Finance | AI-powered Equity Research Platform. |
 | `pipedrive` | [Pipedrive](third_party/pipedrive/) | Analytics | Find deals, update records, manage activities and work with your live CRM data using natural language. |
 | `pitch` | [Pitch](third_party/pitch/) | Design | Create, edit, and share presentations, then see who engaged with them. |
@@ -464,13 +528,17 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `polar-analytics` | [Polar Analytics](third_party/polar-analytics/) | Analytics | Bring all your data in one place & connect it to Claude. |
 | `pophive` | [PopHIVE](third_party/pophive/) | Science | Yale's harmonized US public health surveillance data. |
 | `posthog` | [PostHog](third_party/posthog/) | Analytics | Query product analytics, manage feature flags, and investigate errors in PostHog. |
+| `prefect` | [Prefect](third_party/prefect/) | Analytics | Inspect Prefect workflows. |
 | `privacy` | [Privacy.com](third_party/privacy/) | Finance | Manage virtual cards and track your spending patterns. |
 | `process-street` | [Process Street](third_party/process-street/) | Productivity | Explore and update your Process Street data. |
+| `productised` | [Productised](third_party/productised/) | Design | AI-Powered Inbound for Claude. |
 | `productive` | [Productive](third_party/productive/) | Analytics | Run projects, tasks, time tracking, budgets, and invoicing in your Productive workspace, straight from chat. |
 | `profound` | [Profound](third_party/profound/) | Marketing | Pull Profound Visibility, Citation, & AI Bot Visit Data. |
+| `public-holdings` | [Public Holdings](third_party/public-holdings/) | Finance | View your Public portfolio, market data and preflight trades. |
 | `pylon` | [Pylon](third_party/pylon/) | Communication | Search and manage Pylon support issues. |
 | `qonto` | [Qonto](third_party/qonto/) | Finance | Manage your Qonto business finances from Claude. |
 | `quartr` | [Quartr](third_party/quartr/) | Finance | Financial data and AI infrastructure for company research. |
+| `questrade` | [Questrade](third_party/questrade/) | Finance | Connect Claude to your Questrade brokerage account to check your portfolio, get real-time market data, and explore trades. |
 | `quicknode` | [QuickNode](third_party/quicknode/) | Developer Tools | Manage blockchain infrastructure right in Claude. |
 | `quo` | [Quo](third_party/quo/) | Communication | Surface call insights and missed opportunities. |
 | `railway` | [Railway](third_party/railway/) | Developer Tools | Deploy, manage, and debug your apps and infrastructure on Railway. |
@@ -484,7 +552,10 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `remote` | [Remote](third_party/remote/) | Productivity | Connect any AI to your Remote employment infrastructure. |
 | `render` | [Render](third_party/render/) | Hosting | Inspect Render services, deploys, and logs. |
 | `replit` | [Replit](third_party/replit/) | Developer Tools | Turn ideas into apps and websites instantly. |
+| `restream` | [Restream](third_party/restream/) | Communication | Create and manage live streams on 30+ destinations. |
 | `resy` | [Resy](third_party/resy/) | Productivity | Find and book restaurants instantly. |
+| `revealed` | [Revealed](third_party/revealed/) | Analytics | Always-on sales intelligence for healthcare. |
+| `richpanel-ai` | [Richpanel AI](third_party/richpanel-ai/) | Communication | Run your Richpanel helpdesk and AI support agent from Claude. |
 | `rillet` | [Rillet](third_party/rillet/) | Finance | Query your live GL and financials in plain English. |
 | `ringcentral-chat` | [RingCentral Chat](third_party/ringcentral-chat/) | Communication | Stay on top of team communications and collaborate in RingCentral Team Chat directly within Claude. |
 | `rippit` | [Rippit](third_party/rippit/) | Analytics | Run dynamic AI analysis on 100% of conversations. |
@@ -492,7 +563,9 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `roam-research` | [Roam Research](third_party/roam-research/) | Education | Let Claude read, search, and write in your Roam graphs. |
 | `robin` | [Robin (Workplace)](third_party/robin/) | Productivity | Robin is the workplace platform teams use to manage desks, rooms, and hybrid office schedules, and optimize how their workplace is planned and used. |
 | `roboflow` | [Roboflow](third_party/roboflow/) | Developer Tools | Build, search, and run computer vision with Roboflow. |
+| `rocketlawyer` | [Rocket Lawyer](third_party/rocketlawyer/) | Legal | Attorney access for contract reviews & legal protection. |
 | `rocketreach` | [RocketReach](third_party/rocketreach/) | Marketing | Verified work emails and phones from 700M+ contacts. |
+| `rockhopper` | [Rockhopper](third_party/rockhopper/) | Analytics | The audit trail and governance layer for every file your team and your AI touch. |
 | `rootly` | [Rootly](third_party/rootly/) | Developer Tools | Connect AI agents to Rootly for incident management, on-call, and reliability data. |
 | `runway` | [Runway (runway.team)](third_party/runway/) | Developer Tools | Automate, coordinate, and monitor your team's mobile app releases. |
 | `salesflare` | [Salesflare](third_party/salesflare/) | Communication | Manage and explore your CRM in Claude. |
@@ -502,8 +575,10 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `seismic` | [Seismic](third_party/seismic/) | Productivity | Connect Claude to Seismic MCP for generative search. |
 | `semrush` | [Semrush](third_party/semrush/) | Analytics | SEO, keyword research, competitor analysis, traffic and market analytics, backlink analysis, domain analysis, and PPC. |
 | `send` | [Send](third_party/send/) | Design | Create HTML in Claude. Share it with Send. |
+| `sendcloud-mcp` | [Sendcloud](third_party/sendcloud-mcp/) | Commerce | Manage your shipping without leaving the chat. |
 | `sent` | [Sent](third_party/sent/) | Developer Tools | Send and manage customer messages across SMS, WhatsApp, and RCS. Build and manage production messaging agents and workflows. |
 | `sentry` | [Sentry](third_party/sentry/) | Observability | Investigate Sentry errors, stack traces, and issues for a project. |
+| `sequencehq` | [Sequence](third_party/sequencehq/) | Finance | Billing, invoicing, and revenue data tools for Sequence. |
 | `shapes` | [Shapes](third_party/shapes/) | Productivity | Analyse your live people data, right in Claude. |
 | `shipbob` | [ShipBob](third_party/shipbob/) | Commerce | Your orders, inventory, and shipments from any prompt. |
 | `shippo` | [Shippo](third_party/shippo/) | Commerce | Multi-carrier shipping, from a single package to high volume: compare live rates across USPS, UPS, FedEx, DHL, and 40+ carriers, then buy labels, validate addresses, and track packages. |
@@ -521,12 +596,15 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `solve-intelligence` | [Solve Intelligence](third_party/solve-intelligence/) | Legal | Search, draft, and chart patents. |
 | `sonos` | [Sonos](third_party/sonos/) | Media | Control your Sonos system. |
 | `sp-kfinance` | [S&P - Deterministic Retrieval](third_party/sp-kfinance/) | Finance | Deterministic access to S&P Global data. |
+| `spacefast` | [Spacefast](third_party/spacefast/) | Design | Build and share your AI work. |
+| `spara` | [Spara](third_party/spara/) | Analytics | Build the agents that run your GTM. |
 | `speko` | [Speko](third_party/speko/) | Developer Tools | Make phone calls, transcribe audio, and narrate text. |
 | `spiegel-nsdap-archive` | [NSDAP Archiv - DER SPIEGEL](third_party/spiegel-nsdap-archive/) | Education | Search for NSDAP party members. |
 | `spinach-ai` | [Spinach AI](third_party/spinach-ai/) | Productivity | The system of action for conversation data. |
 | `splice` | [Splice](third_party/splice/) | Design | Search Splice's sounds catalog, build stacks & more! |
 | `spotdraft` | [SpotDraft](third_party/spotdraft/) | Legal | Search, review, and manage contracts from your SpotDraft workspace, right inside Claude. |
 | `sprinto` | [Sprinto MCP](third_party/sprinto/) | Security | Manage trust workflows. |
+| `sprites` | [Sprites](third_party/sprites/) | Developer Tools | Let Claude manage your Sprites. |
 | `square` | [Square](third_party/square/) | Finance | Search and manage transaction, merchant, and payment data. |
 | `squarespace` | [Squarespace](third_party/squarespace/) | Commerce | Find a domain name for your next idea, and run your Squarespace store's orders, products and customers, all from Claude. |
 | `stack-overflow` | [Stack Overflow](third_party/stack-overflow/) | Developer Tools | Access Stack Overflow's trusted content. |
@@ -542,6 +620,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `superhuman-docs` | [Superhuman Docs](third_party/superhuman-docs/) | Productivity | Create, search, update docs and tables. |
 | `superhuman-mail` | [Superhuman Mail](third_party/superhuman-mail/) | Communication | The most productive email app ever, for Gmail & Outlook. |
 | `supermetrics` | [Supermetrics Marketing Analytics](third_party/supermetrics/) | Analytics | Google Ads, Facebook Ads, Google Analytics, TikTok, LinkedIn, Instagram, YouTube & 200+ sources. |
+| `supersei-crm` | [Supersei CRM](third_party/supersei-crm/) | Productivity | Run your Supersei sales CRM from a conversation: leads, calls, WhatsApp, meetings, campaigns, reports and workspace setup, with exactly your permissions. |
 | `surveymonkey` | [SurveyMonkey](third_party/surveymonkey/) | Productivity | Design surveys, collect responses, and analyze results. |
 | `swagger` | [Swagger](third_party/swagger/) | Developer Tools | Build, govern, and document APIs. |
 | `sybill` | [Sybill](third_party/sybill/) | Productivity | Ask AI about your sales calls, deals & pipeline. |
@@ -550,6 +629,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `tabs` | [Tabs](third_party/tabs/) | Finance | Make complex revenue simple at scale. |
 | `tactiq` | [Tactiq](third_party/tactiq/) | Productivity | Search, summarise & find answers in meetings. |
 | `tally` | [Tally](third_party/tally/) | Analytics | Create beautiful forms. |
+| `tana` | [Tana](third_party/tana/) | Communication | Your meetings, decisions, and docs as Claude context. |
 | `tango` | [Tango](third_party/tango/) | Analytics | Search for US Government Contracting Data. |
 | `taplio` | [Taplio](third_party/taplio/) | Media | Run your LinkedIn by talking to Claude. Schedule content, pull inspiration from 5M+ viral posts, and get your analytics as plain answers. |
 | `taskrabbit-booking-assistance` | [Taskrabbit Booking Assistance](third_party/taskrabbit-booking-assistance/) | Productivity | Find & book local Taskrabbit services near you. |
@@ -557,6 +637,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `taxact` | [TaxAct](third_party/taxact/) | Finance | Estimate your refund, and check what documents you need. |
 | `teamtailor` | [Teamtailor](third_party/teamtailor/) | Productivity | Chat with your recruitment data: jobs, candidates, pipelines, and todos from Teamtailor. |
 | `tella` | [Tella](third_party/tella/) | Media | Edit, polish, and publish your Tella videos by chatting with Claude. |
+| `terminal49` | [Terminal49](third_party/terminal49/) | Commerce | Track ocean shipments and containers. |
 | `text-to-quant` | [TEXT TO QUANT](third_party/text-to-quant/) | Developer Tools | Backtest trading strategies written in plain English on real market data, with graded, honesty flagged reports. |
 | `third-bridge` | [Third Bridge](third_party/third-bridge/) | Finance | Expert-led enhanced insights. |
 | `thoughtspot-spotter` | [ThoughtSpot Spotter](third_party/thoughtspot-spotter/) | Analytics | Your AI data analyst, from question to trusted insights. |
@@ -566,6 +647,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `tiktok-for-business` | [TikTok for Business](third_party/tiktok-for-business/) | Productivity | Create, manage, and analyze advertising campaigns on TikTok. |
 | `tiller` | [Tiller](third_party/tiller/) | Finance | Connect to your transactions in your Tiller spreadsheet. |
 | `tinyfish` | [TinyFish](third_party/tinyfish/) | Developer Tools | Browser automation, web scraping, web search and fetch via a cloud browser agent: automate websites, log in to portals, submit forms, scrape social media, listings, prices, reviews, monitor changes. |
+| `tixel` | [Tixel](third_party/tixel/) | Commerce | Buy and sell tickets safely, fan to fan, at fair prices. |
 | `tldraw` | [tldraw](third_party/tldraw/) | Design | Let Claude sketch, draw, and diagram with you. |
 | `tldv` | [tl;dv - AI Note Taker & Meeting Recorder: Transcripts, Summaries & Meeting Minutes](third_party/tldv/) | Analytics | Meeting transcripts, notes & action items in Claude. |
 | `todoist` | [Todoist](third_party/todoist/) | Productivity | Search, complete, and manage your tasks in Todoist. |
@@ -596,8 +678,10 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `usafacts-connector` | [USAFacts Government Data Connector](third_party/usafacts-connector/) | Analytics | Give Claude a better source for government data. |
 | `v0` | [v0](third_party/v0/) | Developer Tools | Build Full-Stack Web Apps with AI. |
 | `vaisala-xweather` | [Vaisala Xweather](third_party/vaisala-xweather/) | Developer Tools | Access real-time, forecast, and historical weather. |
+| `valuecase-v2` | [Valuecase App](third_party/valuecase-v2/) | Productivity | Search, create and update Valuecase spaces. |
 | `vani` | [Vani by Zoho](third_party/vani/) | Productivity | Create diagrams, visualize workflows, and manage Spaces in Vani. |
 | `vanta` | [Vanta](third_party/vanta/) | Security | Review Vanta compliance tests, controls, vendors, and vulnerabilities. |
+| `vasara` | [Vasara](third_party/vasara/) | Legal | Search case law and legislation across Lithuania and the EU, with verifiable citations. |
 | `veltra-activities` | [Veltra Activities](third_party/veltra-activities/) | Travel | Design the genuine experiences of tomorrow. |
 | `vercel` | [Vercel](third_party/vercel/) | Hosting | Inspect Vercel projects, deployments, and build logs, and search Vercel docs. |
 | `verisk-underwriting` | [Verisk Underwriting Intelligence](third_party/verisk-underwriting/) | Finance | Ask questions. Get underwriting insights from Verisk. |
@@ -605,8 +689,10 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `vertiso-memory` | [Vertiso Memory](third_party/vertiso-memory/) | Developer Tools | Portable, durable memory for every AI agent you use. |
 | `vianexus-vast` | [viaNexus vAST](third_party/vianexus-vast/) | Communication | Power AI workflows with viaNexus: a financial data marketplace delivering prices, news, fundamentals, and global macro economic data directly from trusted provider partners. |
 | `viator` | [Viator](third_party/viator/) | Productivity | Book travel experiences around the world. |
+| `vibe-ai` | [Vibe AI](third_party/vibe-ai/) | Productivity | Transcripts, summaries, action items, and memos from your Vibe Bot and Vibe Dot meetings. |
 | `viberate-music-data` | [Viberate music data](third_party/viberate-music-data/) | Media | Music industry data inside Claude — artists, tracks, festivals, charts. |
 | `vidiq` | [vidIQ](third_party/vidiq/) | Media | Research and create for YouTube, Instagram & TikTok. |
+| `voluum` | [Voluum](third_party/voluum/) | Analytics | Manage and analyze your Voluum ad-tracking campaigns directly from Claude. |
 | `vuetify-mcp` | [Vuetify MCP](third_party/vuetify-mcp/) | Developer Tools | Official Vuetify docs, APIs, and bins for AI agents. |
 | `wealth-com` | [Wealth.com](third_party/wealth-com/) | Analytics | Bring your clients' estate plans, tax returns, and documents into Claude — with instant snapshots, risk analysis, and advisor-ready summaries. |
 | `wealthbox` | [Wealthbox](third_party/wealthbox/) | Finance | Search, update, and manage Wealthbox data from inside Claude. |
@@ -627,6 +713,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `within` | [Within](third_party/within/) | Productivity | Explore your org's processes. |
 | `wix` | [Wix](third_party/wix/) | CMS | Manage and build sites and apps on Wix. |
 | `wolfram` | [Wolfram](third_party/wolfram/) | Education | Inject precise, real-time computation and knowledge. |
+| `wonder` | [Wonder](third_party/wonder/) | Design | Create and edit designs with Claude on a canvas where every design is real code. |
 | `wordpress-com` | [WordPress.com](third_party/wordpress-com/) | Productivity | Secure AI access to manage your WordPress.com sites. |
 | `workable` | [Workable](third_party/workable/) | Productivity | Your AI assistant for Hiring and HR — inside Workable. |
 | `workos` | [WorkOS](third_party/workos/) | Developer Tools | Manage your WorkOS workspace from Claude. |
@@ -643,6 +730,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `zoho-crm` | [Zoho CRM](third_party/zoho-crm/) | Productivity | MCP Server for Zoho CRM Workflows. |
 | `zoho-desk` | [Zoho Desk](third_party/zoho-desk/) | Communication | Zoho Desk MCP for Customer Support Automation. |
 | `zoho-projects` | [Zoho Projects](third_party/zoho-projects/) | Productivity | Zoho Projects MCP for Task & Project Automation. |
+| `zoho-show` | [Zoho Show](third_party/zoho-show/) | Communication | Create, edit and manage presentation decks. |
 | `zomato` | [Zomato](third_party/zomato/) | Commerce | Fast & easy online food ordering and delivery service. |
 | `zoom` | [Zoom](third_party/zoom/) | Productivity | Search, recap, and act on your Zoom meetings. |
 | `zoominfo` | [ZoomInfo](third_party/zoominfo/) | Productivity | Search ZoomInfo companies and contacts. |

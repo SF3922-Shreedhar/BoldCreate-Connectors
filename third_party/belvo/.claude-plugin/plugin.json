@@ -1,0 +1,24 @@
+{
+  "name": "belvo",
+  "displayName": "Belvo MCP",
+  "version": "0.7.1",
+  "description": "Understand your finances on your own terms.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://belvo.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "belvo",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "belvo": {
+      "type": "http",
+      "url": "https://panorama-mcp.belvo.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cotality-mcp-server": {
+      "type": "http",
+      "url": "https://mcp.cotality.com/mcp"
+    }
+  }
+}

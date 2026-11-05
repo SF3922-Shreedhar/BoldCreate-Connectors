@@ -1,0 +1,24 @@
+{
+  "name": "chatbase",
+  "displayName": "Chatbase",
+  "version": "0.7.1",
+  "description": "Manage Chatbase agents, sources, conversations, tickets.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.chatbase.co/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "chatbase",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "chatbase": {
+      "type": "http",
+      "url": "https://mcp.chatbase.co/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "pine-labs-payments-assista",
+  "displayName": "Pine Labs Payments Assistant",
+  "version": "0.7.1",
+  "description": "Query your Pine Labs payments data in plain language — orders, transactions, settlements, subscriptions and success rates, plus integration help for developers.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.pinelabs.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "pine-labs-payments-assista",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "pine-labs-payments-assista": {
+      "type": "http",
+      "url": "https://mcp.pinelabs.com/mcp"
+    }
+  }
+}
