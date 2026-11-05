@@ -31,7 +31,7 @@ The first time the agent calls a tool, each member signs in to Planday in the br
 
 ## Docs
 
-- Planday: https://planday.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Planday: https://planday.com/
 
 ## Logo
 

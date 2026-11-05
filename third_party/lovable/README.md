@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Lovable: https://www.lovable.dev/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Lovable: https://www.lovable.dev/
 
 ## Logo
 

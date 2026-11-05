@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- PitchBook Premium: https://www.pitchbook.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- PitchBook Premium: https://www.pitchbook.com/
 
 ## Logo
 

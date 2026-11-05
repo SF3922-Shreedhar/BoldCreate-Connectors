@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Bloomberg Law: https://www.bloombergindustry.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Bloomberg Law: https://www.bloombergindustry.com/
 
 ## Logo
 

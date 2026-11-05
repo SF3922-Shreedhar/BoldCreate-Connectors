@@ -31,7 +31,7 @@ The first time the agent calls a tool, each member signs in to Loopio in the bro
 
 ## Docs
 
-- Loopio: https://loopio.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Loopio: https://loopio.com/
 
 ## Logo
 

@@ -31,7 +31,7 @@ The first time the agent calls a tool, each member signs in to Bitmovin in the b
 
 ## Docs
 
-- Bitmovin: https://bitmovin.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Bitmovin: https://bitmovin.com/
 
 ## Logo
 

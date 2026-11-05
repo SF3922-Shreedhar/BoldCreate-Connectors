@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Gainsight (Staircase AI): https://www.gainsight.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Gainsight (Staircase AI): https://www.gainsight.com/
 
 ## Logo
 

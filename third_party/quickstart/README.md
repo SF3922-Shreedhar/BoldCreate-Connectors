@@ -31,7 +31,7 @@ The first time the agent calls a tool, each member signs in to QuickStart in the
 
 ## Docs
 
-- QuickStart: https://www.netsuite.com/quickstart.shtml (vendor homepage; the sandbox could not load it, so the link is not verified)
+- QuickStart: https://www.netsuite.com/quickstart.shtml
 
 ## Logo
 

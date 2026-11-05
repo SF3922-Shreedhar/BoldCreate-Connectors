@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- CData Connect AI: https://www.cdata.com/ai (vendor homepage; the sandbox could not load it, so the link is not verified)
+- CData Connect AI: https://www.cdata.com/ai
 
 ## Logo
 

@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Jobber: https://www.getjobber.com/?utm_source=anthropic&utm_medium=organic&utm_campaign=directory-listing (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Jobber: https://www.getjobber.com/?utm_source=anthropic&utm_medium=organic&utm_campaign=directory-listing
 
 ## Logo
 

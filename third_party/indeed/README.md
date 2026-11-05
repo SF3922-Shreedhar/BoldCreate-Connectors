@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Indeed: https://www.indeed.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Indeed: https://www.indeed.com/
 
 ## Logo
 

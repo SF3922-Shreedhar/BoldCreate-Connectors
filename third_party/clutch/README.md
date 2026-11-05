@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous initialize 
 
 ## Docs
 
-- Clutch.co: https://clutch.co/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Clutch.co: https://clutch.co/
 
 ## Logo
 

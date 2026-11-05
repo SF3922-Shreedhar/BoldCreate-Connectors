@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- BrightHire: https://brighthire.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- BrightHire: https://brighthire.com/
 
 ## Logo
 

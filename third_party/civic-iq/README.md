@@ -31,7 +31,7 @@ The first time the agent calls a tool, each member signs in to Civic IQ in the b
 
 ## Docs
 
-- Civic IQ: https://civiciq.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Civic IQ: https://civiciq.com/
 
 ## Logo
 

@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- LawVu: https://lawvu.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- LawVu: https://lawvu.com/
 
 ## Logo
 

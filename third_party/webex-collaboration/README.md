@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous request ret
 
 ## Docs
 
-- Webex for Claude: https://cisco.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Webex for Claude: https://cisco.com/
 
 ## Logo
 

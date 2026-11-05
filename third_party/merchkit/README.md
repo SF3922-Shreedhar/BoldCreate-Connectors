@@ -31,7 +31,7 @@ The first time the agent calls a tool, each member signs in to Merchkit in the b
 
 ## Docs
 
-- Merchkit: https://merchkit.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Merchkit: https://merchkit.com/
 
 ## Logo
 

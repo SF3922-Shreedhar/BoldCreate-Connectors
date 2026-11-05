@@ -33,7 +33,7 @@ The endpoint comes from the Claude connector directory. An anonymous initialize 
 
 ## Docs
 
-- Shutterstock: https://www.shutterstock.com/ (vendor homepage; the sandbox could not load it, so the link is not verified)
+- Shutterstock: https://www.shutterstock.com/
 
 ## Logo
 
