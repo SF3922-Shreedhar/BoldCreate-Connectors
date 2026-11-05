@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "agri-mcp-tcit-cl",
+  "displayName": "agri-mcp.tcit.cl",
+  "version": "0.7.1",
+  "description": "Manage farm operations in AGRI: labor tasks, harvest, irrigation, inventory, purchasing and cost reports.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.agri.so/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "analytics",
+  "keywords": [
+    "agri-mcp-tcit-cl",
+    "analytics",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://www.agri.so/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "agri-mcp-tcit-cl",
+        "transport": "streamable-http",
+        "url": "https://agri-mcp.tcit.cl/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

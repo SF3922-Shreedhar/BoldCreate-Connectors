@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trustfull": {
+      "type": "http",
+      "url": "https://mcp.trustfull.com/connector"
+    }
+  }
+}

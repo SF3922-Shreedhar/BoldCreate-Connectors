@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aditus-evo": {
+      "type": "http",
+      "url": "https://mcp.aditus.com/mcp"
+    }
+  }
+}

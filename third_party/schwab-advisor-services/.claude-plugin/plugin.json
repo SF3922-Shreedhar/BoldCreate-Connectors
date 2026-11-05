@@ -1,0 +1,24 @@
+{
+  "name": "schwab-advisor-services",
+  "displayName": "Schwab Advisor Services",
+  "version": "0.7.1",
+  "description": "Less time searching. More time focused on your clients. For professional use only.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://advisorservices.schwab.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "schwab-advisor-services",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "schwab-advisor-services": {
+      "type": "http",
+      "url": "https://agent.schwabinstitutional.com/mcp"
+    }
+  }
+}

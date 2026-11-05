@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "promptless",
+  "displayName": "Promptless",
+  "version": "0.7.1",
+  "description": "Search, read, and edit your documentation.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://promptless.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "keywords": [
+    "promptless",
+    "developer-tools",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://promptless.ai/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "promptless",
+        "transport": "streamable-http",
+        "url": "https://api.gopromptless.ai/mcp/with-direct-edits",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

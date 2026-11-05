@@ -1,0 +1,28 @@
+{
+  "name": "agri-mcp-tcit-cl",
+  "displayName": "agri-mcp.tcit.cl",
+  "version": "0.7.1",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Manage farm operations in AGRI: labor tasks, harvest, irrigation, inventory, purchasing and cost reports.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.agri.so/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "agri-mcp-tcit-cl",
+    "analytics",
+    "mcp"
+  ],
+  "category": "analytics",
+  "tags": [
+    "analytics",
+    "mcp",
+    "http"
+  ],
+  "mcpServers": "./mcp.json"
+}

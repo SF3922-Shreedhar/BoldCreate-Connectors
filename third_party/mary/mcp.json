@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mary": {
+      "type": "http",
+      "url": "https://mcp.us.marytechnology.com/mcp"
+    }
+  }
+}

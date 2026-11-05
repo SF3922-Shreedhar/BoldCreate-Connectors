@@ -1,0 +1,24 @@
+{
+  "name": "datagpt-prophecy",
+  "displayName": "Prophecy DataGPT",
+  "version": "0.7.1",
+  "description": "Governed data work for business teams, right in Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.prophecy.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "datagpt-prophecy",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "datagpt-prophecy": {
+      "type": "http",
+      "url": "https://app.prophecy.ai/datagpt/mcp"
+    }
+  }
+}

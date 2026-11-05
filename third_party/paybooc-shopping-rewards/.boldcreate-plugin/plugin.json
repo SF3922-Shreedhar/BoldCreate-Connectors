@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "paybooc-shopping-rewards",
+  "displayName": "Paybooc",
+  "version": "0.7.1",
+  "description": "Paybooc Shopping Rewards links and reward rates for partner online stores.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.bccard.com/app/card/MainActn.do",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "commerce",
+  "keywords": [
+    "paybooc-shopping-rewards",
+    "commerce",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://www.bccard.com/app/card/MainActn.do",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "paybooc-shopping-rewards",
+        "transport": "streamable-http",
+        "url": "https://open.paybooc.co.kr/pybc/api/mcp/shopping/claude",
+        "auth": {
+          "type": "none",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP initialize and tools/list on 2026-11-05: HTTP 200 with a tool list, no sign-in asked; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

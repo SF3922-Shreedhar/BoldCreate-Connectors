@@ -1,0 +1,24 @@
+{
+  "name": "pointone",
+  "displayName": "PointOne",
+  "version": "0.7.1",
+  "description": "Timekeeping and firm intelligence.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://pointone.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "pointone",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "pointone": {
+      "type": "http",
+      "url": "https://mcp.pointone.com/mcp"
+    }
+  }
+}

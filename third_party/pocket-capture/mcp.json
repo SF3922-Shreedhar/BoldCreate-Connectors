@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pocket-capture": {
+      "type": "http",
+      "url": "https://mcp.mojosystems.io/mcp"
+    }
+  }
+}

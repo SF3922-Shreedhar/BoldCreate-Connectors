@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "printdotcom": {
+      "type": "http",
+      "url": "https://mcp.print.com/"
+    }
+  }
+}

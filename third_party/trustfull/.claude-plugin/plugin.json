@@ -1,0 +1,24 @@
+{
+  "name": "trustfull",
+  "displayName": "Trustfull",
+  "version": "0.7.1",
+  "description": "Bring Trustfull fraud intelligence and risk assessments into Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.trustfull.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "trustfull",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "trustfull": {
+      "type": "http",
+      "url": "https://mcp.trustfull.com/connector"
+    }
+  }
+}

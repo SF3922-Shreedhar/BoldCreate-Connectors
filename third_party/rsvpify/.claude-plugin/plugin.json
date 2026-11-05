@@ -1,0 +1,24 @@
+{
+  "name": "rsvpify",
+  "displayName": "RSVPify",
+  "version": "0.7.1",
+  "description": "Run your event operations in RSVPify, end-to-end.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://rsvpify.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "rsvpify",
+    "communication",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "rsvpify": {
+      "type": "http",
+      "url": "https://mcp.rsvpify.com/"
+    }
+  }
+}

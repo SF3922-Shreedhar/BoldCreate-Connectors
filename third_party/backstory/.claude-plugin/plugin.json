@@ -1,0 +1,24 @@
+{
+  "name": "backstory",
+  "displayName": "Backstory",
+  "version": "0.7.1",
+  "description": "Get answers on every deal.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.backstory.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "backstory",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "backstory": {
+      "type": "http",
+      "url": "https://mcp.backstory.ai/mcp"
+    }
+  }
+}

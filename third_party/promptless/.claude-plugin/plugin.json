@@ -1,0 +1,24 @@
+{
+  "name": "promptless",
+  "displayName": "Promptless",
+  "version": "0.7.1",
+  "description": "Search, read, and edit your documentation.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://promptless.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "promptless",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "promptless": {
+      "type": "http",
+      "url": "https://api.gopromptless.ai/mcp/with-direct-edits"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "nevis",
+  "displayName": "Nevis",
+  "version": "0.7.1",
+  "description": "The AI platform for wealth management.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.neviswealth.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "nevis",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "nevis": {
+      "type": "http",
+      "url": "https://app.neviswealth.com/mcp"
+    }
+  }
+}

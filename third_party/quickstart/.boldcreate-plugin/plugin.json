@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "quickstart",
+  "displayName": "QuickStart",
+  "version": "0.7.1",
+  "description": "AI-powered accounting.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.netsuite.com/quickstart.shtml",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "finance",
+  "keywords": [
+    "quickstart",
+    "finance",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://www.netsuite.com/quickstart.shtml",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "quickstart",
+        "transport": "streamable-http",
+        "url": "https://my.quickstartapi.netsuite.com/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

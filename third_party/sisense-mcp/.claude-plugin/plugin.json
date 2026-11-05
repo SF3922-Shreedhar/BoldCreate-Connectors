@@ -1,0 +1,24 @@
+{
+  "name": "sisense-mcp",
+  "displayName": "Sisense MCP",
+  "version": "0.7.1",
+  "description": "Ask your Sisense natural language questions, get visuals and insights.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://sisense.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "sisense-mcp",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "sisense-mcp": {
+      "type": "http",
+      "url": "https://mcp.sisense.com/mcp"
+    }
+  }
+}

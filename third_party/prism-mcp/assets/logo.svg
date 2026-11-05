@@ -1,0 +1,10 @@
+<svg width="96" height="96" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Revalidata">
+  <rect width="64" height="64" rx="15" fill="#0f172a"/>
+  <path d="M3 35.5L20 31" stroke="#f5f3ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 10L56 52H8Z" stroke="#f5f3ff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 31L29 32.5" stroke="#f5f3ff" stroke-width="2" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29 32.5L42.1 27.6M29 32.5L44.5 31.8M29 32.5L46.9 36" stroke="#ddd6fe" stroke-width="1.8" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42.1 27.6L61 20.5" stroke="#ffc83d" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44.5 31.8L61 31.1" stroke="#a78bfa" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46.9 36L61 38.8" stroke="#f5f3ff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

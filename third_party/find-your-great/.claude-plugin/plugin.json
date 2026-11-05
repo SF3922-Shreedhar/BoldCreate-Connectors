@@ -1,0 +1,24 @@
+{
+  "name": "find-your-great",
+  "displayName": "Find Your Great",
+  "version": "0.7.1",
+  "description": "Understand your work impact — ask about what you actually did, decided, and changed.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://findyourgreat.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "find-your-great",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "find-your-great": {
+      "type": "http",
+      "url": "https://findyourgreat.com/mcp/v1"
+    }
+  }
+}

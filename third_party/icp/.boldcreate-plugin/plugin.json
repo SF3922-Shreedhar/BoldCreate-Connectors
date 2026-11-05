@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "icp",
+  "displayName": "Internet Computer",
+  "version": "0.7.1",
+  "description": "Ask questions and perform actions across Internet Computer (ICP) apps using your Internet Identity.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://dfinity.org/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "productivity",
+  "keywords": [
+    "icp",
+    "productivity",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://dfinity.org/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "icp",
+        "transport": "streamable-http",
+        "url": "https://mcp.internetcomputer.org/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

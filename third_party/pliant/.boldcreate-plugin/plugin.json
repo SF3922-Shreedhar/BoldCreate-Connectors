@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "pliant",
+  "displayName": "Pliant",
+  "version": "0.7.1",
+  "description": "Query and manage your Pliant corporate spend, cards, team, and accounting directly in Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.getpliant.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "finance",
+  "keywords": [
+    "pliant",
+    "finance",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://www.getpliant.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "pliant",
+        "transport": "streamable-http",
+        "url": "https://mcp.getpliant.com/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

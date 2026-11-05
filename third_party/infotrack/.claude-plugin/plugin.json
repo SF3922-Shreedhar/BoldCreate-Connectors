@@ -1,0 +1,24 @@
+{
+  "name": "infotrack",
+  "displayName": "InfoTrack",
+  "version": "0.7.1",
+  "description": "Australian legal, property and compliance searches.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.infotrack.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "infotrack",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "infotrack": {
+      "type": "http",
+      "url": "https://mcp.infotrack.ai/servers/infotrack-all/mcp"
+    }
+  }
+}

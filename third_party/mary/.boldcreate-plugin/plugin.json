@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "mary",
+  "displayName": "Mary",
+  "version": "0.7.1",
+  "description": "Organise, extract, draft, and verify the facts of your matter.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://marytechnology.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "legal",
+  "keywords": [
+    "mary",
+    "legal",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://marytechnology.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "mary",
+        "transport": "streamable-http",
+        "url": "https://mcp.us.marytechnology.com/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

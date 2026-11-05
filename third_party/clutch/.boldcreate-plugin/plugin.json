@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "clutch",
+  "displayName": "Clutch.co",
+  "version": "0.7.1",
+  "description": "Find the perfect B2B company with verified client reviews.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://clutch.co/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "productivity",
+  "keywords": [
+    "clutch",
+    "productivity",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://clutch.co/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "clutch",
+        "transport": "streamable-http",
+        "url": "https://bot.clutch.co/mcp",
+        "auth": {
+          "type": "none",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP initialize and tools/list on 2026-11-05: HTTP 200 with a tool list, no sign-in asked; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

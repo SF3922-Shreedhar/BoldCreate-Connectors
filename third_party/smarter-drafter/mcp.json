@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "smarter-drafter": {
+      "type": "http",
+      "url": "https://mcp.smarterdrafter.com/"
+    }
+  }
+}

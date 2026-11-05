@@ -1,0 +1,24 @@
+{
+  "name": "trussi-ai",
+  "displayName": "Trussi AI",
+  "version": "0.7.1",
+  "description": "Bring your Trussi roofing CRM into Claude - find projects and customers, track pipeline and schedules, pull dashboards and reports, and log updates without leaving the chat.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://trussi.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "trussi-ai",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "trussi-ai": {
+      "type": "http",
+      "url": "https://my.trussi.ai/api/mcp/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "wisdom",
+  "displayName": "WisdomAI",
+  "version": "0.7.1",
+  "description": "Trustworthy answers from your governed enterprise data.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.wisdom.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "wisdom",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "wisdom": {
+      "type": "http",
+      "url": "https://mcp.wisdom.ai/mcp"
+    }
+  }
+}

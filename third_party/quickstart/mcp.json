@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quickstart": {
+      "type": "http",
+      "url": "https://my.quickstartapi.netsuite.com/mcp"
+    }
+  }
+}

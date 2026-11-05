@@ -1,0 +1,24 @@
+{
+  "name": "plotly-cloud",
+  "displayName": "Plotly Cloud",
+  "version": "0.7.1",
+  "description": "Build and deploy Plotly Dash apps to Plotly Cloud from a conversation with Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://plotly.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "plotly-cloud",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "plotly-cloud": {
+      "type": "http",
+      "url": "https://cloud.plotly.com/_mcp"
+    }
+  }
+}

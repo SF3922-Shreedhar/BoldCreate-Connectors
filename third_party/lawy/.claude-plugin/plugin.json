@@ -1,0 +1,24 @@
+{
+  "name": "lawy",
+  "displayName": "LawY",
+  "version": "0.7.1",
+  "description": "Efficiently work with your legal matters and documents from within Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.lawy.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "lawy",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "lawy": {
+      "type": "http",
+      "url": "https://mcp.connected-agents.lawy.ai/mcp"
+    }
+  }
+}

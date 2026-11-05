@@ -1,0 +1,24 @@
+{
+  "name": "ample-computer",
+  "displayName": "Ample Computer",
+  "version": "0.7.1",
+  "description": "Deploy apps, databases and storage from Claude and get a live URL, with no servers or cloud console to set up.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://ample.computer/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "ample-computer",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "ample-computer": {
+      "type": "http",
+      "url": "https://api.ample.computer/mcp"
+    }
+  }
+}

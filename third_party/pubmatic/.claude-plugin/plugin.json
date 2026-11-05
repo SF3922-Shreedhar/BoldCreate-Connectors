@@ -1,0 +1,24 @@
+{
+  "name": "pubmatic",
+  "displayName": "PubMatic",
+  "version": "0.7.1",
+  "description": "Manage campaigns, deals, reporting, and inventory in PubMatic directly from Claude using natural language.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://pubmatic.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "pubmatic",
+    "media",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "pubmatic": {
+      "type": "http",
+      "url": "https://mcp.pubmatic.com/mcp"
+    }
+  }
+}

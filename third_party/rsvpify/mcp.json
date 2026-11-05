@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rsvpify": {
+      "type": "http",
+      "url": "https://mcp.rsvpify.com/"
+    }
+  }
+}

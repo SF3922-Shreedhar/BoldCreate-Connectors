@@ -1,0 +1,24 @@
+{
+  "name": "steadybit",
+  "displayName": "Steadybit",
+  "version": "0.7.1",
+  "description": "Find reliability risks in your systems: design, run, and analyze chaos experiments.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://steadybit.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "steadybit",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "steadybit": {
+      "type": "http",
+      "url": "https://platform.steadybit.com/mcp/demo"
+    }
+  }
+}

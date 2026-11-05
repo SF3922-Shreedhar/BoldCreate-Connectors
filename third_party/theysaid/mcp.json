@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "theysaid": {
+      "type": "http",
+      "url": "https://ai.theysaid.io/api/mcp"
+    }
+  }
+}

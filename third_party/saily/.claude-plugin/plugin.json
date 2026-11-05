@@ -1,0 +1,24 @@
+{
+  "name": "saily",
+  "displayName": "Saily",
+  "version": "0.7.1",
+  "description": "Browse and buy eSIM data plans for 190+ countries.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://nordsecurity.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "saily",
+    "communication",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "saily": {
+      "type": "http",
+      "url": "https://mcp.saily.com/mcp"
+    }
+  }
+}

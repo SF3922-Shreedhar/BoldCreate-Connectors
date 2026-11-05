@@ -1,0 +1,24 @@
+{
+  "name": "robutler",
+  "displayName": "Robutler",
+  "version": "0.7.1",
+  "description": "Build, remix, and run apps with agents, together.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://robutler.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "robutler",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "robutler": {
+      "type": "http",
+      "url": "https://robutler.ai/mcp"
+    }
+  }
+}

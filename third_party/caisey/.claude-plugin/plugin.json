@@ -1,0 +1,24 @@
+{
+  "name": "caisey",
+  "displayName": "CAISey",
+  "version": "0.7.1",
+  "description": "CAISey gives CAIS platform users access to alternative investment products data made available on the platform.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.caisgroup.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "caisey",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "caisey": {
+      "type": "http",
+      "url": "https://mcp.caisgroup.com/mcp"
+    }
+  }
+}

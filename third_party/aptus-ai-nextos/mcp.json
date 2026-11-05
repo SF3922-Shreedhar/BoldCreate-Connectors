@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aptus-ai-nextos": {
+      "type": "http",
+      "url": "https://legalmcp.next.aptus.ai/mcp"
+    }
+  }
+}

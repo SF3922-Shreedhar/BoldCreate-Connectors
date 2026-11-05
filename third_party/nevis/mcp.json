@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nevis": {
+      "type": "http",
+      "url": "https://app.neviswealth.com/mcp"
+    }
+  }
+}

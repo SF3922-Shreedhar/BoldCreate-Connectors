@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "lawy",
+  "displayName": "LawY",
+  "version": "0.7.1",
+  "description": "Efficiently work with your legal matters and documents from within Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.lawy.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "legal",
+  "keywords": [
+    "lawy",
+    "legal",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://www.lawy.ai/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "lawy",
+        "transport": "streamable-http",
+        "url": "https://mcp.connected-agents.lawy.ai/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

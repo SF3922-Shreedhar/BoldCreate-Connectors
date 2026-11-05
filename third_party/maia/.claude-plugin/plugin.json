@@ -1,0 +1,24 @@
+{
+  "name": "maia",
+  "displayName": "MAIA",
+  "version": "0.7.1",
+  "description": "The geospatial research engine: get answers from the physical world, built as map and table datasets.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.maia-analytics.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "maia",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "maia": {
+      "type": "http",
+      "url": "https://api.maia-analytics.com/mcp"
+    }
+  }
+}

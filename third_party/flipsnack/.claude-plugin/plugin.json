@@ -1,0 +1,24 @@
+{
+  "name": "flipsnack",
+  "displayName": "Flipsnack",
+  "version": "0.7.1",
+  "description": "Find, create, update, share, embed, and get analytics for the flipbooks in your Flipsnack account.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.flipsnack.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "flipsnack",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "flipsnack": {
+      "type": "http",
+      "url": "https://mcp.flipsnack.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "theysaid",
+  "displayName": "Theysaid",
+  "version": "0.7.1",
+  "description": "Run AI-powered usability tests on any live app, prototype, or design and get actionable insights, all from your chat.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.theysaid.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "theysaid",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "theysaid": {
+      "type": "http",
+      "url": "https://ai.theysaid.io/api/mcp"
+    }
+  }
+}

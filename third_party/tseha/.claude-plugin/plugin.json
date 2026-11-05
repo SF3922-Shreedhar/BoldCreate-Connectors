@@ -1,0 +1,24 @@
+{
+  "name": "tseha",
+  "displayName": "Tseha.io",
+  "version": "0.7.1",
+  "description": "Your coding standards, live in Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://tseha.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "tseha",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "tseha": {
+      "type": "http",
+      "url": "https://tseha.io/mcp"
+    }
+  }
+}

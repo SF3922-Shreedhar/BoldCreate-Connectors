@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "migma",
+  "displayName": "Migma",
+  "version": "0.7.1",
+  "description": "Run your entire email marketing from Claude. Migma designs on-brand campaigns, sends when you approve, and gets better with every send.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://migma.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "design",
+  "keywords": [
+    "migma",
+    "design",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://migma.ai/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "migma",
+        "transport": "streamable-http",
+        "url": "https://migma.ai/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

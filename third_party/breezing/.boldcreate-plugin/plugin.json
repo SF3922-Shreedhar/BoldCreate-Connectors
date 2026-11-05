@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "breezing",
+  "displayName": "Breezing",
+  "version": "0.7.1",
+  "description": "Crypto accounting for Xero, QuickBooks and Bexio Alternative: Categorize, reconcile and book crypto in your ledger.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://breezing.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "developer-tools",
+  "keywords": [
+    "breezing",
+    "developer-tools",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://breezing.io/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "breezing",
+        "transport": "streamable-http",
+        "url": "https://mcp.breezing.io/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

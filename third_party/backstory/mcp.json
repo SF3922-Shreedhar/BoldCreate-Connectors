@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "backstory": {
+      "type": "http",
+      "url": "https://mcp.backstory.ai/mcp"
+    }
+  }
+}

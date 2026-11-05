@@ -1,0 +1,24 @@
+{
+  "name": "merchkit",
+  "displayName": "Merchkit",
+  "version": "0.7.1",
+  "description": "AI-Native Product Catalog (PIM / PXM / Product Feed / Agentic Commerce Optimization).",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://merchkit.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "merchkit",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "merchkit": {
+      "type": "http",
+      "url": "https://www.merchkit.com/api/mcp"
+    }
+  }
+}
