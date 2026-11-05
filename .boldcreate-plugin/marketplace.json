@@ -687,7 +687,7 @@
       "version": "0.7.1",
       "description": "Integrate with the Airwallex Platform using Claude.",
       "source": "third_party/airwallex",
-      "logo": "third_party/airwallex/assets/logo.svg",
+      "logo": "third_party/airwallex/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -11463,7 +11463,7 @@
       "version": "0.7.1",
       "description": "Structured credit insights and analytics.",
       "source": "third_party/morningstar-credit",
-      "logo": "third_party/morningstar-credit/assets/logo.svg",
+      "logo": "third_party/morningstar-credit/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -11487,7 +11487,7 @@
       "version": "0.7.1",
       "description": "India's official statistics via natural language.",
       "source": "third_party/mospi",
-      "logo": "third_party/mospi/assets/logo.svg",
+      "logo": "third_party/mospi/assets/logo.png",
       "category": "analytics",
       "components": [
         "mcp"
@@ -12951,7 +12951,7 @@
       "version": "0.7.1",
       "description": "Make Claude your Paytm Payments assistant.",
       "source": "third_party/paytm-for-business",
-      "logo": "third_party/paytm-for-business/assets/logo.svg",
+      "logo": "third_party/paytm-for-business/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -16143,7 +16143,7 @@
       "version": "0.7.1",
       "description": "Manage your Stytch Project.",
       "source": "third_party/stytch",
-      "logo": "third_party/stytch/assets/logo.svg",
+      "logo": "third_party/stytch/assets/logo.png",
       "category": "developer-tools",
       "components": [
         "mcp"
@@ -16479,7 +16479,7 @@
       "version": "0.7.1",
       "description": "Search and metadata tools for Synapse scientific data.",
       "source": "third_party/synapse-org",
-      "logo": "third_party/synapse-org/assets/logo.svg",
+      "logo": "third_party/synapse-org/assets/logo.png",
       "category": "science",
       "components": [
         "mcp"
@@ -18039,7 +18039,7 @@
       "version": "0.7.1",
       "description": "Ask questions. Get underwriting insights from Verisk.",
       "source": "third_party/verisk-underwriting",
-      "logo": "third_party/verisk-underwriting/assets/logo.svg",
+      "logo": "third_party/verisk-underwriting/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
@@ -18063,7 +18063,7 @@
       "version": "0.7.1",
       "description": "Natural-language estimating for XactRestore.",
       "source": "third_party/verisk-xactrestore",
-      "logo": "third_party/verisk-xactrestore/assets/logo.svg",
+      "logo": "third_party/verisk-xactrestore/assets/logo.png",
       "category": "finance",
       "components": [
         "mcp"
