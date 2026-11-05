@@ -61,7 +61,7 @@ Auth is OAuth 2.0. The first time the agent calls a tool, each member signs in t
 
 ## Logo
 
-BoldDesk icon from the vendor's developer site (developer.bolddesk.com). It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
+BoldDesk icon from the vendor's developer site (developer.bolddesk.com), trimmed to the visible mark. It is the vendor's own icon and a trademark of its owner. It is not covered by the MIT licence.
 
 ## License
 
