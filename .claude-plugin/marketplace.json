@@ -443,6 +443,11 @@
       "description": "Calm board-defense guidance for licensed pros."
     },
     {
+      "name": "bolddesk",
+      "source": "./third_party/bolddesk",
+      "description": "Create, update and route support tickets, reply to conversations, log work, and search the Knowledge Base in BoldDesk."
+    },
+    {
       "name": "bolna",
       "source": "./third_party/bolna",
       "description": "Manage Bolna voice AI agents and review call history and transcripts from Claude."

@@ -2,7 +2,7 @@
 
 Connectors for BoldCreate Connect, Cursor and Claude Code. Each connector is a plugin under `third_party/` that connects agents to a vendor's remote [Model Context Protocol](https://modelcontextprotocol.io/) server over streamable HTTP.
 
-**Available connectors: 803**
+**Available connectors: 804**
 
 ## Install
 
@@ -103,6 +103,7 @@ Secrets such as API keys are never stored in this repository. Each connector dec
 | `blockscout` | [Blockscout](third_party/blockscout/) | Blockchain | Query Ethereum and EVM blockchains: blocks, transactions, addresses, tokens, and smart contracts. |
 | `bloomberg-law` | [Bloomberg Law](third_party/bloomberg-law/) | Legal | Legal intelligence powered by Bloomberg AI. |
 | `boardwise` | [BoardWise](third_party/boardwise/) | Legal | Calm board-defense guidance for licensed pros. |
+| `bolddesk` | [BoldDesk](third_party/bolddesk/) | Customer Support | Create, update and route support tickets, reply to conversations, log work, and search the Knowledge Base in BoldDesk. |
 | `bolna` | [bolna](third_party/bolna/) | Communication | Manage Bolna voice AI agents and review call history and transcripts from Claude. |
 | `bonsai` | [Bonsai](third_party/bonsai/) | Productivity | Manage your CRM, client projects and invoices from Claude. |
 | `botify-mcp` | [Botify MCP](third_party/botify-mcp/) | Analytics | AI search visibility, from insight to action. |

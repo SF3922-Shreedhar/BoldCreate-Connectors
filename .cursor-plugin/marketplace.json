@@ -443,6 +443,11 @@
       "source": "third_party/boardwise"
     },
     {
+      "name": "bolddesk",
+      "description": "Create, update and route support tickets, reply to conversations, log work, and search the Knowledge Base in BoldDesk.",
+      "source": "third_party/bolddesk"
+    },
+    {
       "name": "bolna",
       "description": "Manage Bolna voice AI agents and review call history and transcripts from Claude.",
       "source": "third_party/bolna"
