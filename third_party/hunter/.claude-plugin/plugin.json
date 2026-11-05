@@ -1,0 +1,25 @@
+{
+  "name": "hunter",
+  "displayName": "Hunter",
+  "version": "0.7.1",
+  "description": "Find and verify professional email addresses with Hunter.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://github.com/hunter-io/claude-plugin",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "hunter",
+    "email",
+    "prospecting",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "hunter": {
+      "type": "http",
+      "url": "https://mcp.hunter.io/mcp"
+    }
+  }
+}
