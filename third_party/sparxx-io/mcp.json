@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sparxx-io": {
+      "type": "http",
+      "url": "https://gateway.sparxx.io/mcp"
+    }
+  }
+}

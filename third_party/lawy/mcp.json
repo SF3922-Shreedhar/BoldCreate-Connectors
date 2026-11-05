@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lawy": {
+      "type": "http",
+      "url": "https://mcp.connected-agents.lawy.ai/mcp"
+    }
+  }
+}

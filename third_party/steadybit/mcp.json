@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "steadybit": {
+      "type": "http",
+      "url": "https://platform.steadybit.com/mcp/demo"
+    }
+  }
+}

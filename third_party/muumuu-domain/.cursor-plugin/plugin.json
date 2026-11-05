@@ -1,0 +1,28 @@
+{
+  "name": "muumuu-domain",
+  "displayName": "MuuMuu Domain byGMO Pepabo",
+  "version": "0.7.1",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "ムームードメインと接続し、ドメインの空き検索・価格確認から購入手続きまでを会話で進められます。決済はムームードメインのサイト上でご自身が完了させる方式です。保有ドメインの一覧・詳細確認、ネームサーバーの確認・変更、DNSレコードの一覧・作成・更新・削除、更新日や自動更新設定の確認・変更にも対応します。.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://muumuu-domain.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "muumuu-domain",
+    "developer-tools",
+    "mcp"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "developer-tools",
+    "mcp",
+    "http"
+  ],
+  "mcpServers": "./mcp.json"
+}

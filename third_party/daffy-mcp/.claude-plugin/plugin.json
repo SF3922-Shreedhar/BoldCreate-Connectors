@@ -1,0 +1,24 @@
+{
+  "name": "daffy-mcp",
+  "displayName": "Daffy MCP",
+  "version": "0.7.1",
+  "description": "Check your Daffy fund, donations and charities.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.daffy.org/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "daffy-mcp",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "daffy-mcp": {
+      "type": "http",
+      "url": "https://public.daffy.org/mcp"
+    }
+  }
+}

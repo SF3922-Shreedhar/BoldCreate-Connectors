@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "insight-timer": {
+      "type": "http",
+      "url": "https://claude-connector-api.insighttimer-api.net/mcp"
+    }
+  }
+}

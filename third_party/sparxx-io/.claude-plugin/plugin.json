@@ -1,0 +1,24 @@
+{
+  "name": "sparxx-io",
+  "displayName": "spArxx.io | Zero-Knowledge Blockchain Timestamping",
+  "version": "0.7.1",
+  "description": "Prove you made it first. Timestamp your creative work on the blockchain via Claude or any MCP-enabled AI agent.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.sparxx.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "sparxx-io",
+    "design",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "sparxx-io": {
+      "type": "http",
+      "url": "https://gateway.sparxx.io/mcp"
+    }
+  }
+}

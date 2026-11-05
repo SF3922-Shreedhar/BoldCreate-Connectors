@@ -1,0 +1,24 @@
+{
+  "name": "paybooc-shopping-rewards",
+  "displayName": "Paybooc",
+  "version": "0.7.1",
+  "description": "Paybooc Shopping Rewards links and reward rates for partner online stores.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.bccard.com/app/card/MainActn.do",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "paybooc-shopping-rewards",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "paybooc-shopping-rewards": {
+      "type": "http",
+      "url": "https://open.paybooc.co.kr/pybc/api/mcp/shopping/claude"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "billingmart",
+  "displayName": "BillingMart",
+  "version": "0.7.1",
+  "description": "BillingMart.com MCP Server- Invoice drafts, estimates, client lookup, expenses, and billing reports.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://billingmart.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "finance",
+  "keywords": [
+    "billingmart",
+    "finance",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://billingmart.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "billingmart",
+        "transport": "streamable-http",
+        "url": "https://api.billingmart.com/mcp",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

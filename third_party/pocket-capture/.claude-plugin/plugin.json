@@ -1,0 +1,24 @@
+{
+  "name": "pocket-capture",
+  "displayName": "Mojo — Pocket Capture",
+  "version": "0.7.1",
+  "description": "Talk to your leads, funnel, and capture setup.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.mojosystems.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "pocket-capture",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "pocket-capture": {
+      "type": "http",
+      "url": "https://mcp.mojosystems.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "mantic",
+  "displayName": "Mantic",
+  "version": "0.7.1",
+  "description": "Explore judgemental forecasts.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.mantic.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "mantic",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "mantic": {
+      "type": "http",
+      "url": "https://api.mantic.com/mcp"
+    }
+  }
+}

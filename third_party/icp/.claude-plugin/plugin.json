@@ -1,0 +1,24 @@
+{
+  "name": "icp",
+  "displayName": "Internet Computer",
+  "version": "0.7.1",
+  "description": "Ask questions and perform actions across Internet Computer (ICP) apps using your Internet Identity.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://dfinity.org/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "icp",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "icp": {
+      "type": "http",
+      "url": "https://mcp.internetcomputer.org/mcp"
+    }
+  }
+}

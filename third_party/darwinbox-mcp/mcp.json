@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "darwinbox-mcp": {
+      "type": "http",
+      "url": "https://mcp.darwinbox.com/mcp/all"
+    }
+  }
+}

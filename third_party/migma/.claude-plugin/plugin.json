@@ -1,0 +1,24 @@
+{
+  "name": "migma",
+  "displayName": "Migma",
+  "version": "0.7.1",
+  "description": "Run your entire email marketing from Claude. Migma designs on-brand campaigns, sends when you approve, and gets better with every send.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://migma.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "migma",
+    "design",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "migma": {
+      "type": "http",
+      "url": "https://migma.ai/mcp"
+    }
+  }
+}

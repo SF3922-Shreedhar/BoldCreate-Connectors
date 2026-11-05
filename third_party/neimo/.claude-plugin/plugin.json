@@ -1,0 +1,24 @@
+{
+  "name": "neimo",
+  "displayName": "neimo.",
+  "version": "0.7.1",
+  "description": "Answer any kids' privacy or age-assurance question for 200+ markets, with the law cited.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://k-id.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "neimo",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "neimo": {
+      "type": "http",
+      "url": "https://mcp.neimo.ai/api/mcp"
+    }
+  }
+}

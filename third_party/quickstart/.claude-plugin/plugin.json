@@ -1,0 +1,24 @@
+{
+  "name": "quickstart",
+  "displayName": "QuickStart",
+  "version": "0.7.1",
+  "description": "AI-powered accounting.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.netsuite.com/quickstart.shtml",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "quickstart",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "quickstart": {
+      "type": "http",
+      "url": "https://my.quickstartapi.netsuite.com/mcp"
+    }
+  }
+}

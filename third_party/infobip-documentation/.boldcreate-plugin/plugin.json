@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "infobip-documentation",
+  "displayName": "Infobip Documentation",
+  "version": "0.7.1",
+  "description": "Search and browse Infobip docs from Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://infobip.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "communication",
+  "keywords": [
+    "infobip-documentation",
+    "communication",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://infobip.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "infobip-documentation",
+        "transport": "streamable-http",
+        "url": "https://mcp.infobip.com/search",
+        "auth": {
+          "type": "none",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP initialize and tools/list on 2026-11-05: HTTP 200 with a tool list, no sign-in asked; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

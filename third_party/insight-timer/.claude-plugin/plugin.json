@@ -1,0 +1,24 @@
+{
+  "name": "insight-timer",
+  "displayName": "Insight Timer",
+  "version": "0.7.1",
+  "description": "Emotional health & sleep.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://insighttimer.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "insight-timer",
+    "health",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "insight-timer": {
+      "type": "http",
+      "url": "https://claude-connector-api.insighttimer-api.net/mcp"
+    }
+  }
+}

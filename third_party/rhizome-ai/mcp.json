@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rhizome-ai": {
+      "type": "http",
+      "url": "https://rhizomeai.com/api/mcp"
+    }
+  }
+}

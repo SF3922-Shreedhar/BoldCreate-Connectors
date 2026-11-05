@@ -1,0 +1,24 @@
+{
+  "name": "chaser",
+  "displayName": "Chaser",
+  "version": "0.7.1",
+  "description": "Task management and project tracking inside Slack.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.trychaser.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "chaser",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "chaser": {
+      "type": "http",
+      "url": "https://api.trychaser.com/mcp"
+    }
+  }
+}

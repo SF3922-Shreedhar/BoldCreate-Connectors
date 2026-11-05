@@ -1,0 +1,24 @@
+{
+  "name": "clutch",
+  "displayName": "Clutch.co",
+  "version": "0.7.1",
+  "description": "Find the perfect B2B company with verified client reviews.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://clutch.co/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "clutch",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "clutch": {
+      "type": "http",
+      "url": "https://bot.clutch.co/mcp"
+    }
+  }
+}

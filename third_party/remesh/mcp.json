@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "remesh": {
+      "type": "http",
+      "url": "https://live.remesh.chat/mcp"
+    }
+  }
+}

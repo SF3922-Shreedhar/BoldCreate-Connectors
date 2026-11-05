@@ -1,0 +1,24 @@
+{
+  "name": "billingmart",
+  "displayName": "BillingMart",
+  "version": "0.7.1",
+  "description": "BillingMart.com MCP Server- Invoice drafts, estimates, client lookup, expenses, and billing reports.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://billingmart.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "billingmart",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "billingmart": {
+      "type": "http",
+      "url": "https://api.billingmart.com/mcp"
+    }
+  }
+}

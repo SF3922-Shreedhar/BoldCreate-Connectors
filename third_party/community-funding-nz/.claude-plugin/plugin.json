@@ -1,0 +1,24 @@
+{
+  "name": "community-funding-nz",
+  "displayName": "Community Funding NZ",
+  "version": "0.7.1",
+  "description": "Search 380+ New Zealand community grant funders, with deadlines, priorities and application questions, so your AI can find funders and draft applications.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.alltoohuman.nz/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "community-funding-nz",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "community-funding-nz": {
+      "type": "http",
+      "url": "https://funding.alltoohuman.nz/mcp"
+    }
+  }
+}

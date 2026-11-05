@@ -1,0 +1,24 @@
+{
+  "name": "optilogic",
+  "displayName": "Optilogic",
+  "version": "0.7.1",
+  "description": "AI-driven supply chain design and decision intelligence.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://optilogic.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "optilogic",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "optilogic": {
+      "type": "http",
+      "url": "https://mcp.optilogic.app/mcp"
+    }
+  }
+}

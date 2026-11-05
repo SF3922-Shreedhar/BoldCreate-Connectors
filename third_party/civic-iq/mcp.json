@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "civic-iq": {
+      "type": "http",
+      "url": "https://mcp.civiciq.com/mcp"
+    }
+  }
+}

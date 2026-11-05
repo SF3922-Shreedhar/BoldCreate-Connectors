@@ -1,0 +1,24 @@
+{
+  "name": "remesh",
+  "displayName": "Remesh",
+  "version": "0.7.1",
+  "description": "Research conversations with real people at scale. Design studies, recruit audiences, launch conversations, and explore results without leaving your workflow.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.remesh.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "remesh",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "remesh": {
+      "type": "http",
+      "url": "https://live.remesh.chat/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "pliant",
+  "displayName": "Pliant",
+  "version": "0.7.1",
+  "description": "Query and manage your Pliant corporate spend, cards, team, and accounting directly in Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.getpliant.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "pliant",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "pliant": {
+      "type": "http",
+      "url": "https://mcp.getpliant.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "vylo",
+  "displayName": "Vylo",
+  "version": "0.7.1",
+  "description": "Your meeting memory.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://vylo.one/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "vylo",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "vylo": {
+      "type": "http",
+      "url": "https://mcp.vylo.one/mcp"
+    }
+  }
+}

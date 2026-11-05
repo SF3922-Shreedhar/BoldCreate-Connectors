@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "entendre": {
+      "type": "http",
+      "url": "https://mcp.entendre.finance/api/mcp"
+    }
+  }
+}

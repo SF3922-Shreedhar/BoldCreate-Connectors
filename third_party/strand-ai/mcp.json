@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "strand-ai": {
+      "type": "http",
+      "url": "https://mcp.strandai.com/mcp"
+    }
+  }
+}

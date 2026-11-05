@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schemas/boldcreate-plugin.schema.json",
+  "name": "growsurf",
+  "displayName": "GrowSurf",
+  "version": "0.7.1",
+  "description": "Build and manage GrowSurf referral and affiliate programs with Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://growsurf.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "category": "marketing",
+  "keywords": [
+    "growsurf",
+    "marketing",
+    "mcp"
+  ],
+  "hostedBy": "vendor",
+  "docs": "https://growsurf.com/",
+  "rollout": {
+    "phase": 1,
+    "wave": "B"
+  },
+  "supportedByGateway": true,
+  "variables": {},
+  "components": {
+    "mcp": [
+      {
+        "name": "growsurf",
+        "transport": "streamable-http",
+        "url": "https://mcp.growsurf.com/",
+        "auth": {
+          "type": "oauth",
+          "alternatives": []
+        }
+      }
+    ],
+    "skills": [],
+    "rules": [],
+    "hooks": [],
+    "agents": [],
+    "commands": []
+  },
+  "endpointCheck": {
+    "lastLiveCheck": "2026-11-05",
+    "source": "anonymous MCP request on 2026-11-05: HTTP 401 with OAuth metadata in the challenge; endpoint from the Claude connector directory (claude.com/marketplace/connectors-plugins)"
+  }
+}

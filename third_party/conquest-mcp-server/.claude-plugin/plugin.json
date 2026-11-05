@@ -1,0 +1,24 @@
+{
+  "name": "conquest-mcp-server",
+  "displayName": "Conquest MCP Server",
+  "version": "0.7.1",
+  "description": "Conquest’s verifiable AI financial advice engine in Claude — create plans, review client goals, and apply SAM strategies right where you work.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://conquestplanning.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "conquest-mcp-server",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "conquest-mcp-server": {
+      "type": "http",
+      "url": "https://api.conquest-cloud.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "printdotcom",
+  "displayName": "Print.com",
+  "version": "0.7.1",
+  "description": "Get inspired,configure and price print products from our full catalogue and manage Print.com orders without leaving Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.print.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "printdotcom",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "printdotcom": {
+      "type": "http",
+      "url": "https://mcp.print.com/"
+    }
+  }
+}

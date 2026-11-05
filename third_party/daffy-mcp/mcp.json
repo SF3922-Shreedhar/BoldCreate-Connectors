@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "daffy-mcp": {
+      "type": "http",
+      "url": "https://public.daffy.org/mcp"
+    }
+  }
+}

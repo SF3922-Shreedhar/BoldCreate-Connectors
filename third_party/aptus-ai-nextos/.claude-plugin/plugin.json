@@ -1,0 +1,24 @@
+{
+  "name": "aptus-ai-nextos",
+  "displayName": "Aptus.AI - NextOS",
+  "version": "0.7.1",
+  "description": "Aptus.AI NextOS in your assistant: what a law, regulation or court ruling provides on your point, with quotations and links to the full text on Aptus.AI.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://aptus.ai/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "aptus-ai-nextos",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "aptus-ai-nextos": {
+      "type": "http",
+      "url": "https://legalmcp.next.aptus.ai/mcp"
+    }
+  }
+}

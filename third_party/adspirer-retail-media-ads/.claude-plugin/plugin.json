@@ -1,0 +1,24 @@
+{
+  "name": "adspirer-retail-media-ads",
+  "displayName": "Adspirer Retail Media Ads",
+  "version": "0.7.1",
+  "description": "Retail media agent for Amazon Ads and Walmart Connect — Sponsored Products, Sponsored Brands and Sponsored Display. Plans, launches, and optimizes your retail advertising campaigns with your approval.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.adspirer.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "adspirer-retail-media-ads",
+    "commerce",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "adspirer-retail-media-ads": {
+      "type": "http",
+      "url": "https://mcp.adspirer.com/retail-ads"
+    }
+  }
+}

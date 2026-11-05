@@ -1,0 +1,24 @@
+{
+  "name": "breezing",
+  "displayName": "Breezing",
+  "version": "0.7.1",
+  "description": "Crypto accounting for Xero, QuickBooks and Bexio Alternative: Categorize, reconcile and book crypto in your ledger.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://breezing.io/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "breezing",
+    "developer-tools",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "breezing": {
+      "type": "http",
+      "url": "https://mcp.breezing.io/mcp"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "infobip-documentation",
+  "displayName": "Infobip Documentation",
+  "version": "0.7.1",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Search and browse Infobip docs from Claude.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://infobip.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "infobip-documentation",
+    "communication",
+    "mcp"
+  ],
+  "category": "communication",
+  "tags": [
+    "communication",
+    "mcp",
+    "http"
+  ],
+  "mcpServers": "./mcp.json"
+}

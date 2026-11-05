@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pushwoosh-manymoney": {
+      "type": "http",
+      "url": "https://manymoney.pushwoosh.com/mcp"
+    }
+  }
+}

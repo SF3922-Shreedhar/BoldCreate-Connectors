@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agri-mcp-tcit-cl": {
+      "type": "http",
+      "url": "https://agri-mcp.tcit.cl/mcp"
+    }
+  }
+}

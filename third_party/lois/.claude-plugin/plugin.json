@@ -1,0 +1,24 @@
+{
+  "name": "lois",
+  "displayName": "LOIS",
+  "version": "0.7.1",
+  "description": "Ask questions about your Filevine matter documents and get answers grounded in them.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://filevine.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "lois",
+    "legal",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "lois": {
+      "type": "http",
+      "url": "https://prod-us.lois-connector.filevine.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ratehub-mortgage",
+  "displayName": "Ratehub Mortgage",
+  "version": "0.7.1",
+  "description": "Find and compare Canada’s best mortgage rates.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://www.ratehub.ca/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "ratehub-mortgage",
+    "finance",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "ratehub-mortgage": {
+      "type": "http",
+      "url": "https://api.ratehub.ca/claude-app/mortgages/mcp"
+    }
+  }
+}

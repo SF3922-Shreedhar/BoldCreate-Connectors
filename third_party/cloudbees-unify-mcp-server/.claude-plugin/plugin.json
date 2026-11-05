@@ -1,0 +1,24 @@
+{
+  "name": "cloudbees-unify-mcp-server",
+  "displayName": "CloudBees Unify MCP Server",
+  "version": "0.7.1",
+  "description": "Connect AI agents to CloudBees Unify: feature flags, CI/CD, release orchestration, and security.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://cloudbees.com/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "cloudbees-unify-mcp-server",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.png",
+  "mcpServers": {
+    "cloudbees-unify-mcp-server": {
+      "type": "http",
+      "url": "https://mcp.cloudbees.io/v1/mcp?toolset=all"
+    }
+  }
+}

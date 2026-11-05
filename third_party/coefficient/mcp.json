@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "coefficient": {
+      "type": "http",
+      "url": "https://superagent.app.coefficient.io/mcp"
+    }
+  }
+}

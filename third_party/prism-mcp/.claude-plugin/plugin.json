@@ -1,0 +1,24 @@
+{
+  "name": "prism-mcp",
+  "displayName": "Revalidata Contracts",
+  "version": "0.7.1",
+  "description": "Revalidata – Contract Deadline Reader.",
+  "author": {
+    "name": "Syncfusion"
+  },
+  "homepage": "https://builtai.co/",
+  "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
+  "license": "MIT",
+  "keywords": [
+    "prism-mcp",
+    "analytics",
+    "mcp"
+  ],
+  "icon": "./assets/logo.svg",
+  "mcpServers": {
+    "prism-mcp": {
+      "type": "http",
+      "url": "https://revalidata.com/api/prism-mcp"
+    }
+  }
+}
