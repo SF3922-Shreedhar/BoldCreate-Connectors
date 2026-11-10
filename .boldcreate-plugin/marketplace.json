@@ -15474,7 +15474,9 @@
       "logo": "third_party/slack/assets/logo.svg",
       "category": "productivity",
       "components": [
-        "mcp"
+        "mcp",
+        "skills",
+        "commands"
       ],
       "transports": [
         "streamable-http"

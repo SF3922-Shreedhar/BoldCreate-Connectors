@@ -188,7 +188,9 @@ export function boldcreateManifest({ dir }) {
         return c;
       })
     : [];
-  const kit = mcpPlugin ? { skills: [], agents: [], rules: [], hooks: [] } : kitComponents(dir);
+  // An MCP plugin carries skills and commands only when it ships those folders.
+  const kit = mcpPlugin ? { skills: kitComponents(dir).skills, agents: [], rules: [], hooks: [] } : kitComponents(dir);
+  const commands = mcpPlugin ? filesWith(join(base, "commands"), ".md").map((f) => f.slice(0, -3)) : [];
 
   return {
     $schema: `${"../".repeat(dir.split("/").length + 1)}schemas/boldcreate-plugin.schema.json`,
@@ -216,7 +218,7 @@ export function boldcreateManifest({ dir }) {
       rules: kit.rules,
       hooks: kit.hooks,
       agents: kit.agents,
-      commands: [],
+      commands,
     },
     endpointCheck: meta.endpointCheck ?? null,
   };

@@ -38,11 +38,27 @@
         }
       }
     ],
-    "skills": [],
+    "skills": [
+      "block-kit",
+      "create-slack-app",
+      "deploy-slack-app",
+      "slack-api",
+      "slack-cli",
+      "slack-docs",
+      "slack-messaging",
+      "slack-search",
+      "test-slack-app"
+    ],
     "rules": [],
     "hooks": [],
     "agents": [],
-    "commands": []
+    "commands": [
+      "channel-digest",
+      "draft-announcement",
+      "find-discussions",
+      "standup",
+      "summarize-channel"
+    ]
   },
   "endpointCheck": {
     "lastLiveCheck": "2026-11-10",

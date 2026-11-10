@@ -161,6 +161,12 @@ for (const { name, dir: base } of plugins) {
   const servers = Object.entries(mcp.mcpServers ?? {});
   if (!servers.length) fail(`${base}/mcp.json declares no servers`);
 
+  for (const [key, path] of [["skills", "./skills/"], ["commands", "./commands/"]]) {
+    const has = existsSync(join(root, base, key));
+    if (has && manifest[key] !== path) fail(`${base}: ${key} must be "${path}"`);
+    if (!has && manifest[key] !== undefined) fail(`${base}: ${key} is set but there is no ${key}/ folder`);
+  }
+
   const declared = new Set(Object.keys(manifest.variables?.properties ?? {}));
   const used = new Set();
 

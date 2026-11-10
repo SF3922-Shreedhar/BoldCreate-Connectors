@@ -25,5 +25,7 @@
     "mcp",
     "http"
   ],
-  "mcpServers": "./mcp.json"
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/",
+  "commands": "./commands/"
 }

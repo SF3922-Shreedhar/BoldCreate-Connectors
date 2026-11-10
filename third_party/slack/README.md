@@ -46,6 +46,22 @@ Based on Slack's [MCP server documentation](https://docs.slack.dev/ai/slack-mcp-
 
 **This plugin can change data.** It can post and schedule messages, create channels and conversations, and write canvases, files and lists, all as the signed-in member. Review what the agent is about to do before approving writes.
 
+## Skills and commands
+
+Copied unchanged from the vendor's [Slack plugin](https://github.com/slackapi/slack-skills-plugin) (MIT, commit `99e027a`, v1.7.0).
+
+Skills (loaded on demand): `slack-messaging`, `slack-search`, `slack-api`, `slack-docs`, `slack-cli`, `create-slack-app`, `test-slack-app`, `deploy-slack-app` and `block-kit`.
+
+Commands:
+
+- `/slack:summarize-channel <channel-name>`: summarize recent activity in a channel.
+- `/slack:find-discussions <topic>`: find discussions about a topic across channels.
+- `/slack:draft-announcement <topic>`: draft an announcement and save it as a draft.
+- `/slack:standup`: generate a standup update from your recent Slack activity.
+- `/slack:channel-digest <channel1, channel2, ...>`: digest of recent activity across channels.
+
+The `slack-cli`, `create-slack-app`, `test-slack-app` and `deploy-slack-app` skills run the Slack CLI and, for deploys, the Heroku or Railway CLI on your machine.
+
 ## Permissions
 
 Slack requests these user-token scopes:
