@@ -15468,7 +15468,7 @@
     {
       "name": "slack",
       "displayName": "Slack",
-      "version": "0.7.1",
+      "version": "1.0.0",
       "description": "Search Slack messages, read channels and threads, and find context from your workspace.",
       "source": "third_party/slack",
       "logo": "third_party/slack/assets/logo.svg",

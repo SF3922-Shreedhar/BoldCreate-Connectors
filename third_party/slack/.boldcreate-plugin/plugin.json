@@ -2,7 +2,7 @@
   "$schema": "../../../schemas/boldcreate-plugin.schema.json",
   "name": "slack",
   "displayName": "Slack",
-  "version": "0.7.1",
+  "version": "1.0.0",
   "description": "Search Slack messages, read channels and threads, and find context from your workspace.",
   "author": {
     "name": "Syncfusion"
