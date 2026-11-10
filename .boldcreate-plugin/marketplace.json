@@ -15469,7 +15469,7 @@
       "name": "slack",
       "displayName": "Slack",
       "version": "1.0.0",
-      "description": "Search Slack messages, read channels and threads, and find context from your workspace.",
+      "description": "Search Slack, read channels and threads, send and schedule messages, and work with canvases, files, lists and reactions.",
       "source": "third_party/slack",
       "logo": "third_party/slack/assets/logo.svg",
       "category": "productivity",

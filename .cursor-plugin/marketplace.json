@@ -3229,7 +3229,7 @@
     },
     {
       "name": "slack",
-      "description": "Search Slack messages, read channels and threads, and find context from your workspace.",
+      "description": "Search Slack, read channels and threads, send and schedule messages, and work with canvases, files, lists and reactions.",
       "source": "third_party/slack"
     },
     {

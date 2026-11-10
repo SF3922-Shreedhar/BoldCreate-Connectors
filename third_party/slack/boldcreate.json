@@ -6,9 +6,9 @@
   "auth": "oauth",
   "alternativeAuth": [],
   "hostedBy": "vendor",
-  "docs": "https://github.com/slackapi/slack-mcp-plugin/tree/main",
+  "docs": "https://docs.slack.dev/ai/slack-mcp-server/",
   "endpointCheck": {
-    "lastLiveCheck": null,
-    "source": "vendor plugin repository (slackapi/slack-mcp-plugin at ad6be88)"
+    "lastLiveCheck": "2026-11-10",
+    "source": "vendor docs (docs.slack.dev/ai/slack-mcp-server) and plugin repository (slackapi/slack-skills-plugin at 99e027a, v1.7.0)"
   }
 }

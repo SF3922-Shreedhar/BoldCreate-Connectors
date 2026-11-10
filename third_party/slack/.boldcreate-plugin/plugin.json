@@ -3,11 +3,11 @@
   "name": "slack",
   "displayName": "Slack",
   "version": "1.0.0",
-  "description": "Search Slack messages, read channels and threads, and find context from your workspace.",
+  "description": "Search Slack, read channels and threads, send and schedule messages, and work with canvases, files, lists and reactions.",
   "author": {
     "name": "Syncfusion"
   },
-  "homepage": "https://github.com/slackapi/slack-mcp-plugin/tree/main",
+  "homepage": "https://docs.slack.dev/ai/slack-mcp-server/",
   "repository": "https://github.com/SF3922-Shreedhar/BoldCreate-Connectors",
   "license": "MIT",
   "logo": "assets/logo.svg",
@@ -19,7 +19,7 @@
     "mcp"
   ],
   "hostedBy": "vendor",
-  "docs": "https://github.com/slackapi/slack-mcp-plugin/tree/main",
+  "docs": "https://docs.slack.dev/ai/slack-mcp-server/",
   "rollout": {
     "phase": 1,
     "wave": "A"
@@ -45,7 +45,7 @@
     "commands": []
   },
   "endpointCheck": {
-    "lastLiveCheck": null,
-    "source": "vendor plugin repository (slackapi/slack-mcp-plugin at ad6be88)"
+    "lastLiveCheck": "2026-11-10",
+    "source": "vendor docs (docs.slack.dev/ai/slack-mcp-server) and plugin repository (slackapi/slack-skills-plugin at 99e027a, v1.7.0)"
   }
 }
